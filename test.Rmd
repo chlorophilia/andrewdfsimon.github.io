@@ -1,7 +1,7 @@
 ---
 title: "test"
-author: "Hiroaki Yutani"
-date: "2015年7月4日"
+author: "Andrew Simon"
+date: "2021-09-30"
 output: html_document
 ---
 

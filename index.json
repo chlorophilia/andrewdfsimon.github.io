@@ -1,15 +1,15 @@
 [
   {
     "title": "test",
-    "author": "Hiroaki Yutani",
-    "date": "2015年7月4日",
+    "author": "Andrew Simon",
+    "date": "2022-09-30",
     "output": "html_document",
     "url": "test.html"
   },
   {
     "title": "test2",
-    "author": "Hiroaki Yutani",
-    "date": "2015年9月19日",
+    "author": "Andrew Simon",
+    "date": "2022-09-30",
     "output": "html_document",
     "url": "test2.html"
   }

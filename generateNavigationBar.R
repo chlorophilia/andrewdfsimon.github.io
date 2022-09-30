@@ -12,7 +12,7 @@ local({
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li><a href="./index.html">Home</a></li>
-        <li><a href="https://github.com/yutannihilation/rmarkdown-website-template">Github</a></li>
+        <li><a href="https://github.com/IMERSS">Github</a></li>
         <li class="dropdown">
           <a href="authoring" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Pages<span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">', file = before_body)
