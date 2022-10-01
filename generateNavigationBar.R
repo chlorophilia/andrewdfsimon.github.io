@@ -7,11 +7,13 @@ local({
 <div class="navbar navbar-default navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <a class="navbar-brand" href="./index.html">Andrew D. F. Simon</a>
+      <a class="navbar-brand" href="./index.html">Andrew D.F. Simon</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li><a href="./index.html">Home</a></li>
+        <li><a href="./cv.html">CV</a></li>
+        <li><a href="./bibliography.html">Bibliography</a></li>
         <li><a href="https://github.com/IMERSS">Github</a></li>
         <li class="dropdown">
           <a href="authoring" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Pages<span class="caret"></span></a>

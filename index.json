@@ -1,16 +1,16 @@
 [
   {
-    "title": "test",
+    "title": "Biodiversity Galiano",
     "author": "Andrew Simon",
     "date": "2022-09-30",
     "output": "html_document",
-    "url": "test.html"
+    "url": "www.biogaliano.org"
   },
   {
-    "title": "test2",
+    "title": "IMERSS",
     "author": "Andrew Simon",
     "date": "2022-09-30",
     "output": "html_document",
-    "url": "test2.html"
+    "url": "www.imerss.org"
   }
 ]
