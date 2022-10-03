@@ -1,0 +1,7 @@
+name: "Andrew D.F. Simon"
+output_dir: "docs"
+navbar:
+  title: "Andrew D. F. Simon"
+  left:
+    - text: "Home"
+      href: index.html

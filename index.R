@@ -4,7 +4,7 @@ local({
   parse_metadata <- function(f) {
     stopifnot(length(f) == 1 && file.exists(f))
 
-    metadata <- rmarkdown:::parse_yaml_front_matter(rmarkdown:::read_lines_utf8(f, "UTF-8"))
+    metadata <- rmarkdown:::yaml_front_matter(f)
     metadata$url <- sub(".Rmd", ".html", f)
 
     if(is.null(metadata$title)) metadata$title <- sub(".Rmd", "", f)
