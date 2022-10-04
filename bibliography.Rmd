@@ -5,18 +5,19 @@ date: "2022-09-30"
 output: html_document
 ---
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+<b>Articles published or accepted in refereed journals</b> 
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+Simon, A. D. F., Best, L. R., and Starzomski, B. M. (in press) Evidence of bumble bee species extirpation and colonization: Galiano Island, British Columbia, Canada. Northwest Science. (MSc work, accepted September 7, 2022).
 
-```{r}
-summary(iris)
-```
+Simon A. D. F., Adamczyk E. M., Basman A., Chu J. W. F., Gartner H. N., Fletcher K., Gibbs C. J., Gibbs D. M., Gilmore S. R., Harbo R. M., Harris L. H., Humphrey E., Lamb A., Lambert P., McDaniel N., Scott J., and Starzomski B. M. (2022) Toward an atlas of Salish Sea biodiversity: the flora and fauna of Galiano Island, British Columbia, Canada. Part I. Marine zoology. Biodiversity Data Journal. 10: e76050 (independent research).
 
-You can also embed plots, for example:
+Simon, A. D. F., Marx, H. E., and Starzomski, B. M. (2021) Phylogenetic restriction of plant invasion in drought-stressed environments. Ecology and evolution. 11: 10042-10053 (MSc work). 
 
-```{r, echo=FALSE}
-plot(iris)
-```
+<b>Conference presentations</b>
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Simon, A. D. F., Basman, A. (2022) Biodiversity beyond boundaries: building capacity for pluralistic biodiversity research. Salish Sea Ecosystem Conference (oral presentation of independent research during international conference proceedings).
+
+Simon, A. D. F. (2018) The bumble bees of Galiano Island, BC. Entomological Society of America (oral presentation of preliminary findings from MSc research during international conference proceedings).
+
+<b>Conference presentations</b>
+
