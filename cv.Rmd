@@ -5,18 +5,98 @@ date: "2022-09-30"
 output: html_document
 ---
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+\
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+### Education  
 
-```{r}
-summary(iris)
-```
+##### 2022 | - PhD student, Zoology
+University of British Columbia
+\
 
-You can also embed plots, for example:
+##### 2020 | - Master of Science, Environmental Studies
+University of Victoria | Victoria, BC
+\
 
-```{r, echo=FALSE}
-plot(iris)
-```
+##### 2016 | - Bachelor of Arts and Sciences
+Quest University Canada | Squamish, BC 
+\
+\
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+### Work Experience
+
+##### Sept 2022 to present | Research Assistant – O'Connor Lab / Advisian
+Iqaluit, Nunavut | Pond Inlet, Nunavut
+
+» Quantify biomass and carbon sequestration in Arctic kelp communities
+\
+» Quantify community composition using morphological and molecular techniques
+\
+» Apply deep learning to estimate spatial extent of rockweed
+\
+\
+
+##### Sept 2022 to present | Research Assistant – O'Connor Lab / Hakai Institute
+Iqaluit, Nunavut | Pond Inlet, Nunavut
+
+» Coordinate UN Decade on Ocean Conservation Biodiversity Synthesis Hub
+\
+\
+
+##### Sept 2021 to present | Contractor – BC Conservation Data Centre
+Southern Gulf Islands, British Columbia
+
+» Conduct floristic inventories and rare species surveys focusing on rare lichens, bryophytes, and vascular plants
+\
+» Map species of conservation concern using NatureServe Biotics5
+\
+» Monitor rare vascular plant populations, e.g., Plagiobothrys tenellus
+\
+\
+
+##### Nov 2020 to Aug 2022 | Biodiversity Specialist – Keefer Ecological Services Ltd.
+Galiano Island – Cranbrook, British Columbia
+
+» Conduct rare species inventories and terrestrial ecosystem mapping 
+\
+» Develop habitat suitability index and connectivity models for rare and vulnerable species, inc. mountain caribou
+\
+» Develop project proposals and budgets, and coordinate complex multidisciplinary projects in a team environment
+\
+\
+
+##### Jan 2019 to Aug 2019 | Mayne Island Conservancy
+Mayne Island, British Columbia
+  
+» Coordinated inter-island bioblitz focusing on Galiano and Mayne Islands
+\
+» Compiled comprehensive dataset of historical baseline and contemporary species occurrence data using R and iNaturalist
+\
+» Prepared conservation management plans & implemented restoration projects focusing on private & protected lands
+\
+\
+
+#### 2015 to 2020 | Private Environmental Consulting
+Galiano Island, British Columbia
+  
+» Implemented geospatial infrastructure for BC Parks Biodiversity Mapping
+Project, inc. >1,000 protected areas
+\
+» Completed forest cover maps, inventories & management plans covering over 600 ha in the Coastal Douglas-fir (CDF) Biogeoclimatic Zone
+\
+» Clients inc.: BC Parks, the Galiano Club, Galiano Conservancy Association, BC Ministry of the Environment, & Keefer Ecological Services Ltd.
+\
+\
+
+####  2015 to 2018 | Research and Field Assistant – Enlichened Consulting Ltd.
+Clearwater | Robson Valley | Tumbler Ridge | Vancouver Island, British Columbia
+  
+» Assisted in ecological research, biodiversity inventories & rare plant surveys throughout BC, focusing on lichens, bryophytes, & vascular plants
+\
+» Collected field data, maintained databases, curated UBC lichen herbarium
+\
+\
+
+#### 2016 | Researcher – Parks Canada
+Mt. Revelstoke & Glacier | Banff & Jasper National Parks, British Columbia
+
+» Synthesized technical reports on the potential risks and mitigations of prescribed fire in caribou habitat in collaboration with experts & Parks Canada officials
