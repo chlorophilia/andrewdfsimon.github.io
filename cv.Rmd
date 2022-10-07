@@ -1,83 +1,76 @@
 ---
 title: "CV"
-author: "Andrew Simon"
-date: "2022-09-30"
 output: html_document
 ---
-
 \
 
-### Education  
-
-##### 2022 | - PhD student, Zoology
-University of British Columbia
+## Andrew Simon
+Biodiversity Research Centre | Department of Zoology \
+University of British Columbia \
+Vancouver, BC, Canada V6T 1Z4 \
+adfsimon@zoology.ubc.ca \
+[add personal website url]
+\
 \
 
-##### 2020 | - Master of Science, Environmental Studies
-University of Victoria | Victoria, BC
+### Education
+Sept 2022 to present PhD student - Zoology (Sept 2022 to present)
+University of British Columbia | Vancouver, British Columbia
 \
 
-##### 2016 | - Bachelor of Arts and Sciences
-Quest University Canada | Squamish, BC 
+##### Master of Science - Environmental Studies (2020)
+University of Victoria | Victoria, British Columbia
+\
+
+##### Bachelor of Arts and Sciences (2016)
+Quest University Canada | Squamish, British Columbia
 \
 \
 
 ### Work Experience
-
-##### Sept 2022 to present | Research Assistant – O'Connor Lab / Advisian
-Iqaluit, Nunavut | Pond Inlet, Nunavut
-
+##### Research Assistant – UBC O'Connor Lab / Advisian (Sept 2022 to present)
+Iqaluit / Pond Inlet, Nunavut \
 » Quantify biomass and carbon sequestration in Arctic kelp communities
 \
 » Quantify community composition using morphological and molecular techniques
 \
 » Apply deep learning to estimate spatial extent of rockweed
 \
-\
 
-##### Sept 2022 to present | Research Assistant – O'Connor Lab / Hakai Institute
-Iqaluit, Nunavut | Pond Inlet, Nunavut
-
+##### Research Assistant – UBC O'Connor Lab / Hakai Institute (Sept 2022 to present)
+Vancouver, British Columbia \
 » Coordinate UN Decade on Ocean Conservation Biodiversity Synthesis Hub
 \
-\
 
-##### Sept 2021 to present | Contractor – BC Conservation Data Centre
-Southern Gulf Islands, British Columbia
-
+##### Contractor – BC Conservation Data Centre (Sept 2021 to present)
+Southern Gulf Islands, British Columbia \
 » Conduct floristic inventories and rare species surveys focusing on rare lichens, bryophytes, and vascular plants
 \
 » Map species of conservation concern using NatureServe Biotics5
 \
 » Monitor rare vascular plant populations, e.g., Plagiobothrys tenellus
 \
+
+##### Biodiversity Specialist – Keefer Ecological Services Ltd. (Nov 2020 to Aug 2022)
+Galiano Island / Cranbrook, British Columbia \
+» Conducted rare species inventories and terrestrial ecosystem mapping 
+\
+» Developed habitat suitability index and connectivity models for rare and vulnerable species, inc. mountain caribou
+\
+» Developed project proposals and budgets, and coordinate complex multidisciplinary projects in a team environment
 \
 
-##### Nov 2020 to Aug 2022 | Biodiversity Specialist – Keefer Ecological Services Ltd.
-Galiano Island – Cranbrook, British Columbia
-
-» Conduct rare species inventories and terrestrial ecosystem mapping 
-\
-» Develop habitat suitability index and connectivity models for rare and vulnerable species, inc. mountain caribou
-\
-» Develop project proposals and budgets, and coordinate complex multidisciplinary projects in a team environment
-\
-\
-
-##### Jan 2019 to Aug 2019 | Mayne Island Conservancy
-Mayne Island, British Columbia
-  
+##### Stewardship Coordinator - Mayne Island Conservancy (Jan 2019 to Aug 2019)
+Mayne Island, British Columbia \
 » Coordinated inter-island bioblitz focusing on Galiano and Mayne Islands
 \
 » Compiled comprehensive dataset of historical baseline and contemporary species occurrence data using R and iNaturalist
 \
 » Prepared conservation management plans & implemented restoration projects focusing on private & protected lands
 \
-\
 
-#### 2015 to 2020 | Private Environmental Consulting
-Galiano Island, British Columbia
-  
+##### Independent Environmental Consultant (2015 to 2020)
+Galiano Island, British Columbia \
 » Implemented geospatial infrastructure for BC Parks Biodiversity Mapping
 Project, inc. >1,000 protected areas
 \
@@ -85,18 +78,38 @@ Project, inc. >1,000 protected areas
 \
 » Clients inc.: BC Parks, the Galiano Club, Galiano Conservancy Association, BC Ministry of the Environment, & Keefer Ecological Services Ltd.
 \
+
+##### Researcher – Parks Canada (2016)
+Mt. Revelstoke / Glacier / Banff / Jasper National Parks, British Columbia \
+» Synthesized technical reports on the potential risks and mitigations of prescribed fire in caribou habitat in collaboration with experts & Parks Canada officials
 \
 
-####  2015 to 2018 | Research and Field Assistant – Enlichened Consulting Ltd.
-Clearwater | Robson Valley | Tumbler Ridge | Vancouver Island, British Columbia
-  
+##### Research and Field Assistant – Enlichened Consulting Ltd. (2015 to 2018)
+Clearwater / Robson Valley / Tumbler Ridge / Vancouver Island, British Columbia \
 » Assisted in ecological research, biodiversity inventories & rare plant surveys throughout BC, focusing on lichens, bryophytes, & vascular plants
 \
 » Collected field data, maintained databases, curated UBC lichen herbarium
 \
 \
 
-#### 2016 | Researcher – Parks Canada
-Mt. Revelstoke & Glacier | Banff & Jasper National Parks, British Columbia
+### Awards and Certifications
+##### Occupational First Aid (2022)
+##### sRPAS Basic License Transport Canada (2021)
+##### Royal BC Museum Volunteer Award (2020)
+##### Islands Trust Community Stewardship Award (2019)
+##### Wetland Keepers Certificate (2015)
+\
 
-» Synthesized technical reports on the potential risks and mitigations of prescribed fire in caribou habitat in collaboration with experts & Parks Canada officials
+### Leadership
+##### <a href="https://imerss.org/">Institute for Multidisciplinary Ecological Research in the Salish Sea (2020-2022)</a>
+President and founding director \
+
+##### Capital Regional District Galiano Island Parks and Recreation Commission (2019—2022)
+Commissioner \
+
+##### <a href="https://biogaliano.org/">Biodiversity Galiano Island Project (2016—2022)</a>
+Project curator \
+\
+\
+
+### Mentorship

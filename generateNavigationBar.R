@@ -14,7 +14,7 @@ local({
         <li><a href="./index.html">Home</a></li>
         <li><a href="./cv.html">CV</a></li>
         <li><a href="./bibliography.html">Bibliography</a></li>
-        <li><a href="https://github.com/IMERSS">Github</a></li>
+        <li><a href="https://imerss.github.io/imerss-bioinfo/</a></li>
         <li class="dropdown">
           <a href="authoring" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Pages<span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">', file = before_body)
