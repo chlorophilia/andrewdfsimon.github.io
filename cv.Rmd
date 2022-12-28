@@ -1,46 +1,53 @@
 ---
-title: "CV"
+title: "Curriculum Vitae"
 output: html_document
 ---
 \
 
-## Andrew Simon
-Biodiversity Research Centre | Department of Zoology \
-University of British Columbia \
-Vancouver, BC, Canada V6T 1Z4 \
-adfsimon@zoology.ubc.ca \
-[add personal website url]
+<div style="text-align: right"><h1>Andrew Simon</h1></div>
+<div style="text-align: right">Biodiversity Research Centre | Department of Zoology \ </div>
+<div style="text-align: right">University of British Columbia \ </div>
+<div style="text-align: right">Vancouver, BC, Canada V6T 1Z4 \ </div>
+<div style="text-align: right">adfsimon@zoology.ubc.ca \ </div>
+<div style="text-align: right">[add personal website url] </div>
 \
 \
 
-### Education
-##### PhD student - Zoology (Sept 2022 to present)
-University of British Columbia | Vancouver, British Columbia
-\
-
-##### Master of Science - Environmental Studies (2020)
-University of Victoria | Victoria, British Columbia
-\
-
-##### Bachelor of Arts and Sciences (2016)
-Quest University Canada | Squamish, British Columbia
-\
-\
+### Education 
+|                    |                        |
+|:-------------------|:-----------------------|
+|**Sept 2022 to present**|**PhD Student - Zoology**|
+||University of British Columbia - Vancouver, British Columbia|
+||
+|**2020**|**Master of Science - Environmental Studies** |
+||University of Victoria - Victoria, British Columbia|
+||
+|**2016**|**Bachelor of Arts and Sciences**|
+||Quest University Canada - Squamish, British Columbia|
+||
 
 ### Work Experience
-##### Research Assistant – UBC O'Connor Lab / Advisian (Sept 2022 to present)
-Iqaluit / Pond Inlet, Nunavut \
-» Quantify biomass and carbon sequestration in Arctic kelp communities
-\
-» Quantify community composition using morphological and molecular techniques
-\
-» Apply deep learning to estimate spatial extent of rockweed
-\
+|                    |                        |
+|:-------------------|:-----------------------|
+|**Nov 2022 to present**|**Biodiversity Specialist - Átl’ka7tsem/Howe Sound Biosphere Region Initiative**|
+||Átl’ka7tsem/Howe Sound Biosphere Reserve, British Columbia|
+|» Co-design integrative biodiversity assessment framework synthesizing comprehensive biodiversity and remote sensing datasets||
+|» Collaborate with diverse stakeholders to achieve harmonized solutions for data management, meeting needs of diverse knowledge communities, in support of biodiversity research and conservation||
+|**Sept 2022 to present**|**Research Assistant - UBC O'Connor Lab / Advisian**|
+||Iqaluit / Pond Inlet, Nunavut|
+|» Quantify biomass and carbon sequestration in Arctic kelp communities|
+|» Determine community composition using morphological and molecular techniques|
+|» Apply deep learning to estimate spatial extent of nearshore macroalgae|
+|» Develop models to scale up estimates of standing biomass and carbon from local to regional scales|
+|
+|**Sept 2022 to present**|**Research Assistant – UBC O'Connor Lab / Hakai Institute**|
+||Vancouver, British Columbia|
+|» Coordinate UN Decade on Ocean Conservation Biodiversity Synthesis Hub|
+|» Identify science and policy gaps to overcome under the banner of the UN Decade on Ocean Conservation|
+|» Create digitial resources supporting transboundary collaboration in Salish Sea Marine Science and Conservation|
+|
 
-##### Research Assistant – UBC O'Connor Lab / Hakai Institute (Sept 2022 to present)
-Vancouver, British Columbia \
-» Coordinate UN Decade on Ocean Conservation Biodiversity Synthesis Hub
-\
+
 
 ##### Contractor – BC Conservation Data Centre (Sept 2021 to present)
 Southern Gulf Islands, British Columbia \
