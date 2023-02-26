@@ -11,7 +11,7 @@ email: "adfsimon@zoology.ubc.ca"
 #github: mariecurie
 #linkedin: mariecurie
 date: "`r format(Sys.time(), '%B %Y')`"
-aboutme: "Ecologist and aspiring data scientist"
+aboutme: "Naturalist, ecologist, biodiversity data scientist"
 output: 
   vitae::markdowncv:
     theme: kjhealy

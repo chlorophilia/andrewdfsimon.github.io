@@ -11,8 +11,7 @@ local({
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
-        <li><a href="./index.html">Bio</a></li>
-        <li><a href="./cv.html">CV</a></li>
+        <li><a href="./cv2/cv2.html">CV</a></li>
         <li><a href="./bibliography.html">Bibliography</a></li>
         <li><a href="https://imerss.github.io/imerss-bioinfo">GitHub</a></li>
         <li class="dropdown">
