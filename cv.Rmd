@@ -13,6 +13,10 @@ output: html_document
 \
 \
 
+
+<table><tr><td>**Sept 2022 to present**</td><td>**PhD Student - Zoology**</td></table>
+<table><tr><td></td><td>University of British Columbia - Vancouver, British Columbia</td></table>
+
 ### Education 
 |                    |                        |
 |:-------------------|:-----------------------|
