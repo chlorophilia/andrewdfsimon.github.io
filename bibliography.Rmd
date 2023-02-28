@@ -6,7 +6,7 @@ output: html_document
 
 \
 
-### <b>Peer-reviewed Research</b> 
+### <b>Peer-reviewed research</b> 
 
 [Simon, A. D. F., Marx, H. E., and Starzomski, B. M. (2021) Phylogenetic restriction of plant invasion in drought-stressed environments: implications for insect‐pollinated plant communities in water‐limited ecosystems. Ecology and evolution. 11: 10042-10053]("https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8328464/")
 
@@ -26,7 +26,7 @@ Simon, A. D. F. (2019) Implications of seasonal drought for plant-pollinator com
 
 Simon, A. D. F. (2022) Bumble bees in the Southern Gulf Islands. Mayne Island Conservancy.
 
-Simon, A. D. F. (2022) The Life and Legacy of Harvey Janszen. Victoria Natural History Society.
+Simon, A. D. F. (2022) The Life and Legacy of Harvey Janszen. Victoria Natural History Society. (also presented for Friends of Ecological Reserves AGM)
 
 Simon, A. D. F. (2022) Toward an atlas of Salish Sea Biodiversity. Wonders of the Salish Sea.
 
@@ -34,11 +34,17 @@ Simon, A. D. F., and Basman, A. (2022) Biodiversity beyond boundaries: building 
 
 \
 
-### <b>In the Media</b> 
+### <b>In the media</b> 
 
-Canadian Geographic (2017, September 21) [Citizen science platform iNaturalist is testing artificial intelligence to help with species identification](https://canadiangeographic.ca/articles/citizen-science-platform-inaturalist-is-testing-artificial-intelligence-to-help-with-species-identification/)
+Wang, M. (2017, September 21) [Citizen science platform iNaturalist is testing artificial intelligence to help with species identification](https://canadiangeographic.ca/articles/citizen-science-platform-inaturalist-is-testing-artificial-intelligence-to-help-with-species-identification/). Canadian Geographic. https://canadiangeographic.ca/articles/citizen-science-platform-inaturalist-is-testing-artificial-intelligence-to-help-with-species-identification/
 
-Hakai Magazine (2022, June 28) [A Community’s Quest to Document Every Species on Their Island Home](https://hakaimagazine.com/features/a-communitys-quest-to-document-every-species-on-their-island-home)
+Wang, M. (2022, June 28) [A Community’s Quest to Document Every Species on Their Island Home](https://hakaimagazine.com/features/a-communitys-quest-to-document-every-species-on-their-island-home) Hakai Magazine. https://hakaimagazine.com/features/a-communitys-quest-to-document-every-species-on-their-island-home
+
+\
+
+### <b>Other Writings</b>
+
+Magner, L., and Simon A. D. F. (2019) Key to the Conifers of Galiano Island, BC, 2150. In C. Sandilands (Ed.), Rising Tides (pp. 199–204). Halfmoon Bay, BC: Caitlin Press.
 
 \
 

@@ -46,7 +46,6 @@ gsheet::gsheet2tbl("https://docs.google.com/spreadsheets/d/1V7-aia0Y570R5dJ9iTQd
                           where = Organization, 
                           with = Location,
                           why = Details)
-
 ```
 
 ## Leadership
