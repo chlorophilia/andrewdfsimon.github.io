@@ -61,7 +61,7 @@ gsheet::gsheet2tbl("https://docs.google.com/spreadsheets/d/1BUsrwXlt7WECMqla4BlS
 
 ```
 
-## Awards
+## Awards, Grants, and Recognitions
 
 ```{r}
 
