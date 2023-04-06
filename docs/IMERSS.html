@@ -9,11 +9,13 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
+<meta name="author" content="Andrew Simon" />
 
+<meta name="date" content="2022-09-30" />
 
-<title>CV</title>
+<title>IMERSS</title>
 
-<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -145,15 +147,11 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark the anchor link active (and if it's in a dropdown, also mark that active)
-  var dropdown = menuAnchor.closest('li.dropdown');
-  if (window.bootstrap) { // Bootstrap 4+
-    menuAnchor.addClass('active');
-    dropdown.find('> .dropdown-toggle').addClass('active');
-  } else { // Bootstrap 3
-    menuAnchor.parent().addClass('active');
-    dropdown.addClass('active');
-  }
+  // mark it active
+  menuAnchor.tab('show');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -182,8 +180,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "\e259";
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -191,9 +189,16 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "\e258";
-  font-family: 'Glyphicons Halflings';
+  content: "&#xe258;";
   border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -265,14 +270,10 @@ $(document).ready(function () {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li><a href="./cv2/cv2.html">CV</a></li>
-        <li><a href="./bibliography.html">Bibliography</a></li>
         <li><a href="https://imerss.github.io/imerss-bioinfo">GitHub</a></li>
         <li class="dropdown">
           <a href="authoring" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Pages<span class="caret"></span></a>
-          <ul class="dropdown-menu" role="menu">          <li><a href="bibliography.html">Bibliography</a></li>
-          <li><a href="bio.html">BIO</a></li>
-          <li><a href="BioGaliano.html">Bioiversity Galiano</a></li>
-          <li><a href="cv.html">CV</a></li>
+          <ul class="dropdown-menu" role="menu">          <li><a href="BioGaliano.html">Bioiversity Galiano</a></li>
           <li><a href="IMERSS.html">IMERSS</a></li>
           </ul>
         </li>
@@ -285,71 +286,41 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">CV</h1>
-<h4 class="date">April 2023</h4>
+<h1 class="title toc-ignore">IMERSS</h1>
+<h4 class="author">Andrew Simon</h4>
+<h4 class="date">2022-09-30</h4>
 
 </div>
 
 
-<div id="education" class="section level2">
-<h2>Education</h2>
-<pre><code>## # A tibble: 2 x 5
-##   what                           when with         where                   why  
-##   &lt;chr&gt;                         &lt;dbl&gt; &lt;chr&gt;        &lt;chr&gt;                   &lt;lis&gt;
-## 1 Master of Science              2020 Victoria, BC University of Victoria  &lt;chr&gt;
-## 2 Bachelor of Arts and Sciences  2016 Squamish, BC Quest University Canada &lt;chr&gt;</code></pre>
-</div>
-<div id="work-history" class="section level2">
-<h2>Work History</h2>
-<pre><code>## # A tibble: 9 x 5
-##   what                         when                 with             where why  
-##   &lt;chr&gt;                        &lt;chr&gt;                &lt;chr&gt;            &lt;chr&gt; &lt;lis&gt;
-## 1 Biodiversity Specialist      2022 – present       Átl’ka7tsem, Br~ Átl’~ &lt;chr&gt;
-## 2 Research Assistant           Sep 2022 – present   Iqaluit / Pond ~ UBC ~ &lt;chr&gt;
-## 3 Research Assistant           Jul 2022 – Jan 2023  Vancouver, Brit~ UBC ~ &lt;chr&gt;
-## 4 Biodiversity Specialist      Sept 2021 – Mar 2023 Southern Gulf I~ BC C~ &lt;chr&gt;
-## 5 Biodiversity Specialist      Nov 2020 – Aug 2022  Galiano Island ~ Keef~ &lt;chr&gt;
-## 6 Stewardship Coordinator      Jan 2019 – Aug 2019  Mayne Island, B~ Mayn~ &lt;chr&gt;
-## 7 Environmental Consultant     2015 – 2020          Galiano Island,~ Inde~ &lt;chr&gt;
-## 8 Researcher                   2016                 Mt. Revelstoke ~ Park~ &lt;chr&gt;
-## 9 Research and Field Assistant 2015 – 2018          Clearwater / Ro~ Enli~ &lt;chr&gt;</code></pre>
-</div>
-<div id="leadership" class="section level2">
-<h2>Leadership</h2>
-<pre><code>## # A tibble: 3 x 5
-##    what when           with               where                            why  
-##   &lt;???&gt; &lt;chr&gt;          &lt;chr&gt;              &lt;chr&gt;                            &lt;lis&gt;
-## 1     . 2020 – present Galiano Island, BC Institute for Multidisciplinary~ &lt;chr&gt;
-## 2     . 2019 – present Galiano Island, BC Capital Regional District Galia~ &lt;chr&gt;
-## 3     . 2016 – present Galiano Island, BC Biodiversity Galiano Island Pro~ &lt;chr&gt;</code></pre>
-</div>
-<div id="awards-grants-and-recognitions" class="section level2">
-<h2>Awards, Grants, and Recognitions</h2>
-<pre><code>## # A tibble: 6 x 5
-##   what                                          when with            where why  
-##   &lt;chr&gt;                                        &lt;dbl&gt; &lt;chr&gt;           &lt;chr&gt; &lt;lis&gt;
-## 1 University of British Columbia                2023 Vancouver, BC   Zool~ &lt;lgl&gt;
-## 2 Canadian Institute for Ecology and Evolution  2022 Vancouver, BC   Livi~ &lt;lgl&gt;
-## 3 BC Parks                                      2020 Southern Gulf ~ Livi~ &lt;lgl&gt;
-## 4 Royal BC Museum                               2020 Victoria, BC    Roya~ &lt;lgl&gt;
-## 5 House of Commons                              2019 Ottawa, ON      Reco~ &lt;lgl&gt;
-## 6 Islands Trust                                 2019 Southern Gulf ~ Isla~ &lt;lgl&gt;</code></pre>
-</div>
-<div id="certifications" class="section level2">
-<h2>Certifications</h2>
-<pre><code>## # A tibble: 3 x 5
-##   what                    when with                                  where why  
-##   &lt;chr&gt;                  &lt;dbl&gt; &lt;chr&gt;                                 &lt;chr&gt; &lt;lis&gt;
-## 1 Alert First-Aid Inc.    2022 WorkSafeBC OFA Level 1 - Occupationa~ Occu~ &lt;chr&gt;
-## 2 Transport Canada        2021 Basic Drone Pilot&#39;s License           sRPA~ &lt;chr&gt;
-## 3 BC Wildlife Federation  2015 Wetland Mapping and Stewardship Cour~ Wetl~ &lt;chr&gt;</code></pre>
-</div>
-<div id="publications" class="section level2">
-<h2>Publications</h2>
-<div id="bibliography">
-<p>C:/Users/Bosmon/AppData/Local/Temp/RtmpEdwmDf/file3c8022116344.yaml</p>
-</div>
-</div>
+<p>This is an R Markdown document. Markdown is a simple formatting
+syntax for authoring HTML, PDF, and MS Word documents. For more details
+on using R Markdown see <a href="http://rmarkdown.rstudio.com"
+class="uri">http://rmarkdown.rstudio.com</a>.</p>
+<p>When you click the <strong>Knit</strong> button a document will be
+generated that includes both content as well as the output of any
+embedded R code chunks within the document. You can embed an R code
+chunk like this:</p>
+<pre class="r"><code>summary(iris)</code></pre>
+<pre><code>##   Sepal.Length    Sepal.Width     Petal.Length    Petal.Width   
+##  Min.   :4.300   Min.   :2.000   Min.   :1.000   Min.   :0.100  
+##  1st Qu.:5.100   1st Qu.:2.800   1st Qu.:1.600   1st Qu.:0.300  
+##  Median :5.800   Median :3.000   Median :4.350   Median :1.300  
+##  Mean   :5.843   Mean   :3.057   Mean   :3.758   Mean   :1.199  
+##  3rd Qu.:6.400   3rd Qu.:3.300   3rd Qu.:5.100   3rd Qu.:1.800  
+##  Max.   :7.900   Max.   :4.400   Max.   :6.900   Max.   :2.500  
+##        Species  
+##  setosa    :50  
+##  versicolor:50  
+##  virginica :50  
+##                 
+##                 
+## </code></pre>
+<p>You can also embed plots, for example:</p>
+<p><img src="IMERSS_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>
+<p>Note that the <code>echo = FALSE</code> parameter was added to the
+code chunk to prevent printing of the R code that generated the
+plot.</p>
 
 <script type="text/javascript" src="libs/fluidbox/jquery.fluidbox.min.js"></script>
 <script type="text/javascript" src="include/js/enable-fluidbox.js"></script>
