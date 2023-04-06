@@ -9,13 +9,11 @@
 <meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
 
 
-<meta name="author" content="Andrew Simon" />
 
-<meta name="date" content="2021-09-30" />
 
-<title>Bioiversity Galiano</title>
+<title>CV</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.19/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
@@ -147,11 +145,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -180,8 +182,8 @@ $(document).ready(function () {
   border-radius: 4px;
 }
 
-.tabset-dropdown > .nav-tabs > li.active:before {
-  content: "";
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
   font-family: 'Glyphicons Halflings';
   display: inline-block;
   padding: 10px;
@@ -189,16 +191,9 @@ $(document).ready(function () {
 }
 
 .tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
-  content: "&#xe258;";
-  border: none;
-}
-
-.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
-  content: "";
+  content: "\e258";
   font-family: 'Glyphicons Halflings';
-  display: inline-block;
-  padding: 10px;
-  border-right: 1px solid #ddd;
+  border: none;
 }
 
 .tabset-dropdown > .nav-tabs > li.active {
@@ -290,34 +285,71 @@ $(document).ready(function () {
 
 
 
-<h1 class="title toc-ignore">Bioiversity Galiano</h1>
-<h4 class="author">Andrew Simon</h4>
-<h4 class="date">2021-09-30</h4>
+<h1 class="title toc-ignore">CV</h1>
+<h4 class="date">April 2023</h4>
 
 </div>
 
 
-<p>This is an R Markdown document. Markdown is a simple formatting
-syntax for authoring HTML, PDF, and MS Word documents. For more details
-on using R Markdown see <a href="http://rmarkdown.rstudio.com"
-class="uri">http://rmarkdown.rstudio.com</a>.</p>
-<p>When you click the <strong>Knit</strong> button a document will be
-generated that includes both content as well as the output of any
-embedded R code chunks within the document. You can embed an R code
-chunk like this:</p>
-<pre class="r"><code>summary(cars)</code></pre>
-<pre><code>##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00</code></pre>
-<p>You can also embed plots, for example:</p>
-<p><img src="figures/BioGaliano_files/figure-html/unnamed-chunk-3-1.png" width="672" /></p>
-<p>Note that the <code>echo = FALSE</code> parameter was added to the
-code chunk to prevent printing of the R code that generated the
-plot.</p>
+<div id="education" class="section level2">
+<h2>Education</h2>
+<pre><code>## # A tibble: 2 x 5
+##   what                           when with         where                   why  
+##   &lt;chr&gt;                         &lt;dbl&gt; &lt;chr&gt;        &lt;chr&gt;                   &lt;lis&gt;
+## 1 Master of Science              2020 Victoria, BC University of Victoria  &lt;chr&gt;
+## 2 Bachelor of Arts and Sciences  2016 Squamish, BC Quest University Canada &lt;chr&gt;</code></pre>
+</div>
+<div id="work-history" class="section level2">
+<h2>Work History</h2>
+<pre><code>## # A tibble: 9 x 5
+##   what                         when                 with             where why  
+##   &lt;chr&gt;                        &lt;chr&gt;                &lt;chr&gt;            &lt;chr&gt; &lt;lis&gt;
+## 1 Biodiversity Specialist      2022 – present       Átl’ka7tsem, Br~ Átl’~ &lt;chr&gt;
+## 2 Research Assistant           Sep 2022 – present   Iqaluit / Pond ~ UBC ~ &lt;chr&gt;
+## 3 Research Assistant           Jul 2022 – Jan 2023  Vancouver, Brit~ UBC ~ &lt;chr&gt;
+## 4 Biodiversity Specialist      Sept 2021 – Mar 2023 Southern Gulf I~ BC C~ &lt;chr&gt;
+## 5 Biodiversity Specialist      Nov 2020 – Aug 2022  Galiano Island ~ Keef~ &lt;chr&gt;
+## 6 Stewardship Coordinator      Jan 2019 – Aug 2019  Mayne Island, B~ Mayn~ &lt;chr&gt;
+## 7 Environmental Consultant     2015 – 2020          Galiano Island,~ Inde~ &lt;chr&gt;
+## 8 Researcher                   2016                 Mt. Revelstoke ~ Park~ &lt;chr&gt;
+## 9 Research and Field Assistant 2015 – 2018          Clearwater / Ro~ Enli~ &lt;chr&gt;</code></pre>
+</div>
+<div id="leadership" class="section level2">
+<h2>Leadership</h2>
+<pre><code>## # A tibble: 3 x 5
+##    what when           with               where                            why  
+##   &lt;???&gt; &lt;chr&gt;          &lt;chr&gt;              &lt;chr&gt;                            &lt;lis&gt;
+## 1     . 2020 – present Galiano Island, BC Institute for Multidisciplinary~ &lt;chr&gt;
+## 2     . 2019 – present Galiano Island, BC Capital Regional District Galia~ &lt;chr&gt;
+## 3     . 2016 – present Galiano Island, BC Biodiversity Galiano Island Pro~ &lt;chr&gt;</code></pre>
+</div>
+<div id="awards-grants-and-recognitions" class="section level2">
+<h2>Awards, Grants, and Recognitions</h2>
+<pre><code>## # A tibble: 6 x 5
+##   what                                          when with            where why  
+##   &lt;chr&gt;                                        &lt;dbl&gt; &lt;chr&gt;           &lt;chr&gt; &lt;lis&gt;
+## 1 University of British Columbia                2023 Vancouver, BC   Zool~ &lt;lgl&gt;
+## 2 Canadian Institute for Ecology and Evolution  2022 Vancouver, BC   Livi~ &lt;lgl&gt;
+## 3 BC Parks                                      2020 Southern Gulf ~ Livi~ &lt;lgl&gt;
+## 4 Royal BC Museum                               2020 Victoria, BC    Roya~ &lt;lgl&gt;
+## 5 House of Commons                              2019 Ottawa, ON      Reco~ &lt;lgl&gt;
+## 6 Islands Trust                                 2019 Southern Gulf ~ Isla~ &lt;lgl&gt;</code></pre>
+</div>
+<div id="certifications" class="section level2">
+<h2>Certifications</h2>
+<pre><code>## # A tibble: 3 x 5
+##   what                    when with                                  where why  
+##   &lt;chr&gt;                  &lt;dbl&gt; &lt;chr&gt;                                 &lt;chr&gt; &lt;lis&gt;
+## 1 Alert First-Aid Inc.    2022 WorkSafeBC OFA Level 1 - Occupationa~ Occu~ &lt;chr&gt;
+## 2 Transport Canada        2021 Basic Drone Pilot&#39;s License           sRPA~ &lt;chr&gt;
+## 3 BC Wildlife Federation  2015 Wetland Mapping and Stewardship Cour~ Wetl~ &lt;chr&gt;</code></pre>
+</div>
+<div id="publications" class="section level2">
+<h2>Publications</h2>
+<div id="bibliography">
+<p>C:/Users/Bosmon/AppData/Local/Temp/RtmpEdwmDf/file3c8022116344.yaml</p>
+</div>
+</div>
 
 <script type="text/javascript" src="libs/fluidbox/jquery.fluidbox.min.js"></script>
 <script type="text/javascript" src="include/js/enable-fluidbox.js"></script>
