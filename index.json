@@ -1,31 +1,10 @@
 [
   {
-    "title": "Bibliography",
-    "author": "Andrew Simon",
-    "date": "2022-09-30",
-    "output": "html_document",
-    "url": "bibliography.html"
-  },
-  {
-    "title": "BIO",
-    "author": "Andrew Simon",
-    "date": "2021-09-30",
-    "output": "html_document",
-    "url": "bio.html"
-  },
-  {
     "title": "Bioiversity Galiano",
     "author": "Andrew Simon",
     "date": "2021-09-30",
     "output": "html_document",
     "url": "BioGaliano.html"
-  },
-  {
-    "title": "CV",
-    "author": "Andrew Simon",
-    "date": "2022-09-30",
-    "output": "html_document",
-    "url": "cv.html"
   },
   {
     "title": "IMERSS",
