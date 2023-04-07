@@ -19,14 +19,14 @@ output:
 
 <style>
 body {
-font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 14px;
 }
-    h1, h2, h3, h4 {
-font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+h1, h2, h3, h4 {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 #webaddress {
-font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 h2 {
     color: darkcyan
@@ -35,11 +35,14 @@ code {
    font-size:80%
 }
 p code {
-font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
     left: -10rem;
     width: 8rem;
-font-size: 75%;
-text-align: right;
+    font-size: 75%;
+    text-align: right;
+}
+li {
+    text-indent: 0;
 }
 </style>
 
