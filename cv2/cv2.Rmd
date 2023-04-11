@@ -7,9 +7,9 @@ address: "281 Highland Road, Galiano Island, BC, Canada, V0N 1P0"
 phone: (250) 888-6144
 www: imerss.org
 email: "adfsimon@zoology.ubc.ca"
-#twitter: mariecurie
-#github: mariecurie
-#linkedin: mariecurie
+#twitter: 
+#github:
+#linkedin:
 date: "`r format(Sys.time(), '%B %Y')`"
 aboutme: "Naturalist, ecologist, biodiversity data scientist"
 output: 
