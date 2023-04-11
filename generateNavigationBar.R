@@ -15,7 +15,7 @@ local({
         <li><a target = "_blank" href="./cv2/cv2.html">CV</a></li>
         <li><a href="https://imerss.github.io/imerss-bioinfo">GitHub</a></li>
         <li class="dropdown">
-          <a href="authoring" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Pages<span class="caret"></span></a>
+          <a href="authoring" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Projects<span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">', file = before_body)
 
   index <- jsonlite::fromJSON("index.json")

@@ -2,9 +2,11 @@
 
 **Naturalist, ecologist, biodiversity data scientist**
 
+I am a PhD student in the [O'Connor Lab at UBC](http://oconnorlab.weebly.com), with a life and research based in the southern Gulf Islands of the Salish Sea, within the shared, unceded, and asserted territories of the *pune’luxutth’*, *quw’utsun’*, *snuneymuhw*, *leey’qsun*, *shts’um’inus*, *lhaq'temish*, *W̱SÁNEĆ*, and of the Indigenous Families who have been stewards of these lands and waters since time immemorial.
+
 My research draws on historical collections, field studies, and crowd-sourced biodiversity data, combined with environmental monitoring and remote sensing techniques, to analyse drivers of biodiversity change at multiple scales. I study a wide variety of organisms, linking ecological theory with observational studies to improve our understanding of the trait-environment relationships underlying niche dynamics in space and time.
  
-As an advocate for community science, I have a special interest in the development of frameworks supporting a networked approach to biodiversity research and monitoring. This work began with the [Biodiversity Galiano project](http://biogaliano.org) and continues through the organization I co-founded with friends and colleagues: the [Institute for Multidisciplinary Ecological Research in the Salish Sea.](http://imerss.org)
+As an advocate for community science, I have a special interest in the development of frameworks supporting a networked approach to biodiversity research and monitoring. This work began with the [Biodiversity Galiano project](http://biogaliano.org) and continues through the organization I co-founded with friends and colleagues: the [Institute for Multidisciplinary Ecological Research in the Salish Sea (IMERSS).](http://imerss.org)
 ```{=html}
 <style>
 .images img {
