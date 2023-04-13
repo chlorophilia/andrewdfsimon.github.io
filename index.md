@@ -14,7 +14,7 @@ As an advocate for community science, I have a special interest in the developme
 }
 </style>
 <div class="images">
-<a href="https://www.imerss.org"><img src="images/bumble.jpg"/></a>
+<img src="images/bumble.jpg"/>
 <img src="images/Achlys.jpg"/>
 <img src="images/Wx.jpg"/>
 </div>
