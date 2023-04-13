@@ -8,23 +8,23 @@ output: html_document
 
 ### <b>Peer-reviewed research</b> 
 
-[Simon, A. D. F., Best, L. R., and Starzomski, B. M. (in press) Evidence of bumble bee species extirpation and colonization: Galiano Island, British Columbia, Canada. Northwest Science.](https://biogaliano.org/galiano-island-harnesses-inaturalist-to-detect-historical-changes-in-the-local-bumble-bee-community/)
+[Simon, A. D. F., Best, L. R., & Starzomski, B. M. (in press) Evidence of bumble bee species extirpation and colonization: Galiano Island, British Columbia, Canada. Northwest Science.](https://biogaliano.org/galiano-island-harnesses-inaturalist-to-detect-historical-changes-in-the-local-bumble-bee-community/)
 
-[Simon A. D. F., Adamczyk E. M., Basman A., Chu J. W. F., Gartner H. N., Fletcher K., Gibbs C. J., Gibbs D. M., Gilmore S. R., Harbo R. M., Harris L. H., Humphrey E., Lamb A., Lambert P., McDaniel N., Scott J., and Starzomski B. M. (2022) Toward an atlas of Salish Sea biodiversity: the flora and fauna of Galiano Island, British Columbia, Canada. Part I. Marine zoology. Biodiversity Data Journal. 10: e76050](https://bdj.pensoft.net/article/76050/")
+[Simon A. D. F., Adamczyk E. M., Basman A., Chu J. W. F., Gartner H. N., Fletcher K., Gibbs C. J., Gibbs D. M., Gilmore S. R., Harbo R. M., Harris L. H., Humphrey E., Lamb A., Lambert P., McDaniel N., Scott J., & Starzomski B. M. (2022) Toward an atlas of Salish Sea biodiversity: the flora and fauna of Galiano Island, British Columbia, Canada. Part I. Marine zoology. Biodiversity Data Journal. 10: e76050](https://bdj.pensoft.net/article/76050/")
 
-[Simon, A. D. F., Marx, H. E., and Starzomski, B. M. (2021) Phylogenetic restriction of plant invasion in drought-stressed environments: implications for insect‐pollinated plant communities in water‐limited ecosystems. Ecology and evolution. 11: 10042-10053]("https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8328464/")
+[Simon, A. D. F., Marx, H. E., & Starzomski, B. M. (2021) Phylogenetic restriction of plant invasion in drought-stressed environments: implications for insect‐pollinated plant communities in water‐limited ecosystems. Ecology and evolution. 11: 10042-10053]("https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8328464/")
 
 \
 
 ### <b>Presentations</b>
 
-Simon, A. D. F., and Basman, A. (2023) Co-creating a biodiversity assessment framework. Howe Sound Conservation Network Gathering.
+Simon, A. D. F., & Basman. A. (2023) Co-creating a biodiversity assessment framework. Howe Sound Conservation Network Gathering.
 
-Simon, A. D. F., and Basman, A. (2022) Biodiversity beyond boundaries: building capacity for pluralistic biodiversity research. Salish Sea Ecosystem Conference.
+Simon, A. D. F., & Basman. A. (2022) Biodiversity beyond boundaries: building capacity for pluralistic biodiversity research. Salish Sea Ecosystem Conference.
 
-Simon, A. D. F. (2022) Toward an atlas of Salish Sea Biodiversity. Wonders of the Salish Sea.
+Simon, A. D. F., Gibbs D., & Lamb. A. (2022) Toward an atlas of Salish Sea Biodiversity. Wonders of the Salish Sea.
 
-Simon, A. D. F. (2022) The Life and Legacy of Harvey Janszen. Victoria Natural History Society. (also presented for Friends of Ecological Reserves AGM)
+Simon, A. D. F., & Janszen P. (2022) The life and legacy of Harvey Janszen. Victoria Natural History Society. (also presented for Friends of Ecological Reserves AGM)
 
 Simon, A. D. F. (2022) Bumble bees in the Southern Gulf Islands. Mayne Island Conservancy.
 
@@ -48,7 +48,7 @@ Wang, M. (2017, September 21) [Citizen science platform iNaturalist is testing a
 
 ### <b>Other Works</b>
 
-Magner, L., and Simon A. D. F. (2019) Key to the Conifers of Galiano Island, BC, 2150. In C. Sandilands (Ed.), Rising Tides (pp. 199–204). Halfmoon Bay, BC: Caitlin Press.
+Magner, L., & Simon A. D. F. (2019) Key to the Conifers of Galiano Island, BC, 2150. In C. Sandilands (Ed.), Rising Tides (pp. 199–204). Halfmoon Bay, BC: Caitlin Press.
 
 \
 
