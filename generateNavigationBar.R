@@ -20,7 +20,9 @@ local({
 
   index <- jsonlite::fromJSON("index.json")
   index <- subset(index, title!='Bibliography')
-  page_list  <- sort(sprintf('          <li><a href="%s">%s</a></li>', index$url, index$title))
+  index[index=="BioGaliano.html"] <- "http://www.biogaliano.org"
+  index[index=="IMERSS.html"] <- "http://www.imerss.org"
+  page_list  <- sort(sprintf('          <li><a target = "_blank" href="%s">%s</a></li>', index$url, index$title))
   cat(paste0(page_list, collapse = "\n"),
       file = before_body, append = TRUE)
 
