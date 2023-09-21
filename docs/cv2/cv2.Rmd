@@ -30,6 +30,7 @@ h1, h2, h3, h4 {
 }
 h2 {
     color: darkcyan
+    font-weight: bold;
 }
 code {
    font-size:80%
