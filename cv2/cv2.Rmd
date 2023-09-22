@@ -33,7 +33,7 @@ h2 {
     font-weight: bold;
 }
 code {
-   font-size:80%
+   font-size: 80%
 }
 p code {
     font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
