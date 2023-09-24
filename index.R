@@ -7,7 +7,7 @@ local({
     metadata <- rmarkdown:::yaml_front_matter(f)
     metadata$url <- sub(".Rmd", ".html", f)
 
-    if(is.null(metadata$title)) metadata$title <- sub(".Rmd", "", f)
+    if(is.null(metadata$title)) metadata$title <- sub(".md", "", f)
     if(is.null(metadata$date))  metadata$date  <- file.mtime(f)
 
     metadata
