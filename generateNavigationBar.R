@@ -19,10 +19,6 @@ local({
           <ul class="dropdown-menu" role="menu">', file = before_body)
 
   index <- jsonlite::fromJSON("index.json")
-  index <- subset(index, title!='Bibliography')
-  index[index=="BioGaliano.html"] <- "http://www.biogaliano.org"
-  index[index=="IMERSS.html"] <- "http://www.imerss.org"
-  index[index=="Janszen.html"] <- "https://imerss.github.io/janszen-legacy-storymap/Janszen_Legacy_Project-Reknitted.html"
   page_list  <- sort(sprintf('          <li><a target = "_blank" href="%s">%s</a></li>', index$url, index$title))
   cat(paste0(page_list, collapse = "\n"),
       file = before_body, append = TRUE)

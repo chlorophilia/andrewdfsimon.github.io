@@ -1,4 +1,7 @@
-# Andrew D.F. Simon
+---
+title: "Andrew D.F. Simon"
+output: html_document
+---
 
 **Naturalist, ecologist, biodiversity data scientist**
 

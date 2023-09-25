@@ -53,6 +53,7 @@ library(gsheet)
 library(RefManageR)
 library(tidyverse)
 library(vitae)
+library(readr)
 ```
 
 ## Education
@@ -69,13 +70,12 @@ gsheet::gsheet2tbl("https://docs.google.com/spreadsheets/d/1nS5Lz1oQUSNLmF-RXKzc
 ## Work History
 
 ```{r}
-
 gsheet::gsheet2tbl("https://docs.google.com/spreadsheets/d/1V7-aia0Y570R5dJ9iTQdEQZ46J-4isaHOzo83mpl1HA/edit?usp=sharing", sheet="Work") %>%
   vitae::detailed_entries(what = Job,
                           when = Year,
                           where = Organization, 
                           with = Location,
-                          why = Details)
+                          why = Details, .protect=FALSE)
 ```
 
 ## Leadership
@@ -123,7 +123,7 @@ gsheet::gsheet2tbl("https://docs.google.com/spreadsheets/d/1p_3405v6NkrZEGqXOLmt
   filter(category == "peer") %>%
   select(-category) %>%
   RefManageR::as.BibEntry() %>%
-  RefManageR::WriteBib("peerreviewed.bib", biblatex=T)
+  RefManageR::WriteBib("peerreviewed.bib", biblatex=T, .Encoding = "UTF-8")
 
 
 vitae::bibliography_entries("peerreviewed.bib") %>%
@@ -137,7 +137,7 @@ gsheet::gsheet2tbl("https://docs.google.com/spreadsheets/d/1gEblFCo3xv83kw7G_JFS
   filter(category == "peer") %>%
   select(-category) %>%
   RefManageR::as.BibEntry() %>%
-  RefManageR::WriteBib("peerreviewed.bib", biblatex=T)
+  RefManageR::WriteBib("peerreviewed.bib", biblatex=T, .Encoding = "UTF-8")
 
 
 vitae::bibliography_entries("peerreviewed.bib") %>%

@@ -1,29 +1,23 @@
 [
   {
-    "title": "Bibliography",
-    "output": "html_document",
-    "url": "Bibliography.html",
-    "date": "2023-04-13 15:14:40"
-  },
-  {
     "title": "Biodiversity Galiano",
     "author": "Andrew Simon",
     "date": "2021-09-30",
     "output": "html_document",
-    "url": "BioGaliano.html"
+    "url": " "http://www.biogaliano.org""
   },
   {
     "title": "IMERSS",
     "author": "Andrew Simon",
     "date": "2022-09-30",
     "output": "html_document",
-    "url": "IMERSS.html"
+    "url": "http://www.imerss.org"
   },
   {
     "title": "Janszen Legacy Project",
     "author": "Andrew Simon",
     "date": "2023-09-23",
     "output": "html_document",
-    "url": "Janszen.html"
+    "url": "https://imerss.github.io/janszen-legacy-storymap/Janszen_Legacy_Project-Reknitted.html"
   }
 ]
