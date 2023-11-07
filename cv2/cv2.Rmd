@@ -116,7 +116,7 @@ gsheet::gsheet2tbl("https://docs.google.com/spreadsheets/d/1rv1EJuD3hzt2SzbeSOUk
 
 ```
 
-## Presentations
+## Presentations, Workshops
 
 ```{r}
 gsheet::gsheet2tbl("https://docs.google.com/spreadsheets/d/1p_3405v6NkrZEGqXOLmteXBeovMsTirQNEpiSQDqmvw/edit?usp=sharing", sheet="Presentations") %>%

@@ -6,7 +6,7 @@ output: html_document
 
 \
 
-### <b>Peer-reviewed research</b> 
+### <b>Peer-reviewed Research</b> 
 
 [Simon, A. D. F., Best, L. R., & Starzomski, B. M. (in press) Evidence of bumble bee species extirpation and colonization: Galiano Island, British Columbia, Canada. Northwest Science.](https://biogaliano.org/galiano-island-harnesses-inaturalist-to-detect-historical-changes-in-the-local-bumble-bee-community/)
 
@@ -16,7 +16,7 @@ output: html_document
 
 \
 
-### <b>Presentations</b>
+### <b>Presentations, Workshops</b>
 
 Srivastava, D. S., Menchions, E., Lavender, T. M., & Simon A. D. F. (2023) Data Rescue Project: Janszen Legacy hack-a-thon. Canadian Institute for Ecology and Evolution, Living Data Project.
 
@@ -46,7 +46,7 @@ Simon, A. D. F. (2018) The bumble bees of Galiano Island, BC. Entomological Soci
 
 \
 
-### <b>In the media</b> 
+### <b>In the Media</b> 
 
 Wang, M. (2022, June 28) [A Community’s Quest to Document Every Species on Their Island Home](https://hakaimagazine.com/features/a-communitys-quest-to-document-every-species-on-their-island-home) Hakai Magazine.
 
