@@ -8,7 +8,7 @@ output: html_document
 
 ### <b>Peer-reviewed Research</b> 
 
-[Simon, A. D. F., Best, L. R., & Starzomski, B. M. (2023) Evidence of bumble bee species extirpation and colonization: Galiano Island, British Columbia, Canada. Northwest Science. 96(3-4):206-219](https://bioone.org/journals/northwest-science/volume-96/issue-3-4/046.096.0305/Evidence-of-Bumble-Bee-Extirpation-and-Colonization-Galiano-Island-British/10.3955/046.096.0305.full)
+[Simon, A. D. F., Best, L. R., & Starzomski, B. M. (2023) Evidence of bumble bee extirpation and colonization: Galiano Island, British Columbia, Canada. Northwest Science. 96(3-4):206-219](https://bioone.org/journals/northwest-science/volume-96/issue-3-4/046.096.0305/Evidence-of-Bumble-Bee-Extirpation-and-Colonization-Galiano-Island-British/10.3955/046.096.0305.full)
 
 [Simon, A. D. F., Adamczyk, E. M., Basman, A., Chu, J. W. F., Gartner, H. N., Fletcher, K., Gibbs, C. J., Gibbs, D. M., Gilmore, S. R., Harbo, R. M., Harris, L. H., Humphrey, E., Lamb, A., Lambert, P., McDaniel, N., Scott, J., & Starzomski, B. M. (2022) Toward an atlas of Salish Sea biodiversity: the flora and fauna of Galiano Island, British Columbia, Canada. Part I. Marine zoology. Biodiversity Data Journal. 10: e76050](https://bdj.pensoft.net/article/76050/")
 
