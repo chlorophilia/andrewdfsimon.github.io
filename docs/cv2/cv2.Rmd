@@ -2,11 +2,11 @@
 title: CV
 name: Andrew
 surname: Simon
-position: "PhD Student | Zoology | University of British Columbia"
+position: "PhD Student | Biological Sciences | University of Alberta"
 address: "281 Highland Road, Galiano Island, BC, Canada, V0N 1P0"
 phone: (250) 888-6144
 www: imerss.org
-email: "adfsimon@zoology.ubc.ca"
+email: "adsimon@ualberta.ca"
 #twitter: 
 #github:
 #linkedin:
