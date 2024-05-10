@@ -26,6 +26,8 @@ Gonzalez, A., O’Connor, M.I., Bates, A., van dam Bates, P., Bobiwash, K., Burt
 
 ### <b>Presentations, Workshops</b>
 
+Hessing-Lewis, M., Beaty, F., Collins, K., Paroo, E., Simon, A. D. F., Van Der Stap, T. (2024) Biodiversity Data Mobilization in British Columbia and Washington Waters. Northeast Pacific Coastal Biodiversity Action Network.
+
 Srivastava, D. S., Menchions, E., Lavender, T. M., & Simon A. D. F. (2023) Data Rescue Project: Janszen Legacy hack-a-thon. Canadian Institute for Ecology and Evolution, Living Data Project.
 
 Aitken, J., Ayotte, D., Basman, A., Carpendale, H., D'Souza, M., Georgeson, J., Simon, A. D. F., & Wilson, L. (2023) Transboundary Gathering: Digital ecocultural mapping in the Salish Sea. Whiteswan Environmental, Institute for Multidisciplinary Ecological Research in the Salish Sea, Inclusive Design Research Centre.
