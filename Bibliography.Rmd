@@ -8,7 +8,7 @@ output: html_document
 
 ### <b>Peer-reviewed Research</b> 
 
-[McMullin, R., Simon, A.D.F., Brodo, I., Wickham, S., Bell-Doyon, P., Kuzmina, M., & Starzomski, B.M. (In Review) DNA barcoding aids in generating a preliminary checklist of the lichens and allied fungi of Calvert Island, British Columbia: Results from the 2018 Hakai Terrestrial BioBlitz. Biodiversity Data Journal. 12:e120292](https://bdj.pensoft.net/article/120292/list/8/)
+[McMullin, R., Simon, A.D.F., Brodo, I., Wickham, S., Bell-Doyon, P., Kuzmina, M., & Starzomski, B.M. (2024) DNA barcoding aids in generating a preliminary checklist of the lichens and allied fungi of Calvert Island, British Columbia: Results from the 2018 Hakai Terrestrial BioBlitz. Biodiversity Data Journal. 12:e120292](https://bdj.pensoft.net/article/120292/list/8/)
 
 [Simon, A. D. F., Best, L. R., & Starzomski, B. M. (2023) Evidence of bumble bee extirpation and colonization: Galiano Island, British Columbia, Canada. Northwest Science. 96(3-4):206-219](https://bioone.org/journals/northwest-science/volume-96/issue-3-4/046.096.0305/Evidence-of-Bumble-Bee-Extirpation-and-Colonization-Galiano-Island-British/10.3955/046.096.0305.full)
 
@@ -25,6 +25,8 @@ Gonzalez, A., O’Connor, M.I., Bates, A., van dam Bates, P., Bobiwash, K., Burt
 \
 
 ### <b>Presentations, Workshops</b>
+
+Cronk Q., Simon, A. D. F., & Martin, R. M. (2024) Operationalizing the study of local extirpation: the key role of herbaria. Botany 2024.
 
 Simon A. D. F., Best, L. R., & Starzomski, B. M. (2024) Community science and systematic sampling provide convergent evidence for historical change in an island bumble bee community. Canadian Society for Ecology and Evolution.
 
