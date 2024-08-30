@@ -3,13 +3,15 @@ title: "Andrew D.F. Simon"
 output: html_document
 ---
 
-**Naturalist, ecologist, biodiversity data scientist**
+**Naturalist, biologist, biodiversity data scientist**
 
-I am a PhD student in the [Spribille Lab at the University of Alberta](https://spribillelab.wordpress.com), with a life and research based in the southern Gulf Islands of the Salish Sea, within the shared, unceded, and asserted territories of the *pune’luxutth’*, *quw’utsun’*, *snuneymuhw*, *leey’qsun*, *shts’um’inus*, *tla'amin*, *tsawwassen*, *lekwungen*, *lhaq'temish*, and *W̱SÁNEĆ* nations, as well as the Indigenous families who have been stewards of these lands and waters since time immemorial.
+I am a PhD student in the [Spribille Lab at the University of Alberta](https://spribillelab.wordpress.com). Currently, my research takes place in ᐊᒥᐢᑿᒌᐚᐢᑲᐦᐃᑲᐣ / Amiskwacîwâskahikan / Edmonton, Treaty 6 territories (northern central Alberta), and within the territories of the *pune’luxutth’*, *quw’utsun’*, *snuneymuhw*, *leey’qsun*, *shts’um’inus*, *tla'amin*, *tsawwassen*, *lekwungen*, *lhaq'temish*, and *W̱SÁNEĆ* nations (southern coastal British Columbia).
 
-My research draws on historical collections, field studies, and crowd-sourced biodiversity data, combined with environmental monitoring and remote sensing techniques, to analyse drivers of biodiversity change at multiple scales. I study a wide variety of organisms, linking ecological theory with observational studies to improve understanding of the trait-environment relationships underlying niche dynamics in space and time.
+My investigations harness a wide variety of data and techniques to analyse drivers of biodiversity change at multiple scales, from cells to ecosystems. Toward this end, I study a great diversity of organisms, linking ecological theory with field studies and experiments to improve understanding of the trait-environment relationships that underly niche dynamics in space and time. 
+
+Presently, my work focuses on the fascinating worlds of lichens, in effort to better understand the physiological dynamics of "symbioses under stress." 
  
-As an advocate for community science, I have a special interest in the development of frameworks supporting a networked, community-based approach to biodiversity research and monitoring. This work began with the [Biodiversity Galiano project](http://biogaliano.org) and continues through the organization I co-founded with friends and colleagues: the [Institute for Multidisciplinary Ecological Research in the Salish Sea (IMERSS).](http://imerss.org)
+As an advocate for community science, I also have a special interest in the development of frameworks supporting a networked, community-based approach to biodiversity research and monitoring. This work began with the [Biodiversity Galiano project](http://biogaliano.org) and continues through the organization I co-founded with friends and colleagues: the [Institute for Multidisciplinary Ecological Research in the Salish Sea (IMERSS).](http://imerss.org)
 ```{=html}
 <style>
 .images img {
