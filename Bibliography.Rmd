@@ -20,7 +20,11 @@ output: html_document
 
 ### <b>In Preparation</b>
 
-Gonzalez, A., O’Connor, M.I., Bates, A., van dam Bates, P., Bobiwash, K., Burton, C., Eckert, I., Dominique, G.C., Idrobo, J., Pollock, L., Simon, A.D.F., Slein, M., Solymos, P., Starzomski, B.M., Sunday, J., Tekwa, E. (In Prep.) A Canadian Biodiversity Observation Network: transforming Canada’s capability to monitor and understand biodiversity change to support action.
+Simon, A.D.F., Basman, A., Martin, R.A, Robinson, C., & Cronk, Q. (In Prep.) Operationalizing a protocol for the detection of species extirpation: a localized approach to a global problem.
+
+### <b>In Review</b>
+
+Gonzalez, A., O’Connor, M.I., Bates, A., van dam Bates, P., Bobiwash, K., Burton, C., Eckert, I., Dominique, G.C., Idrobo, J., Pollock, L., Simon, A.D.F., Slein, M., Solymos, P., Starzomski, B.M., Sunday, J., & Tekwa, E. (In Review) A Canadian Biodiversity Observation Network: transforming Canada’s capability to monitor and understand biodiversity change to support action.
 
 \
 
