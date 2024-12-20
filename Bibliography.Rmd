@@ -20,6 +20,8 @@ output: html_document
 
 ### <b>In Preparation</b>
 
+Simon, A.D.F., Stanton, D., Spribille, T. (In Prep.) Disentangling the roles of lichen symbionts as sentinels of change: an expanding niche in global change biology
+
 Simon, A.D.F., Basman, A., Martin, R.A, Robinson, C., & Cronk, Q. (In Prep.) Operationalizing a protocol for the detection of species extirpation: a localized approach to a global problem.
 
 \
@@ -32,11 +34,11 @@ Gonzalez, A., O’Connor, M.I., Bates, A.E., van dam Bates, P., Bobiwash, K., Bu
 
 ### <b>Presentations, Workshops</b>
 
-Simon, A.D.F., & Basman, A. (2024) Frameworks for community engagement in long-term ecological research. Biodiversity Beyond Boundaries: mobilizing data for the future of our shared waters.
+Simon, A.D.F., Basman, A. (2024) Frameworks for community engagement in long-term ecological research. Biodiversity Beyond Boundaries: mobilizing data for the future of our shared waters.
 
-Cronk Q., Simon, A.D.F., & Martin, R.M. (2024) Operationalizing the study of local extirpation: the key role of herbaria. Botany 2024.
+Cronk Q., Simon, A.D.F., Martin, R.M. (2024) Operationalizing the study of local extirpation: the key role of herbaria. Botany 2024.
 
-Simon A.D.F., Best, L.R., & Starzomski, B.M. (2024) Community science and systematic sampling provide convergent evidence for historical change in an island bumble bee community. Canadian Society for Ecology and Evolution.
+Simon A.D.F., Best, L.R., Starzomski, B.M. (2024) Community science and systematic sampling provide convergent evidence for historical change in an island bumble bee community. Canadian Society for Ecology and Evolution.
 
 Simon A.D.F. (2024) Using historical and community science data to detect change in bumble bee and vascular plant communities on Galiano Island. Community Science Webinar, Coastal Douglas-fir Conservation Partnership.
 
