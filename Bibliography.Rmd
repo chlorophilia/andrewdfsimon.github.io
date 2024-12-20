@@ -10,7 +10,7 @@ output: html_document
 
 [McMullin, R., Simon, A.D.F., Brodo, I., Wickham, S., Bell-Doyon, P., Kuzmina, M., & Starzomski, B.M. (2024) DNA barcoding aids in generating a preliminary checklist of the lichens and allied fungi of Calvert Island, British Columbia: Results from the 2018 Hakai Terrestrial BioBlitz. Biodiversity Data Journal. 12:e120292](https://doi.org/10.3897/BDJ.12.e120292)
 
-[Simon, A.D.F., Best, L. R., & Starzomski, B.M. (2023) Evidence of bumble bee extirpation and colonization: Galiano Island, British Columbia, Canada. Northwest Science. 96(3-4):206-219](https://doi.org/10.3955/046.096.0305)
+[Simon, A.D.F., Best, L.R., & Starzomski, B.M. (2023) Evidence of bumble bee extirpation and colonization: Galiano Island, British Columbia, Canada. Northwest Science. 96(3-4):206-219](https://doi.org/10.3955/046.096.0305)
 
 [Simon, A.D.F., Adamczyk, E.M., Basman, A., Chu, J.W.F., Gartner, H.N., Fletcher, K., Gibbs, C.J., Gibbs, D.M., Gilmore, S.R., Harbo, R.M., Harris, L.H., Humphrey, E., Lamb, A., Lambert, P., McDaniel, N., Scott, J., & Starzomski, B.M. (2022) Toward an atlas of Salish Sea biodiversity: the flora and fauna of Galiano Island, British Columbia, Canada. Part I. Marine zoology. Biodiversity Data Journal. 10: e76050](https://doi.org/10.3897/BDJ.10.e76050)
 
