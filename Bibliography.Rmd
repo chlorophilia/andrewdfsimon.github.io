@@ -20,9 +20,9 @@ output: html_document
 
 ### <b>In Preparation</b>
 
-Simon, A.D.F., Stanton, D., Spribille, T. (In Prep.) Disentangling the roles of lichen symbionts as sentinels of change: an expanding niche in global change biology
+Simon, A.D.F., Stanton, D., Spribille, T. (In Prep.) Disentangling the roles of lichen symbionts as sentinels of change: an expanding niche in global change biology.
 
-Simon, A.D.F., Basman, A., Martin, R.A, Robinson, C., & Cronk, Q. (In Prep.) Operationalizing a protocol for the detection of species extirpation: a localized approach to a global problem.
+Simon, A.D.F., Basman, A., Martin, R.A., Robinson, C., & Cronk, Q. (In Prep.) Operationalising a protocol for the detection of species extirpation: a localized approach to a global problem.
 
 \
 
