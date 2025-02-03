@@ -125,7 +125,6 @@ gsheet::gsheet2tbl("https://docs.google.com/spreadsheets/d/1p_3405v6NkrZEGqXOLmt
   RefManageR::as.BibEntry() %>%
   RefManageR::WriteBib("peerreviewed.bib", biblatex=T, .Encoding = "UTF-8")
 
-
 vitae::bibliography_entries("peerreviewed.bib") %>%
   arrange(desc(issued))
 ```
@@ -138,7 +137,6 @@ gsheet::gsheet2tbl("https://docs.google.com/spreadsheets/d/1gEblFCo3xv83kw7G_JFS
   select(-category) %>%
   RefManageR::as.BibEntry() %>%
   RefManageR::WriteBib("peerreviewed.bib", biblatex=T, .Encoding = "UTF-8")
-
 
 vitae::bibliography_entries("peerreviewed.bib") %>%
   arrange(desc(issued))
