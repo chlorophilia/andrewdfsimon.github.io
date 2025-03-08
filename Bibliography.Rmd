@@ -22,7 +22,7 @@ output: html_document
 
 Simon, A.D.F., Stanton, D., & Spribille, T. (In Prep.) Disentangling the roles of lichen symbionts as sentinels of change: an expanding niche in global change biology.
 
-Webber, M., Adamczyk, A.M., van Asselt, A., Basman, A., Chang, A., Humphrey, E., Lemay, M., Morien, E., Parfrey, L., Schenk, S., & Simon, A.D.F. (In Prep.) An annotated checklist of the marine diatoms (Bacillariophyceae) of the Salish Sea, Cold Temperate Northeast Pacific.
+Webber, M., van Asselt, A., Basman, A., Chang, A., Humphrey, E., Lemay, M., Morien, E., & Simon, A.D.F. (In Prep.) An annotated checklist of the diatoms (Bacillariophyceae) of the Salish Sea, Cold Temperate Northeast Pacific.
 
 \
 
