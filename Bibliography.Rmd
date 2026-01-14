@@ -8,6 +8,10 @@ output: html_document
 
 ### <b>Peer-reviewed Research</b> 
 
+[Simon, A.D.F., Basman, A., Martin, R.A., Robinson, C., & Cronk, Q. (2025). Detecting extirpation: A localized approach to a global problem. Plants, People, Planet.](https://doi.org/10.1002/ppp3.70130)
+
+[Gonzalez, A., O’Connor, M.I., Bates, A.E., van Dam-Bates, P., Bobiwash, K., Burton, C., Eckert, I., Dominique, G.C., Idrobo, J., Pollock, L.J., Simon, A.D.F., Slein, M., Sólymos, P., Starzomski, B.M., Sunday, J.M., & Tekwa, E.W. (2025). A Biodiversity Observation Network to support conservation action and mainstream knowledge in Canada. Facets, 10, 1-19.](https://doi.org/10.1139/facets-2024-0206)
+
 [McMullin, R., Simon, A.D.F., Brodo, I., Wickham, S., Bell-Doyon, P., Kuzmina, M., & Starzomski, B.M. (2024) DNA barcoding aids in generating a preliminary checklist of the lichens and allied fungi of Calvert Island, British Columbia: Results from the 2018 Hakai Terrestrial BioBlitz. Biodiversity Data Journal. 12:e120292](https://doi.org/10.3897/BDJ.12.e120292)
 
 [Simon, A.D.F., Best, L.R., & Starzomski, B.M. (2023) Evidence of bumble bee extirpation and colonization: Galiano Island, British Columbia, Canada. Northwest Science. 96(3-4):206-219](https://doi.org/10.3955/046.096.0305)
@@ -20,17 +24,7 @@ output: html_document
 
 ### <b>In Preparation</b>
 
-Simon, A.D.F., Stanton, D., & Spribille, T. (In Prep.) Disentangling the roles of lichen symbionts as sentinels of change: an expanding niche in global change biology.
-
 Webber, M., van Asselt, A., Basman, A., Chang, A., Humphrey, E., Lemay, M., Morien, E., & Simon, A.D.F. (In Prep.) An annotated checklist of the diatoms (Bacillariophyceae) of the Salish Sea, Cold Temperate Northeast Pacific.
-
-\
-
-### <b>In Review</b>
-
-Gonzalez, A., O’Connor, M.I., Bates, A.E., van Dam-Bates, P., Bobiwash, K., Burton, C., Eckert, I., Dominique, G.C., Idrobo, J., Pollock, L.J., Simon, A.D.F., Slein, M., Sólymos, P., Starzomski, B.M., Sunday, J.M., & Tekwa, E.W. (In Review) A Canadian Biodiversity Observation Network: transforming Canada’s capability to monitor and understand biodiversity change to support action.
-
-Simon, A.D.F., Basman, A., Martin, R.A., Robinson, C., & Cronk, Q. (In Review) Operationalizing a protocol for the detection of species extirpation: a localized approach to a global problem.
 
 \
 
