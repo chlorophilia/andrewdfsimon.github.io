@@ -30,7 +30,7 @@ Webber, M., Humphrey, E., van Asselt, A., Chang, A., Morien, E., & Simon, A.D.F.
 
 ### <b>Presentations, Workshops</b>
 
-Basman, A. & Simon, A. D. F. (2025). Introduction to Bayesian statistics for ecology workshop: Detecting extirpation: a novel statistical framework supporting localized studies in biodiversity change
+Basman, A. & Simon, A. D. F. (2025). Introduction to Bayesian statistics for ecology workshop: Detecting extirpation: a novel statistical framework supporting localized studies in biodiversity change. Hakai Institute.
 
 Simon, A.D.F., Basman, A. (2024) Frameworks for community engagement in long-term ecological research. Biodiversity Beyond Boundaries: mobilizing data for the future of our shared waters.
 
