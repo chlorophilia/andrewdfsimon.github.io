@@ -8,27 +8,37 @@ output: html_document
 
 ### <b>Peer-reviewed Research</b> 
 
-[Simon, A.D.F., Basman, A., Martin, R.A., Robinson, C., & Cronk, Q. (2025). Detecting extirpation: A localized approach to a global problem. Plants, People, Planet.](https://doi.org/10.1002/ppp3.70130)
+[Webber, M., Humphrey, E., van Asselt, A., Chang, A., Morien, E., & Simon, A.D.F. (2026). Diatoms (Bacillariophyta) of the Salish Sea, Northeast Pacific: annotated checklist and new species reports. Biodiversity Data Journal, 14:e189060. ](https://doi.org/10.3897/BDJ.14.e189060)
 
-[Gonzalez, A., O’Connor, M.I., Bates, A.E., van Dam-Bates, P., Bobiwash, K., Burton, C., Eckert, I., Dominique, G.C., Idrobo, J., Pollock, L.J., Simon, A.D.F., Slein, M., Sólymos, P., Starzomski, B.M., Sunday, J.M., & Tekwa, E.W. (2025). A Biodiversity Observation Network to support conservation action and mainstream knowledge in Canada. Facets, 10, 1-19.](https://doi.org/10.1139/facets-2024-0206)
+[Simon, A.D.F., Basman, A., Martin, R.A., Robinson, C., & Cronk, Q. (2025). Detecting extirpation: A localized approach to a global problem. Plants, People, Planet. 8(4):1160–1174.](https://doi.org/10.1002/ppp3.70130)
+
+[Gonzalez, A., O’Connor, M.I., Bates, A.E., van Dam-Bates, P., Bobiwash, K., Burton, C., Eckert, I., Dominique, G.C., Idrobo, J., Pollock, L.J., Simon, A.D.F., Slein, M., Sólymos, P., Starzomski, B.M., Sunday, J.M., & Tekwa, E.W. (2025). A Biodiversity Observation Network to support conservation action and mainstream knowledge in Canada. Facets. 10:1-19.](https://doi.org/10.1139/facets-2024-0206)
 
 [McMullin, R., Simon, A.D.F., Brodo, I., Wickham, S., Bell-Doyon, P., Kuzmina, M., & Starzomski, B.M. (2024) DNA barcoding aids in generating a preliminary checklist of the lichens and allied fungi of Calvert Island, British Columbia: Results from the 2018 Hakai Terrestrial BioBlitz. Biodiversity Data Journal. 12:e120292](https://doi.org/10.3897/BDJ.12.e120292)
 
 [Simon, A.D.F., Best, L.R., & Starzomski, B.M. (2023) Evidence of bumble bee extirpation and colonization: Galiano Island, British Columbia, Canada. Northwest Science. 96(3-4):206-219](https://doi.org/10.3955/046.096.0305)
 
-[Simon, A.D.F., Adamczyk, E.M., Basman, A., Chu, J.W.F., Gartner, H.N., Fletcher, K., Gibbs, C.J., Gibbs, D.M., Gilmore, S.R., Harbo, R.M., Harris, L.H., Humphrey, E., Lamb, A., Lambert, P., McDaniel, N., Scott, J., & Starzomski, B.M. (2022) Toward an atlas of Salish Sea biodiversity: the flora and fauna of Galiano Island, British Columbia, Canada. Part I. Marine zoology. Biodiversity Data Journal. 10: e76050](https://doi.org/10.3897/BDJ.10.e76050)
+[Simon, A.D.F., Adamczyk, E.M., Basman, A., Chu, J.W.F., Gartner, H.N., Fletcher, K., Gibbs, C.J., Gibbs, D.M., Gilmore, S.R., Harbo, R.M., Harris, L.H., Humphrey, E., Lamb, A., Lambert, P., McDaniel, N., Scott, J., & Starzomski, B.M. (2022) Toward an atlas of Salish Sea biodiversity: the flora and fauna of Galiano Island, British Columbia, Canada. Part I. Marine zoology. Biodiversity Data Journal. 10:e76050](https://doi.org/10.3897/BDJ.10.e76050)
 
-[Simon, A.D.F., Marx, H.E., & Starzomski, B.M. (2021) Phylogenetic restriction of plant invasion in drought-stressed environments: implications for insect‐pollinated plant communities in water‐limited ecosystems. Ecology and evolution. 11(15): 10042-10053](https://doi.org/10.1002/ece3.7776)
+[Simon, A.D.F., Marx, H.E., & Starzomski, B.M. (2021) Phylogenetic restriction of plant invasion in drought-stressed environments: implications for insect‐pollinated plant communities in water‐limited ecosystems. Ecology and evolution. 11(15):10042-10053](https://doi.org/10.1002/ece3.7776)
 
 \
 
-### <b>In Preparation</b>
+### <b>In Review</b>
 
-Webber, M., Humphrey, E., van Asselt, A., Chang, A., Morien, E., & Simon, A.D.F. (In Prep.) Diatoms (Bacillariophyta) of the Salish Sea, Northeast Pacific: annotated checklist and new species reports
+Simon, A.D.F., Chang, A., Whitehead, J., Humphrey, E., Morien, E., van Asselt, A., & Webber, M. (In Review) Linnaean and Darwinian shortfalls limit long-term monitoring of Salish Sea diatoms.
 
 \
 
 ### <b>Presentations, Workshops</b>
+
+Basman, A., & Simon, A.D.F. (2026). Detecting extirpation: a localized approach to a global problem. State of the World’s Plants and Fungi Symposium.
+
+Simon, A.D.F. (2026). Detecting extirpation: a localized approach to a global problem. Canadian Botanical Association.
+
+Simon, A.D.F. (2026). How to use iNaturalist to support the never-ending bioblitz. Saturna Island Marine Research and Education Society.
+
+Simon, A.D.F., & Peters, S. (2026). Biodiversity Galiano: retrospective (2016–2025). Nature Vancouver.
 
 Basman, A. & Simon, A. D. F. (2025). Introduction to Bayesian statistics for ecology workshop: Detecting extirpation: a novel statistical framework supporting localized studies in biodiversity change. Hakai Institute.
 
@@ -80,6 +90,8 @@ Doll, S. (2023, August 5) [Maxwell Creek Watershed Project Field Files Part 2: D
 
 Wang, M. (2022, June 28) [A Community’s Quest to Document Every Species on Their Island Home](https://hakaimagazine.com/features/a-communitys-quest-to-document-every-species-on-their-island-home) Hakai Magazine.
 
+Weidenhammer, L. (2022, June 15) [Stalking the Wild Flora and Fauna of Galiano Island](https://www.bcnativebees.org/post/stalking-the-wild-flora-and-fauna-of-galiano-island). Native Bee Society of BC.
+
 Wood, D. (2020, Summer) Stumbling toward oblivion: without provincial legislation, British Columbia's endangered species face extinction. British Columbia Magazine, 62(2), 32-33.
 
 Wang, M. (2017, September 21) [Citizen science platform iNaturalist is testing artificial intelligence to help with species identification](https://canadiangeographic.ca/articles/citizen-science-platform-inaturalist-is-testing-artificial-intelligence-to-help-with-species-identification/). Canadian Geographic.
@@ -87,6 +99,8 @@ Wang, M. (2017, September 21) [Citizen science platform iNaturalist is testing a
 \
 
 ### <b>Other Works</b>
+
+Antonelli, A. et al. (2026). State of the World's Plants and Fungi 2026. Royal Botanic Gardens, Kew. https://doi.org/10.34885/rdzs-ky83
 
 Magner, L., & Simon, A.D.F. (2019) Key to the Conifers of Galiano Island, BC, 2150. In C. Sandilands (Ed.), Rising Tides (pp. 199–204). Halfmoon Bay, BC: Caitlin Press.
 
