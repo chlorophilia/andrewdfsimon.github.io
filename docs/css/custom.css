@@ -20,34 +20,23 @@ table {
 }
 
 .nav {
-    --bs-navbar-color: rgba(0, 0, 0, 0.55);
-    --bs-navbar-hover-color: rgba(0, 0, 0, 0.75);
-    --bs-navbar-disabled-color: rgba(0, 0, 0, 0.25);
-    --bs-navbar-active-color: #000;
-    --bs-navbar-brand-color: #000;
-    --bs-navbar-brand-hover-color: #000;
-
-    --bs-nav-link-padding-x: 1rem;
-    --bs-nav-link-padding-y: 0.5rem;
-    --bs-nav-link-font-size: 1rem;
-    --bs-nav-link-font-weight: 500;
-    --bs-nav-link-color: rgba(0, 0, 0, 0.55);
-    --bs-nav-link-hover-color: rgba(0, 0, 0, 0.75);
-
-    padding-left: 0;
-    margin-bottom: 0;
-    list-style: none
-}
-
-html.dark .nav {
     --bs-navbar-color: rgba(255, 255, 255, 0.55);
     --bs-navbar-hover-color: rgba(255, 255, 255, 0.75);
     --bs-navbar-disabled-color: rgba(255, 255, 255, 0.25);
     --bs-navbar-active-color: #fff;
     --bs-navbar-brand-color: #fff;
     --bs-navbar-brand-hover-color: #fff;
+
+    --bs-nav-link-padding-x: 1rem;
+    --bs-nav-link-padding-y: 0.5rem;
+    --bs-nav-link-font-size: 1rem;
+    --bs-nav-link-font-weight: 500;
     --bs-nav-link-color: rgba(255, 255, 255, 0.55);
     --bs-nav-link-hover-color: rgba(255, 255, 255, 0.75);
+
+    padding-left: 0;
+    margin-bottom: 0;
+    list-style: none
 }
 
 .imerss-navbar-title {

@@ -84,8 +84,8 @@ params:
   description: Naturalist, biologist, biodiversity data scientist.
 
   navbar:
-    displayTitle: false
-    displayLogo: true
+    displayTitle: true
+    displayLogo: false
     logo:
       width: 35
       height: 30

@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "hugo-server",
+      "runtimeExecutable": "/Users/andrewsimon/Library/Application Support/Hugo/0.121.0/hugo",
+      "runtimeArgs": ["server", "--disableFastRender"],
+      "port": 1313
+    }
+  ]
+}
