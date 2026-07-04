@@ -1,21 +1,10 @@
 ---
-imerssCover: true
+title: Andrew D.F. Simon
 ---
 
-<section class="imerss-cover-block">
-<div class="imerss-overlay-inner">
-<h1>IMERSS</h1>
-<h2>INSTITUTE FOR MULTIDISCIPLINARY ECOLOGICAL RESEARCH IN THE SALISH SEA</h2>
+**Naturalist, biologist, biodiversity data scientist**
 
-Furthering our vision for the Salish Sea: a resilient and interconnected bioregion in a changing world
+I study the processes underlying biodiversity change — from lichen symbioses under stress to
+community-based frameworks for long-term ecological monitoring in the Salish Sea bioregion.
 
-<div class="imerss-lead">
-<a class="imerss-btn imerss-btn-lg imerss-btn-primary me-3 mb-4" href="/about/">
-  Learn More <i class="fas fa-arrow-alt-circle-right ms-2"></i>
-</a>
-
-</div>
-</div>
-</section>
-
-
+[About me →](/about/) &middot; [Bibliography →](/bibliography/) &middot; [CV →](/cv/) &middot; [Blog →](/blog/)

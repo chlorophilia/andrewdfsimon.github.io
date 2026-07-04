@@ -1,6 +1,6 @@
 # Configuration
-baseURL: "https://imerss.org/"
-title: IMERSS
+baseURL: "/" # TODO: set your real domain once you know it (custom domain vs. GitHub Pages project URL)
+title: Andrew D.F. Simon
 
 theme: "hextra"
 
@@ -59,25 +59,29 @@ menu:
       name: Home
       pageRef: /
       weight: 1
-    - identifier: aboutus
-      name: About Us
+    - identifier: about
+      name: About
       pageRef: /about
       weight: 2
-    - identifier: community
-      name: Community Research
-      pageRef: /community
+    - identifier: bibliography
+      name: Bibliography
+      pageRef: /bibliography
       weight: 3
-    - identifier: donate
-      name: Donate
-      url: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EHJFF84LNXFES
+    - identifier: cv
+      name: CV
+      pageRef: /cv
       weight: 4
-    - name: Search
+    - identifier: blog
+      name: Blog
+      pageRef: /blog
       weight: 5
+    - name: Search
+      weight: 6
       params:
         type: search
 
 params:
-  description: Modern, responsive, batteries-included Hugo theme for creating beautiful static websites.
+  description: Naturalist, biologist, biodiversity data scientist.
 
   navbar:
     displayTitle: false
@@ -120,7 +124,7 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/imfing/hextra/edit/main/exampleSite/content"
+    base: "https://github.com/chlorophilia/andrewdfsimon.2.github.io/edit/main/content"
 
   blog:
     list:

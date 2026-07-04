@@ -1,29 +1,25 @@
 ---
 title: About
-
 ---
 
-## MISSION
+**Naturalist, biologist, biodiversity data scientist**
 
-To conduct multidisciplinary ecological research, monitor biodiversity and the environment, and communicate results to better understand and respond to change in the Salish Sea bioregion
+I am a PhD student in the [Spribille Lab at the University of Alberta](https://spribillelab.wordpress.com)
+with research ongoing in ᐊᒥᐢᑿᒌᐚᐢᑲᐦᐃᑲᐣ / Amiskwacîwâskahikan / Treaty 6 territories (northern central Alberta),
+and within the territories of the *leey'qsu*, *lekwungen*, *lhaq'temish*, *musqueam*, *pune'luxutth'*,
+*quw'utsun'*, *shts'um'inus*, *squamish*, *tsleil-waututh*, *snuneymuhw*, *tla'amin*, *tsawwassen*, and
+*W̱SÁNEĆ* nations (southern coastal British Columbia).
 
-## Who We Are
+My investigations harness a variety of methods to analyse the processes underlying biodiversity change
+at multiple scales. Toward this end, I study a great diversity of organisms, linking ecological theory
+with field studies and experiments to improve understanding of the trait-environment relationships that
+underlie niche dynamics in space and time.
 
-IMERSS is a federally incorporated Canadian non-profit society (1203734-3) and charity (735876336RR0001).
-Our organization represents a multidisciplinary working group of scientists, scholars, artists and community
-members committed to fostering an inclusive culture of research and conservation in a bioregion currently undergoing
-rapid development and change. Engaging individuals and communities in ongoing research and monitoring, we support
-immersive, place-based experiences that foster awareness and respect for the Salish Sea. We take a networked approach
-to collecting, analyzing and sharing ecological data, helping to build community capacity for long-term ecological research at the local and regional scale.
+Presently, my work focuses on the fascinating worlds of lichens and the physiological dynamics of
+symbioses under stress.
 
-## Where We Are Based
-
-IMERSS is based on Galiano Island, in the southern Gulf Islands of British Columbia, yet has a broad bioregional
-focus. Our existing lab facilities support work in both marine and terrestrial ecosystems, enabling a broad range of research.
-
-
-## OBJECTIVES
-
-* To support open community participation in science, scholarship and art, promoting understanding, appreciation, and respect for the Salish Sea bioregion
-* To increase community capacity for long-term ecological research (LTER), toward a dynamic, healthy and interdependent Salish Sea
-* To advance knowledge, technology, and creative expression that strengthens multidisciplinary, cross-cultural and transboundary relationships, while informin
+As an advocate for community science, I also have a special interest in the development of frameworks
+supporting a networked, community-based approach to biodiversity research and monitoring. This work began
+with the [Biodiversity Galiano project](http://biogaliano.org) and continues through the organization I
+co-founded with friends and colleagues: the
+[Institute for Multidisciplinary Ecological Research in the Salish Sea (IMERSS)](https://imerss.org).

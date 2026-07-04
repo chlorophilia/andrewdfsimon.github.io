@@ -40,13 +40,22 @@ table {
 }
 
 .imerss-navbar-title {
-    color: white;
+    color: #212529;
     font-weight: 700;
     font-size: 20px;
 }
 
+html.dark .imerss-navbar-title {
+    color: #f3f4f6;
+}
+
+/* Neutral placeholder background — replace once we pick a personal accent color */
 .imerss-navbar {
-    background: #30638e
+    background: #ffffff;
+}
+
+html.dark .imerss-navbar {
+    background: #111827
 }
 
 .nav-link {
