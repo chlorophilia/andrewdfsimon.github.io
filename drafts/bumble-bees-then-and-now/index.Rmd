@@ -1,0 +1,100 @@
+---
+title: "Bumble bees, then and now: mapping change on Galiano Island"
+date: 2026-07-04
+draft: true
+_build:
+  render: never
+  list: never
+tags: ["community science", "bumble bees", "extirpation", "Galiano Island"]
+summary: "A template research note — historical records, a community-mapped survey, and a look at what quietly shifts in a pollinator community over decades."
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+```
+
+*This is a template post demonstrating the range of content a research note on this
+site can hold — a static figure, an interactive map, a collapsible methods section, and
+a set of related links. The figure below uses illustrative placeholder data, not the
+published results; swap in the real numbers when adapting this post.*
+
+Historical museum specimens and present-day community science observations rarely speak
+to each other directly — different collectors, different effort, different decades. But
+laid side by side, they can reveal quiet shifts in a pollinator community that neither
+record shows alone.
+
+<div class="pageinfo">
+<strong>Key idea</strong> — absence of a record is not evidence of absence. A species
+can be locally extirpated for years before that absence is even noticed, let alone
+confirmed.
+</div>
+
+```{r bee-detections, fig.cap="Illustrative comparison of historical museum records and contemporary community-mapped observations by species (placeholder data)."}
+library(ggplot2)
+
+set.seed(47)
+species <- c("B. mixtus", "B. flavifrons", "B. sitkensis", "B. vosnesenskii", "B. californicus")
+demo_data <- data.frame(
+  species = rep(species, 2),
+  period = rep(c("Historical (pre-2000)", "Contemporary (2016-2025)"), each = length(species)),
+  detections = c(18, 22, 9, 4, 11, 6, 19, 0, 15, 3)
+)
+demo_data$period <- factor(demo_data$period, levels = c("Historical (pre-2000)", "Contemporary (2016-2025)"))
+
+ggplot(demo_data, aes(x = species, y = detections, fill = period)) +
+  geom_col(position = position_dodge(width = 0.7), width = 0.6) +
+  scale_fill_manual(values = c("#8A8577", "#7FA83E")) +
+  labs(x = NULL, y = "Detections", fill = NULL) +
+  theme_minimal(base_size = 13) +
+  theme(legend.position = "top", panel.grid.minor = element_blank())
+```
+
+Two patterns worth a second look: *B. californicus* drops from a modest historical
+presence to zero contemporary detections despite substantial community search effort —
+a candidate for local extirpation. *B. vosnesenskii*, rarely recorded historically, now
+turns up regularly — a possible range shift or simply better detection through
+iNaturalist-literate observers.
+
+Community-mapped survey effort itself is worth showing, not just summarizing — search
+effort is part of the evidence, not just a caveat.
+
+```{r survey-map}
+library(leaflet)
+
+sites <- data.frame(
+  name = c("Bellhouse Park", "Montague Harbour", "Dionisio Point", "Bodega Ridge"),
+  lat  = c(48.9214, 48.8944, 48.9985, 48.8767),
+  lng  = c(-123.3487, -123.3961, -123.3735, -123.4653)
+)
+
+leaflet(sites) |>
+  addTiles() |>
+  setView(-123.42, 48.92, zoom = 12) |>
+  addCircleMarkers(~lng, ~lat, label = ~name, radius = 8,
+                    color = "#b6491f", fillOpacity = 0.85, stroke = FALSE)
+```
+
+<details class="research-details">
+<summary>Survey methodology (placeholder — replace with real methods)</summary>
+<p>Historical records compiled from museum specimen databases (e.g. GBIF-mediated
+collections). Contemporary records drawn from community-mapped iNaturalist
+observations, 2016–2025, restricted to research-grade identifications. Search effort
+estimated from GPS track density, following the same approach used in the
+<a href="https://github.com/IMERSS/detecting-local-extinction">extirpation detection protocol</a>.</p>
+</details>
+
+This kind of comparison is really a small-scale version of the same question at the
+heart of
+[Simon, Best & Starzomski (2023)](https://doi.org/10.3955/046.096.0305) — what
+does it take to responsibly claim a species has disappeared from a place, rather than
+simply gone unnoticed? It is also, not coincidentally, the same question the diatom
+monitoring work and the broader extirpation framework keep returning to at different
+scales.
+
+### Related
+
+<div class="related-links">
+<a href="http://biogaliano.org"><strong>Biodiversity Galiano</strong><span>Community-based biodiversity monitoring on Galiano Island</span></a>
+<a href="https://imerss.org"><strong>IMERSS</strong><span>Institute for Multidisciplinary Ecological Research in the Salish Sea</span></a>
+<a href="https://github.com/IMERSS/detecting-local-extinction"><strong>Detecting extirpation</strong><span>Protocol and documentation for the extirpation detection method</span></a>
+</div>

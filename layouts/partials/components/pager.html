@@ -2,7 +2,8 @@
 
 {{- $reversePagination := .Scratch.Get "reversePagination" | default false -}}
 
-{{- $pc := partialCached "build-page-collection.html" "/docs" -}}
+{{- $section := printf "/%s" .Section -}}
+{{- $pc := partialCached "build-page-collection.html" $section $section -}}
 {{- if eq $reversePagination false}}{{ $pc = $pc.Reverse }}{{ end -}}
 
 {{- $prev := $pc.Prev . -}}

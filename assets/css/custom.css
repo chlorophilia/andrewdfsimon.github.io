@@ -1,8 +1,72 @@
-@import "https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i&display=swap";
+@import "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,600&family=Inter:wght@400;500;600;700&display=swap";
 
 table {
   /* Override absolutely insane display:block in hextra core style */
     display: table !important;
+}
+
+/* The TOC's sticky bottom fade-mask hardcodes white/near-black to match the
+   theme's default page background — recolor to match our paper/ink bg. */
+.hextra-toc .hx-bg-white {
+    background-color: #f7f4ec;
+}
+
+.hextra-toc .dark\:hx-bg-dark:is(html[class~="dark"] *) {
+    background-color: #0f1410;
+}
+
+.hextra-toc .hx-shadow-\[0_-12px_16px_white\] {
+    box-shadow: 0 -12px 16px #f7f4ec;
+}
+
+.hextra-toc .dark\:hx-shadow-\[0_-12px_16px_\#111\]:is(html[class~="dark"] *) {
+    box-shadow: 0 -12px 16px #0f1410;
+}
+
+.cv-header {
+    text-align: center;
+    margin: -1rem 0 2rem;
+}
+
+.cv-name {
+    font-size: 1.6rem;
+    margin: 0;
+}
+
+.cv-position {
+    font-size: 0.95rem;
+    opacity: 0.75;
+    margin: 0.35rem 0 0;
+}
+
+.cv-contact {
+    font-size: 0.85rem;
+    opacity: 0.65;
+    margin: 0.6rem 0 0;
+}
+
+.cv-contact .icon {
+    vertical-align: -0.1em;
+}
+
+.cv-print-btn {
+    display: inline-block;
+    margin-bottom: 1.5rem;
+    padding: 0.5rem 1rem;
+    border: 1px solid var(--accent-rust);
+    border-radius: 0.375rem;
+    background: transparent;
+    color: var(--accent-rust);
+    cursor: pointer;
+    font: inherit;
+    font-weight: 500;
+}
+
+@media print {
+    .cv-print-btn,
+    .hextra-footer {
+        display: none !important;
+    }
 }
 
 :root {
@@ -13,10 +77,137 @@ table {
     --bs-border-color-translucent: rgba(0, 0, 0, 0.175);
     --bs-border-radius: 0.375rem;
     --bs-border-radius-lg: 0.5rem;
-    --bs-body-color: #212529;
-    --bs-body-font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    --bs-body-color: #0f1410;
+    --bs-body-font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+    /* Lichen green — site accent (drives Hextra's --primary-* link/button/focus system) */
+    --primary-hue: 83deg;
+    --primary-saturation: 46%;
+    --primary-lightness: 42%;
+
+    /* Rust — secondary accent, used sparingly for callouts and a few hand-placed details */
+    --accent-rust: #b6491f;
 
     font-family: var(--bs-body-font-family)
+}
+
+html.dark {
+    --bs-body-color: #f7f4ec;
+    --primary-hue: 83deg;
+    --primary-saturation: 50%;
+    --primary-lightness: 58%;
+    --accent-rust: #e8794f;
+}
+
+body {
+    background-color: #f7f4ec !important;
+}
+
+body:is(html[class~="dark"] *) {
+    background-color: #0f1410 !important;
+    color: #f7f4ec !important;
+}
+
+/* Fraunces for all headings, site-wide, plus the nav brand and the personal
+   signature — one consistent serif voice across the whole site. */
+h1, h2, h3,
+.imerss-navbar-title,
+.site-signature {
+    font-family: "Fraunces", Georgia, serif;
+}
+
+.imerss-navbar-title,
+.site-signature {
+    font-weight: 600;
+}
+
+.hero-tagline {
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+    color: var(--bs-body-color);
+    opacity: 0.65;
+    margin-top: 0.25rem;
+}
+
+/* Captioned R-generated figures (knitr fig.cap) — consistent framing so
+   figures read as one deliberate system rather than ad hoc images. */
+.figure {
+    text-align: center;
+    margin: 2rem auto;
+}
+
+.figure img {
+    border-radius: 0.5rem;
+    border: 1px solid var(--bs-border-color);
+}
+
+.figure .caption {
+    font-size: 0.85rem;
+    font-style: italic;
+    opacity: 0.65;
+    margin-top: 0.6rem;
+}
+
+html.dark .figure img {
+    border-color: rgba(247, 244, 236, 0.15);
+}
+
+/* Collapsible supplementary content (native <details>) — keeps the main
+   narrative uncluttered while methods/notes stay one click away. */
+.research-details {
+    margin: 2rem 0;
+    padding: 0.9rem 1.25rem;
+    border-radius: 0.5rem;
+    background: rgba(138, 133, 119, 0.1);
+}
+
+.research-details summary {
+    cursor: pointer;
+    font-weight: 500;
+}
+
+.research-details p {
+    margin-top: 0.75rem;
+}
+
+/* Related-resources link grid — the one consistent way to point out to the
+   rest of the ecosystem (IMERSS, Biodiversity Galiano, project docs, etc). */
+.related-links {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1rem;
+    margin: 1.5rem 0 2rem;
+}
+
+.related-links a {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    padding: 1rem 1.25rem;
+    border-radius: 0.5rem;
+    border: 1px solid var(--bs-border-color);
+    text-decoration: none;
+    color: inherit;
+    transition: border-color .15s ease-in-out;
+}
+
+.related-links a:hover {
+    border-color: var(--accent-rust);
+}
+
+.related-links strong {
+    font-size: 0.95rem;
+}
+
+.related-links span {
+    font-size: 0.85rem;
+    opacity: 0.65;
+}
+
+html.dark .related-links a {
+    border-color: rgba(247, 244, 236, 0.15);
 }
 
 .nav {
@@ -51,22 +242,20 @@ html.dark .nav {
 }
 
 .imerss-navbar-title {
-    color: #212529;
-    font-weight: 700;
+    color: #0f1410;
     font-size: 20px;
 }
 
 html.dark .imerss-navbar-title {
-    color: #f3f4f6;
+    color: #f7f4ec;
 }
 
-/* Neutral placeholder background — replace once we pick a personal accent color */
 .imerss-navbar {
-    background: #ffffff;
+    background: #f7f4ec;
 }
 
 html.dark .imerss-navbar {
-    background: #111827
+    background: #0f1410
 }
 
 .nav-link {
@@ -147,14 +336,15 @@ html.dark .imerss-navbar {
 
 .pageinfo {
     font-weight: 500;
-    background: #d6e0e8;
+    background: #f0dccb;
+    border-left: 3px solid var(--accent-rust);
     color: inherit;
     margin: 2rem auto;
     padding: 1.5rem;
 }
 
 .dark .pageinfo{
-    background: #124250;
+    background: #2a1d14;
 }
 
 @font-face {

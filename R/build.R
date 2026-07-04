@@ -1,2 +1,3 @@
-# An optional custom script to run before Hugo builds your site.
-# You can delete it if you do not need it.
+# Run before Hugo builds the site (blogdown::build_site() / serve_site()).
+source("R/generate_cv.R")
+source("R/generate_bibliography.R")
