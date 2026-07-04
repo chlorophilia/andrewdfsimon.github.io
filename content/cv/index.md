@@ -1,5 +1,5 @@
 ---
-title: CV
+title: Curriculum Vitae
 ---
 
 <div class="cv-header">
