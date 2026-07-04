@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://imerss.org/community/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>/community/markdown/</loc>
+    <lastmod>2025-10-22T15:30:47+01:00</lastmod>
   </url><url>
-    <loc>https://imerss.org/community/markdown/</loc>
-    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2025-10-22T15:30:47+01:00</lastmod>
   </url><url>
-    <loc>https://imerss.org/</loc>
-    <lastmod>2025-07-09T15:56:42+01:00</lastmod>
+    <loc>/about/</loc>
+    <lastmod>2025-10-22T15:30:47+01:00</lastmod>
   </url><url>
-    <loc>https://imerss.org/about/</loc>
-    <lastmod>2025-07-09T15:56:42+01:00</lastmod>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://imerss.org/categories/</loc>
+    <loc>/community/</loc>
+    <lastmod>2025-10-22T15:30:47+01:00</lastmod>
   </url><url>
-    <loc>https://imerss.org/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
