@@ -1,7 +1,7 @@
 {{- with site.GetPage "/research" }}
   {{- $posts := .Pages }}
   {{- if gt (len $posts) 0 }}
-    <div id="home-carousel" class="home-carousel"></div>
+    <div class="home-carousel"><div id="home-carousel" class="carousel-track"></div></div>
     {{- $items := slice }}
     {{- range $posts }}
       {{- $post := . }}
@@ -51,7 +51,7 @@
         var href = resolveUrl(post.url);
         if (post.image) {
           var img = resolveUrl(post.image);
-          html += '<a class="carousel-card ' + variant + '" style="--rot: ' + rotate + 'deg; border-color: ' + accent + ';" href="' + href + '" title="' + title + '">' +
+          html += '<a class="carousel-card carousel-photo ' + variant + '" style="--rot: ' + rotate + 'deg; border-color: ' + accent + ';" href="' + href + '" title="' + title + '">' +
             '<img src="' + img + '" alt="' + title + '" loading="lazy" /></a>';
         } else {
           html += '<a class="carousel-card ' + variant + '" style="--rot: ' + rotate + 'deg; border-color: ' + accent + '; background:' + accent + ';" href="' + href + '">' +

@@ -1,7 +1,37 @@
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Andrew D.F. Simon – Squamish</title><link>/tags/squamish/</link><description>Recent content in Squamish on Andrew D.F. Simon</description><generator>Hugo -- gohugo.io</generator><language>en</language><atom:link href="/tags/squamish/index.xml" rel="self" type="application/rss+xml"/><item><title>Rediscovering Brotherella roellii at the Cheakamus Centre</title><link>/research/rediscovering-brotherella-roellii/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/research/rediscovering-brotherella-roellii/</guid><description>
-&lt;p>&lt;img src="cover.jpg" alt="Sporophytes, close-up moss detail, and the old-growth Western redcedar snag where this population grows" loading="lazy" />&lt;/p>
-&lt;p>In May 2025, I found sporophytes of &lt;em>Brotherella roellii&lt;/em> — Roell&amp;rsquo;s Brotherella Moss — growing on an old-growth Western redcedar snag in Squamish, BC.&lt;/p>
-&lt;p>&lt;em>Brotherella roellii&lt;/em> is endangered in Canada and, as far as anyone knows, found nowhere else on Earth. It was once also known from the United States, but is now believed extirpated from its historical American range, leaving a scatter of populations across Howe Sound, the Lower Mainland, and the Fraser Valley as its entire remaining stronghold.&lt;/p>
-&lt;p>This particular population, at the Cheakamus Centre, was first recorded in 1916 and last seen in 2006. Confirming it was still there — healthy, and possibly one of the most robust known populations in the Howe Sound region — felt less like a new discovery than like closing an eighty-year loop. The species appears to be gone from at least one of its historical sites elsewhere in Squamish, which makes protected, undisturbed refuges like the Cheakamus Centre increasingly important as development fragments the shaded, moist habitat it depends on.&lt;/p>
-&lt;p>iNaturalist featured the observation as an &lt;a href="https://www.inaturalist.org/observations/282952652" target="_blank" rel="noopener">Observation of the Day&lt;/a>, describing it as &amp;ldquo;a species found only in British Columbia &amp;amp; listed as endangered in Canada.&amp;rdquo; It also became one of the data points behind a larger piece of news: the Squamish River watershed&amp;rsquo;s recognition as a &lt;a href="https://wcscanada.org/newsroom/news/squamish-river-recognized-as-a-key-biodiversity-area-of-global-importance/" target="_blank" rel="noopener">Key Biodiversity Area of global significance&lt;/a>, owed in part to holding roughly 10% of this species&amp;rsquo; entire known population.&lt;/p>
-&lt;p>My current research looks at the abiotic conditions — light, moisture, substrate — that seem to limit where this moss can persist, work I hope will eventually feed into educational programming at the Cheakamus Centre itself.&lt;/p></description></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew D.F. Simon – Squamish</title>
+    <link>/tags/squamish/</link>
+    <description>Recent content in Squamish on Andrew D.F. Simon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="/tags/squamish/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Rediscovering Brotherella roellii at the Cheakamus Centre</title>
+      <link>/research/rediscovering-brotherella-roellii/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/research/rediscovering-brotherella-roellii/</guid>
+      <description>
+        
+        
+        &lt;p&gt;&lt;img src=&#34;cover.jpg&#34; alt=&#34;Sporophytes, close-up moss detail, and the old-growth Western redcedar snag where this population grows&#34; loading=&#34;lazy&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;In May 2025, I found sporophytes of &lt;em&gt;Brotherella roellii&lt;/em&gt; — Roell&amp;rsquo;s Brotherella Moss — growing on an old-growth Western redcedar snag in Squamish, BC.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Brotherella roellii&lt;/em&gt; is endangered in Canada and, as far as anyone knows, found nowhere else on Earth. It was once also known from the United States, but is now believed extirpated from its historical American range, leaving a scatter of populations across Howe Sound, the Lower Mainland, and the Fraser Valley as its entire remaining stronghold.&lt;/p&gt;
+&lt;p&gt;This particular population, at the Cheakamus Centre, was first recorded in 1916 and last seen in 2006. Confirming it was still there — healthy, and possibly one of the most robust known populations in the Howe Sound region — felt less like a new discovery than like closing an eighty-year loop. The species appears to be gone from at least one of its historical sites elsewhere in Squamish, which makes protected, undisturbed refuges like the Cheakamus Centre increasingly important as development fragments the shaded, moist habitat it depends on.&lt;/p&gt;
+&lt;p&gt;iNaturalist featured the observation as an &lt;a href=&#34;https://www.inaturalist.org/observations/282952652&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Observation of the Day&lt;/a&gt;, describing it as &amp;ldquo;a species found only in British Columbia &amp;amp; listed as endangered in Canada.&amp;rdquo; It also became one of the data points behind a larger piece of news: the Squamish River watershed&amp;rsquo;s recognition as a &lt;a href=&#34;https://wcscanada.org/newsroom/news/squamish-river-recognized-as-a-key-biodiversity-area-of-global-importance/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Key Biodiversity Area of global significance&lt;/a&gt;, owed in part to holding roughly 10% of this species&amp;rsquo; entire known population.&lt;/p&gt;
+&lt;p&gt;My current research looks at the abiotic conditions — light, moisture, substrate — that seem to limit where this moss can persist, work I hope will eventually feed into educational programming at the Cheakamus Centre itself.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

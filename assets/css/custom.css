@@ -6,11 +6,13 @@ table {
 }
 
 /* Home carousel — organic blob-framed cards, pinned + randomly reshuffled
-   client-side on each load (see layouts/index.html). Filler cards (flat
-   color, no border) pad the row out until there's enough real content. */
+   client-side on each load (see layouts/shortcodes/research-carousel.html).
+   Filler cards (flat color, no border) pad the row out until there's enough
+   real content. The viewport breaks full-bleed and scrolls on overflow; the
+   track inside it shrink-wraps and centers via margin:auto when the row of
+   cards is narrower than the viewport (typical desktop case), while still
+   overflowing safely into the scrollable area on narrow screens. */
 .home-carousel {
-    display: flex;
-    gap: 28px;
     overflow-x: auto;
     padding: 2rem 2.5rem 1.5rem;
     width: 100vw;
@@ -19,6 +21,13 @@ table {
     right: 50%;
     margin-left: -50vw;
     margin-right: -50vw;
+}
+
+.carousel-track {
+    display: flex;
+    gap: 28px;
+    width: max-content;
+    margin: 0 auto;
 }
 
 /* Research list entries — plain Tailwind gap utilities above hx-gap-4 are
@@ -77,6 +86,15 @@ a.carousel-card:hover {
 .blob-3 { width: 185px; height: 165px; border-radius: 52% 48% 41% 59% / 60% 43% 57% 40%; margin-top: 10px; }
 .blob-4 { width: 160px; height: 180px; border-radius: 45% 55% 63% 37% / 37% 55% 45% 63%; margin-top: 16px; }
 .blob-5 { width: 150px; height: 170px; border-radius: 60% 40% 46% 54% / 50% 45% 55% 50%; margin-top: 24px; }
+
+/* Real photos get a plain oval, not the wild blob curve above — corner
+   radii like blob-1's 63% eat so far into the box that any photo with
+   content near the edges (which is most of them) reads as clipped. A
+   circle/oval crop is the standard, predictable way to frame a photo and
+   still reads as "one of the blobs" alongside the color-only shapes. */
+.carousel-card.carousel-photo {
+    border-radius: 50%;
+}
 
 /* The TOC's sticky bottom fade-mask hardcodes white/near-black to match the
    theme's default page background — recolor to match our paper/ink bg. */
