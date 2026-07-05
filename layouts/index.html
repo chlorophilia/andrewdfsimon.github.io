@@ -5,60 +5,6 @@
       <main class="hx-w-full hx-min-w-0 hx-max-w-6xl hx-px-6 hx-pt-4 md:hx-px-12">
         {{ if .Title }}<h1 class="site-signature hx-text-center hx-mt-2 hx-text-4xl hx-tracking-tight hx-text-slate-900 dark:hx-text-slate-100">{{ .Title }}</h1>{{ end }}
         {{ with .Params.tagline }}<p class="hero-tagline">{{ . }}</p>{{ end }}
-        {{- with site.GetPage "/research" }}
-          {{- $posts := .Pages }}
-          {{- if gt (len $posts) 0 }}
-            <div id="home-carousel" class="home-carousel"></div>
-            {{- $items := slice }}
-            {{- range $posts }}
-              {{- $post := . }}
-              {{- $pinned := false }}
-              {{- with $post.Params.weight }}{{ if gt . 0 }}{{ $pinned = true }}{{ end }}{{ end }}
-              {{- $image := "" }}
-              {{- with $post.Params.image }}{{ $image = printf "%s%s" $post.RelPermalink . }}{{ end }}
-              {{- $items = $items | append (dict "title" $post.Title "url" $post.RelPermalink "image" $image "pinned" $pinned) }}
-            {{- end }}
-            <script type="application/json" id="research-data">{{ $items | jsonify | safeJS }}</script>
-            <script>
-            (function () {
-              var data = JSON.parse(document.getElementById('research-data').textContent);
-              var pinned = data.filter(function (p) { return p.pinned; });
-              var rest = data.filter(function (p) { return !p.pinned; });
-              for (var i = rest.length - 1; i > 0; i--) {
-                var j = Math.floor(Math.random() * (i + 1));
-                var tmp = rest[i]; rest[i] = rest[j]; rest[j] = tmp;
-              }
-              var TARGET = 5;
-              var chosen = pinned.concat(rest).slice(0, TARGET);
-              var fillerCount = Math.max(0, TARGET - chosen.length);
-              var variants = ['blob-1', 'blob-2', 'blob-3', 'blob-4', 'blob-5'];
-              var accents = ['#7FA83E', '#D8582F'];
-              var fillerColors = ['#7FA83E', '#D8582F', '#8A8577'];
-              var html = '';
-              chosen.forEach(function (post, idx) {
-                var variant = variants[idx % variants.length];
-                var rotate = (Math.random() * 10 - 5).toFixed(1);
-                var accent = accents[idx % accents.length];
-                var title = post.title.replace(/"/g, '&quot;');
-                if (post.image) {
-                  html += '<a class="carousel-card ' + variant + '" style="--rot: ' + rotate + 'deg; border-color: ' + accent + ';" href="' + post.url + '" title="' + title + '">' +
-                    '<img src="' + post.image + '" alt="' + title + '" loading="lazy" /></a>';
-                } else {
-                  html += '<a class="carousel-card ' + variant + '" style="--rot: ' + rotate + 'deg; border-color: ' + accent + '; background:' + accent + ';" href="' + post.url + '">' +
-                    '<span class="carousel-card-label">' + title + '</span></a>';
-                }
-              });
-              for (var f = 0; f < fillerCount; f++) {
-                var variant = variants[(chosen.length + f) % variants.length];
-                var rotate = (Math.random() * 10 - 5).toFixed(1);
-                var color = fillerColors[Math.floor(Math.random() * fillerColors.length)];
-                html += '<div class="carousel-card carousel-filler ' + variant + '" style="--rot: ' + rotate + 'deg; background: ' + color + ';"></div>';
-              }
-              document.getElementById('home-carousel').innerHTML = html;
-            })();
-            </script>
-          {{- end }}
-        {{- end }}
         <div class="content">
           {{ .Content }}
         </div>

@@ -1,0 +1,71 @@
+{{- with site.GetPage "/research" }}
+  {{- $posts := .Pages }}
+  {{- if gt (len $posts) 0 }}
+    <div id="home-carousel" class="home-carousel"></div>
+    {{- $items := slice }}
+    {{- range $posts }}
+      {{- $post := . }}
+      {{- $pinned := false }}
+      {{- with $post.Params.weight }}{{ if gt . 0 }}{{ $pinned = true }}{{ end }}{{ end }}
+      {{- $image := "" }}
+      {{- with $post.Params.image }}{{ $image = printf "%s%s" $post.RelPermalink . }}{{ end }}
+      {{- $items = $items | append (dict "title" $post.Title "url" $post.RelPermalink "image" $image "pinned" $pinned) }}
+    {{- end }}
+    <script type="application/json" id="research-data">{{ $items | jsonify | safeJS }}</script>
+    <script>
+    (function () {
+      // Hugo's relativeURLs post-processing only rewrites real href/src
+      // attributes in the rendered HTML — it can't touch URLs that are
+      // just data inside this JSON blob. Those come out of Hugo as paths
+      // rooted at "/", which only work if the site is actually served
+      // from its domain root. To stay correct under any deploy path
+      // (e.g. a GitHub Pages project subpath), resolve them at runtime
+      // against #site-root-marker, a <link> whose href Hugo *does*
+      // rewrite, so its resolved .href always points at the site's true
+      // root as actually deployed.
+      var rootLink = document.getElementById('site-root-marker');
+      var rootHref = rootLink ? rootLink.href : document.baseURI;
+      function resolveUrl(path) {
+        if (!path) return path;
+        return new URL(path.replace(/^\//, ''), rootHref).href;
+      }
+      var data = JSON.parse(document.getElementById('research-data').textContent);
+      var pinned = data.filter(function (p) { return p.pinned; });
+      var rest = data.filter(function (p) { return !p.pinned; });
+      for (var i = rest.length - 1; i > 0; i--) {
+        var j = Math.floor(Math.random() * (i + 1));
+        var tmp = rest[i]; rest[i] = rest[j]; rest[j] = tmp;
+      }
+      var TARGET = 5;
+      var chosen = pinned.concat(rest).slice(0, TARGET);
+      var fillerCount = Math.max(0, TARGET - chosen.length);
+      var variants = ['blob-1', 'blob-2', 'blob-3', 'blob-4', 'blob-5'];
+      var accents = ['#7FA83E', '#D8582F'];
+      var fillerColors = ['#7FA83E', '#D8582F', '#8A8577'];
+      var html = '';
+      chosen.forEach(function (post, idx) {
+        var variant = variants[idx % variants.length];
+        var rotate = (Math.random() * 10 - 5).toFixed(1);
+        var accent = accents[idx % accents.length];
+        var title = post.title.replace(/"/g, '&quot;');
+        var href = resolveUrl(post.url);
+        if (post.image) {
+          var img = resolveUrl(post.image);
+          html += '<a class="carousel-card ' + variant + '" style="--rot: ' + rotate + 'deg; border-color: ' + accent + ';" href="' + href + '" title="' + title + '">' +
+            '<img src="' + img + '" alt="' + title + '" loading="lazy" /></a>';
+        } else {
+          html += '<a class="carousel-card ' + variant + '" style="--rot: ' + rotate + 'deg; border-color: ' + accent + '; background:' + accent + ';" href="' + href + '">' +
+            '<span class="carousel-card-label">' + title + '</span></a>';
+        }
+      });
+      for (var f = 0; f < fillerCount; f++) {
+        var variant = variants[(chosen.length + f) % variants.length];
+        var rotate = (Math.random() * 10 - 5).toFixed(1);
+        var color = fillerColors[Math.floor(Math.random() * fillerColors.length)];
+        html += '<div class="carousel-card carousel-filler ' + variant + '" style="--rot: ' + rotate + 'deg; background: ' + color + ';"></div>';
+      }
+      document.getElementById('home-carousel').innerHTML = html;
+    })();
+    </script>
+  {{- end }}
+{{- end }}

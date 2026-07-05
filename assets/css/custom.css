@@ -49,6 +49,11 @@ a.carousel-card:hover {
     height: 100%;
     object-fit: cover;
     display: block;
+    /* The blobs' border-radius corners round in as much as 63%, well past
+       a plain circle. A flush 100% image gets its corners eaten by that
+       curve, clipping whatever content sits there. Overscanning slightly
+       keeps a centered subject clear of the curve on every blob variant. */
+    transform: scale(1.18);
 }
 
 .carousel-card.carousel-filler {

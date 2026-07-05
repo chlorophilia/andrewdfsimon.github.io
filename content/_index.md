@@ -3,6 +3,8 @@ title: Andrew D.F. Simon
 tagline: "Naturalist, biologist, biodiversity data scientist"
 ---
 
+{{< research-carousel >}}
+
 I am a PhD candidate in the [Spribille Lab at the University of Alberta](https://spribillelab.wordpress.com)
 with research ongoing in ᐊᒥᐢᑿᒌᐚᐢᑲᐦᐃᑲᐣ / Amiskwacîwâskahikan / Treaty 6 territories (northern central Alberta),
 and within the territories of the *leey'qsu*, *lekwungen*, *lhaq'temish*, *musqueam*, *pune'luxutth'*,
