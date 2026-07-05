@@ -1,11 +1,11 @@
 ---
-title: CV
+title: Curriculum Vitae
 ---
 
 <div class="cv-header">
 <p class="cv-name site-signature">Andrew D.F. Simon</p>
-<p class="cv-position">PhD Student | Biological Sciences | University of Alberta</p>
-<p class="cv-contact">281 Highland Road, Galiano Island, BC, Canada, V0N 1P0 &middot; (250) 888-6144 &middot; <a href="mailto:adsimon@ualberta.ca">adsimon@ualberta.ca</a> &middot; <a href="https://imerss.org">imerss.org</a> &middot; <a href="https://bsky.app/profile/chlorophilia.bsky.social">{{< icon "bluesky" >}} Bluesky</a></p>
+<p class="cv-position">PhD Candidate | Biological Sciences | University of Alberta</p>
+<p class="cv-contact">8735 80 Ave NW, Edmonton, AB T6E 2H6 &middot; (250) 888-6144 &middot; <a href="mailto:adsimon@ualberta.ca">adsimon@ualberta.ca</a> &middot; <a href="https://imerss.org">imerss.org</a> &middot; <a href="https://bsky.app/profile/chlorophilia.bsky.social">{{< icon "bluesky" >}} Bluesky</a></p>
 </div>
 
 <button class="cv-print-btn" onclick="window.print()">Print / Save as PDF</button>

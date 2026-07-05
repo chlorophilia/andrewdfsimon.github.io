@@ -73,29 +73,29 @@ A.D.F. Simon (2018) The bumble bees of Galiano Island, BC. Entomological Society
 
 ## In Review
 
-Simon, A.D.F., Chang, A., Whitehead, J., Humphrey, E., Morien, E., van Asselt, A., & Webber, M. (In Review) Linnaean and Darwinian shortfalls limit long-term monitoring of Salish Sea diatoms.
+A.D.F. Simon, A. Chang, J. Whitehead, E. Humphrey, E. Morien, A. van Asselt, M. Webber (In Review) Linnaean and Darwinian shortfalls limit long-term monitoring of Salish Sea diatoms.
 
 ## In the Media
 
-Doll, S. (2023, August 5) [Maxwell Creek Watershed Project Field Files Part 2: Developing surveying methodologies](https://www.raincoast.org/2022/08/maxwell-creek-watershed-project-field-files-part-2-developing-surveying-methodologies/). Raincoast Conservation Foundation.
+S. Doll (2023, August 5) [Maxwell Creek Watershed Project Field Files Part 2: Developing surveying methodologies](https://www.raincoast.org/2022/08/maxwell-creek-watershed-project-field-files-part-2-developing-surveying-methodologies/). Raincoast Conservation Foundation.
 
-Wang, M. (2022, June 28) [A Community's Quest to Document Every Species on Their Island Home](https://hakaimagazine.com/features/a-communitys-quest-to-document-every-species-on-their-island-home) Hakai Magazine.
+M. Wang (2022, June 28) [A Community's Quest to Document Every Species on Their Island Home](https://hakaimagazine.com/features/a-communitys-quest-to-document-every-species-on-their-island-home) Hakai Magazine.
 
-Weidenhammer, L. (2022, June 15) [Stalking the Wild Flora and Fauna of Galiano Island](https://www.bcnativebees.org/post/stalking-the-wild-flora-and-fauna-of-galiano-island). Native Bee Society of BC.
+L. Weidenhammer (2022, June 15) [Stalking the Wild Flora and Fauna of Galiano Island](https://www.bcnativebees.org/post/stalking-the-wild-flora-and-fauna-of-galiano-island). Native Bee Society of BC.
 
-Wood, D. (2020, Summer) Stumbling toward oblivion: without provincial legislation, British Columbia's endangered species face extinction. British Columbia Magazine, 62(2), 32-33.
+D. Wood (2020, Summer) Stumbling toward oblivion: without provincial legislation, British Columbia's endangered species face extinction. British Columbia Magazine, 62(2), 32-33.
 
-Wang, M. (2017, September 21) [Citizen science platform iNaturalist is testing artificial intelligence to help with species identification](https://canadiangeographic.ca/articles/citizen-science-platform-inaturalist-is-testing-artificial-intelligence-to-help-with-species-identification/). Canadian Geographic.
+M. Wang (2017, September 21) [Citizen science platform iNaturalist is testing artificial intelligence to help with species identification](https://canadiangeographic.ca/articles/citizen-science-platform-inaturalist-is-testing-artificial-intelligence-to-help-with-species-identification/). Canadian Geographic.
 
 ## Other Works
 
-Antonelli, A. et al. (2026). State of the World's Plants and Fungi 2026. Royal Botanic Gardens, Kew. https://doi.org/10.34885/rdzs-ky83
+A. Antonelli et al. (2026). State of the World's Plants and Fungi 2026. Royal Botanic Gardens, Kew. https://doi.org/10.34885/rdzs-ky83
 
-Magner, L., & Simon, A.D.F. (2019) Key to the Conifers of Galiano Island, BC, 2150. In C. Sandilands (Ed.), Rising Tides (pp. 199–204). Halfmoon Bay, BC: Caitlin Press.
+L. Magner, A.D.F. Simon (2019) Key to the Conifers of Galiano Island, BC, 2150. In C. Sandilands (Ed.), Rising Tides (pp. 199–204). Halfmoon Bay, BC: Caitlin Press.
 
 ## Theses
 
-[Simon, A.D.F. (2020) Water into nectar: the effects of seasonal drought on bumble bee and flowering plant communities (MSc thesis).](https://dspace.library.uvic.ca:8443/handle/1828/11837/)
+[A.D.F. Simon (2020) Water into nectar: the effects of seasonal drought on bumble bee and flowering plant communities (MSc thesis).](https://dspace.library.uvic.ca:8443/handle/1828/11837/)
 
-Simon, A.D.F. (2016) Potential risks and mitigations of prescribed fire in caribou habitat (Honour's Thesis).
+A.D.F. Simon (2016) Potential risks and mitigations of prescribed fire in caribou habitat (Honour's Thesis).
 
