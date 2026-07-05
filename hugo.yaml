@@ -125,9 +125,12 @@ params:
   blog:
     list:
       displayTags: true
+      # Research posts aren't chronological. Give a post `weight: 1` (or any
+      # low number) to pin it to the front; everything else sorts after, in
+      # Hugo's stable default order.
       # date | lastmod | publishDate | title | weight
-      sortBy: date
-      sortOrder: desc # or "asc"
+      sortBy: weight
+      sortOrder: asc
 
   highlight:
     copy:

@@ -1,8 +1,7 @@
 ---
 title: Andrew D.F. Simon
+tagline: "Naturalist, biologist, biodiversity data scientist"
 ---
-
-<p class="hero-tagline">Naturalist, biologist, biodiversity data scientist</p>
 
 I am a PhD candidate in the [Spribille Lab at the University of Alberta](https://spribillelab.wordpress.com)
 with research ongoing in ᐊᒥᐢᑿᒌᐚᐢᑲᐦᐃᑲᐣ / Amiskwacîwâskahikan / Treaty 6 territories (northern central Alberta),
@@ -23,5 +22,3 @@ supporting a networked, community-based approach to biodiversity research and mo
 with the [Biodiversity Galiano project](http://biogaliano.org) and continues through the organization I
 co-founded with friends and colleagues: the
 [Institute for Multidisciplinary Ecological Research in the Salish Sea (IMERSS)](https://imerss.org).
-
-[Bibliography →](/bibliography/) &middot; [CV →](/cv/) &middot; [Research →](/research/)
