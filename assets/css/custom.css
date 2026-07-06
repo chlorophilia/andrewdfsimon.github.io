@@ -59,10 +59,11 @@ a.carousel-card:hover {
     object-fit: cover;
     display: block;
     /* The blobs' border-radius corners round in as much as 63%, well past
-       a plain circle. A flush 100% image gets its corners eaten by that
-       curve, clipping whatever content sits there. Overscanning slightly
-       keeps a centered subject clear of the curve on every blob variant. */
-    transform: scale(1.18);
+       a plain circle. Overscanning keeps a centered subject clear of that
+       curve across every blob variant, so photos can keep the same wild
+       organic shapes as the color-only filler cards instead of falling
+       back to a plain circle. */
+    transform: scale(1.3);
 }
 
 .carousel-card.carousel-filler {
@@ -87,14 +88,6 @@ a.carousel-card:hover {
 .blob-4 { width: 160px; height: 180px; border-radius: 45% 55% 63% 37% / 37% 55% 45% 63%; margin-top: 16px; }
 .blob-5 { width: 150px; height: 170px; border-radius: 60% 40% 46% 54% / 50% 45% 55% 50%; margin-top: 24px; }
 
-/* Real photos get a plain oval, not the wild blob curve above — corner
-   radii like blob-1's 63% eat so far into the box that any photo with
-   content near the edges (which is most of them) reads as clipped. A
-   circle/oval crop is the standard, predictable way to frame a photo and
-   still reads as "one of the blobs" alongside the color-only shapes. */
-.carousel-card.carousel-photo {
-    border-radius: 50%;
-}
 
 /* The TOC's sticky bottom fade-mask hardcodes white/near-black to match the
    theme's default page background — recolor to match our paper/ink bg. */
@@ -241,6 +234,26 @@ h1, h2, h3,
     font-style: italic;
     opacity: 0.65;
     margin-top: 0.6rem;
+}
+
+/* A smaller, right-floated variant for figures embedded within body text —
+   full-width portrait photos otherwise dominate the page. Text wraps to
+   the left; drops back to the plain centered figure layout on narrow
+   screens where there's no room for text to wrap alongside it. */
+.figure.figure-right {
+    float: right;
+    width: 260px;
+    max-width: 45%;
+    margin: 0.25rem 0 1.5rem 2rem;
+}
+
+@media (max-width: 640px) {
+    .figure.figure-right {
+        float: none;
+        width: auto;
+        max-width: 100%;
+        margin: 2rem auto;
+    }
 }
 
 html.dark .figure img {

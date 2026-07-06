@@ -1,0 +1,45 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew D.F. Simon – digitisation</title>
+    <link>/tags/digitisation/</link>
+    <description>Recent content in digitisation on Andrew D.F. Simon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="/tags/digitisation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Detecting extinction: from the local to the global scale</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>
+        
+        
+        &lt;div class=&#34;figure figure-right&#34;&gt;
+&lt;img src=&#34;cover.jpg&#34; alt=&#34;Primula pauciflora in bloom&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;&lt;em&gt;Primula pauciflora&lt;/em&gt;, one of two species we inferred as likely extirpated on Galiano Island. Photo: Peter Zika.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;The Royal Botanic Gardens, Kew released its sixth &lt;a href=&#34;https://www.kew.org/science/state-of-the-worlds-plants-and-fungi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;State of the World&amp;rsquo;s Plants and Fungi report&lt;/a&gt; this year, drawing on work from over 400 scientists across 40 countries. The headline is a hopeful one — what the report calls a digital revolution: AI and mass digitisation of herbarium and fungarium specimens — Kew alone has now digitised all 7.4 million specimens in its own collections — are giving biodiversity science tools it didn&amp;rsquo;t have even a decade ago, from spotting species new to science in a smartphone photo to reading a century of shifting flowering times out of pressed and dried plants.&lt;/p&gt;
+&lt;p&gt;But the report is just as clear about what those tools expose: fewer than 1,000 plant species have been formally declared extinct, against 29,748 currently threatened, and only a fraction of known species have been assessed at all. The report&amp;rsquo;s own framing is blunt about why: traditional extinction assessment treats a species as either living or extinct, when in practice absence is almost always uncertain — poorly recorded, poorly surveyed, easy to mistake for &amp;ldquo;not found yet.&amp;rdquo; The report calls this gap the &lt;em&gt;Katuš shortfall&lt;/em&gt;, and argues for probability-based approaches, already common in animal conservation, to estimate whether a species is truly gone or simply undetected.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s the exact problem a &lt;a href=&#34;https://doi.org/10.1002/ppp3.70130&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; I coauthored with A. Basman, R.A. Martin, C. Robinson, and Q. Cronk — &lt;em&gt;Detecting extirpation: A localized approach to a global problem&lt;/em&gt; (&lt;em&gt;Plants, People, Planet&lt;/em&gt;, 2025) — was written to address, just at a different scale. Extinction, after all, is what happens once every local population has already been extirpated. Our &lt;a href=&#34;https://imerss.github.io/detecting-local-extinction/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;protocol&lt;/a&gt; — herbarium specimens, community science, targeted surveys — tests that hypothesis locally, against IUCN&amp;rsquo;s own extinction criteria, using the habitat data, occurrence records, and search effort that are realistically available at the scale where communities can actually act on the answer.&lt;/p&gt;
+&lt;p&gt;Both approaches are necessary, and neither substitutes for the other. The term itself comes from a paper released alongside the report, as part of the same special collection: Aelys Humphreys and colleagues coin the &lt;em&gt;Katuš shortfall&lt;/em&gt;, and propose closing it by turning the world&amp;rsquo;s digitised herbaria and AI — the &amp;ldquo;global metaherbarium&amp;rdquo; — toward estimating the &lt;em&gt;probability&lt;/em&gt; of extinction, rather than trying to prove absence outright, at continental and planetary scale. Our protocol is built for the opposite end of that spectrum: the community naturalist, land manager, or field botanist trying to answer a much smaller, much more local question — is &lt;em&gt;this&lt;/em&gt; population, at &lt;em&gt;this&lt;/em&gt; site, still here — with the kind of localized, often patchy evidence that&amp;rsquo;s all anyone usually has. The global synthesis tells you where to look; the local test is how you actually find out.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;State of the World&amp;rsquo;s Plants and Fungi 2026&lt;/em&gt; is a reminder that the instruments for closing that gap — digitisation, statistical models, community-contributed observations — are converging fast. But some of the evidence never made it into a herbarium at all. The last two species we could infer as likely extirpated on Galiano Island (&lt;em&gt;Crassula connata&lt;/em&gt; and &lt;em&gt;Primula pauciflora&lt;/em&gt;, above) only made sense once the late Harvey Janszen — who&amp;rsquo;d known these populations for decades — helped us define what &amp;ldquo;historical habitat&amp;rdquo; even meant there, in the months before he passed in 2021.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;harvey-and-hannah.jpg&#34; alt=&#34;Harvey Janszen and Hannah Carpendale searching for Platanthera unalascensis on Stockade Hill, Galiano Island&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;Harvey Janszen and Hannah Carpendale searching for &lt;em&gt;Platanthera unalascensis&lt;/em&gt; on Stockade Hill, Galiano Island — July 2020, less than a year before Harvey passed.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;It&amp;rsquo;s a small, local instance of the same shortfall the report describes at planetary scale: what we don&amp;rsquo;t know we&amp;rsquo;ve lost, we can&amp;rsquo;t measure — and some of what&amp;rsquo;s disappearing isn&amp;rsquo;t a population, but the memory of one.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -7,8 +7,14 @@
       {{- $post := . }}
       {{- $pinned := false }}
       {{- with $post.Params.weight }}{{ if gt . 0 }}{{ $pinned = true }}{{ end }}{{ end }}
+      {{- /* Archived posts (_build.render: never) have no RelPermalink, but
+             their page-bundle resources still publish to the normal path —
+             fall back to deriving it from .Path so the thumbnail still
+             resolves even though the post itself has no live page. */}}
+      {{- $dir := $post.RelPermalink }}
+      {{- if eq $dir "" }}{{ $dir = printf "/%s" (replace $post.Path "index.md" "") }}{{ end }}
       {{- $image := "" }}
-      {{- with $post.Params.image }}{{ $image = printf "%s%s" $post.RelPermalink . }}{{ end }}
+      {{- with $post.Params.image }}{{ $image = printf "%s%s" $dir . }}{{ end }}
       {{- $items = $items | append (dict "title" $post.Title "url" $post.RelPermalink "image" $image "pinned" $pinned) }}
     {{- end }}
     <script type="application/json" id="research-data">{{ $items | jsonify | safeJS }}</script>
@@ -48,10 +54,16 @@
         var rotate = (Math.random() * 10 - 5).toFixed(1);
         var accent = accents[idx % accents.length];
         var title = post.title.replace(/"/g, '&quot;');
-        var href = resolveUrl(post.url);
-        if (post.image) {
+        var href = post.url ? resolveUrl(post.url) : '';
+        if (post.image && !href) {
+          // Archived post: still showing the thumbnail, but there's no live
+          // page behind it to link to.
           var img = resolveUrl(post.image);
-          html += '<a class="carousel-card carousel-photo ' + variant + '" style="--rot: ' + rotate + 'deg; border-color: ' + accent + ';" href="' + href + '" title="' + title + '">' +
+          html += '<div class="carousel-card ' + variant + '" style="--rot: ' + rotate + 'deg; border-color: ' + accent + ';" title="' + title + '">' +
+            '<img src="' + img + '" alt="' + title + '" loading="lazy" /></div>';
+        } else if (post.image) {
+          var img = resolveUrl(post.image);
+          html += '<a class="carousel-card ' + variant + '" style="--rot: ' + rotate + 'deg; border-color: ' + accent + ';" href="' + href + '" title="' + title + '">' +
             '<img src="' + img + '" alt="' + title + '" loading="lazy" /></a>';
         } else {
           html += '<a class="carousel-card ' + variant + '" style="--rot: ' + rotate + 'deg; border-color: ' + accent + '; background:' + accent + ';" href="' + href + '">' +

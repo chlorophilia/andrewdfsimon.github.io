@@ -9,6 +9,10 @@
         <div class="content">{{ .Content }}</div>
         {{- $pages := partial "utils/sort-pages" (dict "page" . "by" site.Params.blog.list.sortBy "order" site.Params.blog.list.sortOrder) -}}
         {{- range $i, $page := $pages }}
+          {{- /* Archived posts (_build.render: never) have no rendered page
+                 at all — RelPermalink is empty — so they're excluded from
+                 this listing even though they still feed the home carousel. */}}
+          {{- if $page.RelPermalink }}
           {{- $variant := printf "blob-%d" (add (mod $i 5) 1) }}
           {{- $accent := "#7FA83E" }}
           {{- if eq (mod $i 2) 1 }}{{ $accent = "#D8582F" }}{{ end }}
@@ -35,6 +39,7 @@
               </p>
             </div>
           </div>
+          {{- end }}
         {{ end -}}
       </main>
     </article>

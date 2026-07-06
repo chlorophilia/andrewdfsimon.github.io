@@ -1,8 +1,12 @@
 ---
-title: "Rediscovering Brotherella roellii at the Cheakamus Centre"
+title: "Rediscovering Roell's Brotherella Moss at the Cheakamus Centre"
 tags: ["bryophytes", "endangered species", "key biodiversity areas", "Squamish"]
 summary: "A 2025 rediscovery of an endangered moss last seen in 2006 — and one of the findings behind the Squamish River's recognition as a globally significant Key Biodiversity Area."
 image: "thumb.jpg"
+_build:
+  render: never
+  list: always
+excludeSearch: true
 ---
 
 ![Sporophytes, close-up moss detail, and the old-growth Western redcedar snag where this population grows](cover.jpg)
