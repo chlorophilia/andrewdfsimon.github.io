@@ -1,10 +1,10 @@
 ---
-title: "Detecting extinction: from the local to the global scale"
-tags: ["extinction", "biodiversity science", "digitisation", "Kew"]
-summary: "Kew's sixth State of the World's Plants and Fungi report tackles extinction at a global scale. Our own paper on detecting local extirpation — including a debt owed to a friend no longer here to ask — works the same problem from the other end: one population, one site, at a time."
+title: "Detecting extinction: from the global to the local scale"
+tags: ["extinction", "biodiversity science", "digitization", "Kew"]
+summary: "Kew's sixth State of the World's Plants and Fungi report tackles extinction at a global scale. Our own paper on detecting local extinction—including a debt owed to a friend no longer here to ask—works the same problem from the other end: one population at a time."
 image: "thumb.jpg"
 _build:
-  render: never
+  render: always
   list: always
 excludeSearch: true
 ---
@@ -14,19 +14,34 @@ excludeSearch: true
 <p class="caption"><em>Primula pauciflora</em>, one of two species we inferred as likely extirpated on Galiano Island. Photo: Peter Zika.</p>
 </div>
 
-The Royal Botanic Gardens, Kew released its sixth [State of the World's Plants and Fungi report](https://www.kew.org/science/state-of-the-worlds-plants-and-fungi) this year, drawing on work from over 400 scientists across 40 countries. The headline is a hopeful one — what the report calls a digital revolution: AI and mass digitisation of herbarium and fungarium specimens — Kew alone has now digitised all 7.4 million specimens in its own collections — are giving biodiversity science tools it didn't have even a decade ago, from spotting species new to science in a smartphone photo to reading a century of shifting flowering times out of pressed and dried plants.
+The Royal Botanic Gardens, Kew released its sixth [State of the World's Plants and Fungi report](https://www.kew.org/science/state-of-the-worlds-plants-and-fungi) this year, a conservation assessment of plants and fungi drawing on work from over 400 scientists across 40 countries. Its headline finding: AI and mass digitization of herbarium and fungarium specimens—what the report calls a digital revolution—are providing us with unprecedented technological capacity for biodiversity assessment, tools we didn't have even a decade ago. Kew alone has now digitized all 7.4 million specimens in its own collections, enough to spot species new to science in a smartphone photo or read a century of shifting flowering times out of pressed and dried plants. But cataloguing what exists is a much easier task than determining what may have disappeared.
 
-But the report is just as clear about what those tools expose: fewer than 1,000 plant species have been formally declared extinct, against 29,748 currently threatened, and only a fraction of known species have been assessed at all. The report's own framing is blunt about why: traditional extinction assessment treats a species as either living or extinct, when in practice absence is almost always uncertain — poorly recorded, poorly surveyed, easy to mistake for "not found yet." The report calls this gap the *Katuš shortfall*, and argues for probability-based approaches, already common in animal conservation, to estimate whether a species is truly gone or simply undetected.
+How many of the world's plants and fungi are threatened with extinction, or already gone? Only a small fraction of their diversity has ever been formally assessed, because absence is almost always uncertain: poorly recorded, poorly surveyed, easy to mistake for "not found yet". This problem is closely related to what [Aelys Humphreys and colleagues](https://doi.org/10.1111/nph.70552) recently termed the *Katuš shortfall*: the unquantified dimensions of past, present, and future biodiversity loss. 
 
-That's the exact problem a [paper](https://doi.org/10.1002/ppp3.70130) I coauthored with A. Basman, R.A. Martin, C. Robinson, and Q. Cronk — *Detecting extirpation: A localized approach to a global problem* (*Plants, People, Planet*, 2025) — was written to address, just at a different scale. Extinction, after all, is what happens once every local population has already been extirpated. Our [protocol](https://imerss.github.io/detecting-local-extinction/docs/) — herbarium specimens, community science, targeted surveys — tests that hypothesis locally, against IUCN's own extinction criteria, using the habitat data, occurrence records, and search effort that are realistically available at the scale where communities can actually act on the answer.
+To rise to this global challenge, the report underlines the need for probability-based approaches, already common in animal conservation, to estimate whether a species is truly gone or simply undetected. My colleagues and I address this challenge in a recent [paper](https://doi.org/10.1002/ppp3.70130), only rather than tackling extinction *writ large* at the global scale, we address it locally—at the scale of an island. Extinction, after all, happens one population at a time.
 
-Both approaches are necessary, and neither substitutes for the other. The term itself comes from a paper released alongside the report, as part of the same special collection: Aelys Humphreys and colleagues coin the *Katuš shortfall*, and propose closing it by turning the world's digitised herbaria and AI — the "global metaherbarium" — toward estimating the *probability* of extinction, rather than trying to prove absence outright, at continental and planetary scale. Our protocol is built for the opposite end of that spectrum: the community naturalist, land manager, or field botanist trying to answer a much smaller, much more local question — is *this* population, at *this* site, still here — with the kind of localized, often patchy evidence that's all anyone usually has. The global synthesis tells you where to look; the local test is how you actually find out.
+<div class="figure figure-compact">
+<img src="populations_blinking_out.gif" alt="Animated grid of population markers gradually disappearing over time" />
+<p class="caption">Local populations can disappear gradually, without any single record marking their loss.</p>
+</div>
 
-*State of the World's Plants and Fungi 2026* is a reminder that the instruments for closing that gap — digitisation, statistical models, community-contributed observations — are converging fast. But some of the evidence never made it into a herbarium at all. The last two species we could infer as likely extirpated on Galiano Island (*Crassula connata* and *Primula pauciflora*, above) only made sense once the late Harvey Janszen — who'd known these populations for decades — helped us define what "historical habitat" even meant there, in the months before he passed in 2021.
+The global biodiversity crisis is really a cascade of local extinction (termed 'extirpation') events, where species blink out one population at a time. This crisis therefore needs to be addressed at the local level where communities can mobilize a response. Our protocol, [documented here](https://imerss.github.io/detecting-local-extinction/docs/), supports this response by combining three lines of evidence—specimens, community science, and targeted surveys—into a single framework aligned with IUCN extinction criteria.
+
+<div class="figure figure-compact">
+<img src="regional_local_extirpation.gif" alt="Animated diagram comparing the same species across four separate localities, showing local presence and loss independent of overall regional abundance" />
+<p class="caption">A species can be regionally common but locally rare or vulnerable to extirpation, making its gradual decline easy to overlook.</p>
+</div>
+
+Herbarium specimens provide a critical baseline for this work, but they're not the whole record. Knowing whether a population is really gone also depends on living, local knowledge—memory of exactly where a species grew, held by those who live in the places biodiversity exists. That knowledge is itself an endangered resource: with the decline of [local place-based knowledge and taxonomic expertise](https://doi.org/10.1016/j.tplants.2023.03.019), we risk [cultural amnesia, shifting baselines](https://doi.org/10.1002/fee.1794), and even the wholesale ["extinction of experience"](https://doi.org/10.1002/pan3.10118). In other words, [human knowledge and memory of biodiversity is vulnerable to extinction in its own right](https://doi.org/10.1016/j.tree.2021.12.011).
 
 <div class="figure">
 <img src="harvey-and-hannah.jpg" alt="Harvey Janszen and Hannah Carpendale searching for Platanthera unalascensis on Stockade Hill, Galiano Island" />
-<p class="caption">Harvey Janszen and Hannah Carpendale searching for <em>Platanthera unalascensis</em> on Stockade Hill, Galiano Island — July 2020, less than a year before Harvey passed.</p>
+<p class="caption">Harvey Janszen and Hannah Carpendale searching for <em>Platanthera unalascensis</em> on Stockade Hill, Galiano Island, British Columbia, in July 2020, less than a year before Harvey passed away.</p>
 </div>
 
-It's a small, local instance of the same shortfall the report describes at planetary scale: what we don't know we've lost, we can't measure — and some of what's disappearing isn't a population, but the memory of one.
+That risk wasn't an abstract concern in this study. Local botanist Harvey Janszen spent decades getting to know Galiano Island's flora, long before we thought to follow in his footsteps. It was his memory of exactly where *Crassula connata* and *Primula pauciflora* had once grown that allowed us to define historical habitat with enough precision to infer their extirpation with real confidence. He passed away partway into our fieldwork, in 2021—and the knowledge that made it possible for us to conclude anything about change in the local flora nearly passed away with him.
+
+<div class="figure figure-compact">
+<img src="observers_save_populations.gif" alt="Animated diagram of a search-effort radius sweeping across separate localities, catching at-risk individuals before they are lost" />
+<p class="caption">Local awareness is vital to conserve vulnerable local populations before they're lost.</p>
+</div>

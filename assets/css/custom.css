@@ -256,6 +256,12 @@ h1, h2, h3,
     }
 }
 
+/* Smaller centered variant for the animated diagrams — full column width
+   overpowers the page for a simple looping graphic. */
+.figure.figure-compact {
+    max-width: 420px;
+}
+
 html.dark .figure img {
     border-color: rgba(247, 244, 236, 0.15);
 }
