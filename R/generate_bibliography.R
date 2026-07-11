@@ -16,7 +16,7 @@ A.D.F. Simon, A. Chang, J. Whitehead, E. Humphrey, E. Morien, A. van Asselt, M. 
 
 ## In the Media
 
-S. Reid (2025, October 16) [This Idyllic Canadian Island Is the Pacific Northwest’s Best-Kept Secret](https://www.vogue.com/article/galiano-island-canada-travel-guide)
+S. Reid (2025, October 16) [This Idyllic Canadian Island Is the Pacific Northwest’s Best-Kept Secret](https://www.vogue.com/article/galiano-island-canada-travel-guide). Vogue.
 
 S. Doll (2023, August 5) [Maxwell Creek Watershed Project Field Files Part 2: Developing surveying methodologies](https://www.raincoast.org/2022/08/maxwell-creek-watershed-project-field-files-part-2-developing-surveying-methodologies/). Raincoast Conservation Foundation.
 
