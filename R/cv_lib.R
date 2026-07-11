@@ -58,9 +58,12 @@ clean_title <- function(x) strip_trailing_period(str_remove_all(x, "[{}]"))
 # Formats one bibliography-style row (Presentations/Publications schema:
 # bibtype,key,author,year,title,journal,volume,number,doi,url,note,category)
 # as a single markdown citation, linked to its DOI/URL when available.
+bold_self <- function(author) str_replace_all(author, "A\\.\\s?(D\\.\\s?F\\.\\s?)?Simon\\b", "**A.D.F. Simon**")
+
 fmt_citation <- function(row) {
   journal <- strip_trailing_period(row$journal)
-  cite <- glue("{row$author} ({row$year}) {clean_title(row$title)}. {journal}")
+  author <- bold_self(row$author)
+  cite <- glue("{author} ({row$year}) {clean_title(row$title)}. {journal}")
   if (!is.na(row$volume)) {
     vol <- as.character(row$volume)
     if (!is.na(row$number) && nzchar(row$number)) vol <- glue("{vol}({row$number})")

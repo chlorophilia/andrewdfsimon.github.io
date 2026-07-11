@@ -12,7 +12,7 @@ presentations_md <- citations_md("Presentations")
 static_sections <- '
 ## In Review
 
-A.D.F. Simon, A. Chang, J. Whitehead, E. Humphrey, E. Morien, A. van Asselt, M. Webber (In Review) Linnaean and Darwinian shortfalls limit long-term monitoring of Salish Sea diatoms.
+**A.D.F. Simon**, A. Chang, J. Whitehead, E. Humphrey, E. Morien, A. van Asselt, M. Webber (In Review) Linnaean and Darwinian shortfalls limit long-term monitoring of Salish Sea diatoms.
 
 ## In the Media
 
@@ -32,13 +32,13 @@ M. Wang (2017, September 21) [Citizen science platform iNaturalist is testing ar
 
 A. Antonelli et al. (2026). State of the World\'s Plants and Fungi 2026. Royal Botanic Gardens, Kew. https://doi.org/10.34885/rdzs-ky83
 
-L. Magner, A.D.F. Simon (2019) Key to the Conifers of Galiano Island, BC, 2150. In C. Sandilands (Ed.), Rising Tides (pp. 199–204). Halfmoon Bay, BC: Caitlin Press.
+L. Magner, **A.D.F. Simon** (2019) Key to the Conifers of Galiano Island, BC, 2150. In C. Sandilands (Ed.), Rising Tides (pp. 199–204). Halfmoon Bay, BC: Caitlin Press.
 
 ## Theses
 
-[A.D.F. Simon (2020) Water into nectar: the effects of seasonal drought on bumble bee and flowering plant communities (MSc thesis).](https://dspace.library.uvic.ca:8443/handle/1828/11837/)
+[**A.D.F. Simon** (2020) Water into nectar: the effects of seasonal drought on bumble bee and flowering plant communities (MSc thesis).](https://dspace.library.uvic.ca:8443/handle/1828/11837/)
 
-A.D.F. Simon (2016) Potential risks and mitigations of prescribed fire in caribou habitat (Honour\'s Thesis).
+**A.D.F. Simon** (2016) Potential risks and mitigations of prescribed fire in caribou habitat (Honour\'s Thesis).
 '
 
 bibliography_md <- glue::glue('---
