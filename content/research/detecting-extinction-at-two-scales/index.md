@@ -25,7 +25,7 @@ To rise to this global challenge, the report underlines the need for probability
 <p class="caption">Local populations can disappear gradually, without any single record marking their loss.</p>
 </div>
 
-The global biodiversity crisis is really a cascade of local extinction (termed 'extirpation') events, where species blink out one population at a time. This crisis therefore needs to be addressed at the local level where communities can mobilize a response. Our protocol, [documented here](https://imerss.github.io/detecting-local-extinction/docs/), supports this response by combining three lines of evidence—specimens, community science, and targeted surveys—into a single framework aligned with IUCN extinction criteria.
+The global biodiversity crisis is really a cascade of local extinction (termed 'extirpation') events, where species blink out one population at a time. This crisis must therefore be addressed at the local level where communities can mobilize a response. Our protocol, [documented here](https://imerss.github.io/detecting-local-extinction/docs/), supports this response by combining three lines of evidence—specimens, community science, and targeted surveys—into a single framework aligned with IUCN extinction criteria.
 
 <div class="figure figure-compact">
 <img src="regional_local_extirpation.gif" alt="Animated diagram comparing the same species across four separate localities, showing local presence and loss independent of overall regional abundance" />
