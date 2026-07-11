@@ -34,7 +34,7 @@ The global biodiversity crisis is really a cascade of local extinction (termed '
 
 Herbarium specimens provide a critical baseline for this work, but they're not the whole record. Knowing whether a population is really gone also depends on living, local knowledge—memory of exactly where a species grew, held by those who live in the places biodiversity exists. That knowledge is itself an endangered resource: with the decline of [local place-based knowledge and taxonomic expertise](https://doi.org/10.1016/j.tplants.2023.03.019), we risk [cultural amnesia, shifting baselines](https://doi.org/10.1002/fee.1794), and even the wholesale ["extinction of experience"](https://doi.org/10.1002/pan3.10118). In other words, [human knowledge and memory of biodiversity is vulnerable to extinction in their own right](https://doi.org/10.1016/j.tree.2021.12.011).
 
-<div class="figure">
+<div class="figure figure-compact">
 <img src="harvey-and-hannah.jpg" alt="Harvey Janszen and Hannah Carpendale searching for Platanthera unalascensis on Stockade Hill, Galiano Island" />
 <p class="caption">Harvey Janszen and Hannah Carpendale searching for <em>Platanthera unalascensis</em> on Stockade Hill, Galiano Island, British Columbia, in July 2020, less than a year before Harvey passed away.</p>
 </div>
