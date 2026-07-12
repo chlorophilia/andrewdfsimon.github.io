@@ -1,0 +1,41 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew D.F. Simon – entomology</title>
+    <link>/tags/entomology/</link>
+    <description>Recent content in entomology on Andrew D.F. Simon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="/tags/entomology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>The structure of biodiversity knowledge, Part II: terrestrial arthropods of Galiano Island</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>
+        
+        
+        &lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;terrestrial-network.jpg&#34; alt=&#34;Network diagram of terrestrial arthropod records on Galiano Island, showing Geoffrey Scudder, Kevin Toomer, and Chris Ratzlaff as major hubs connecting historical and contemporary records&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;Scudder&#39;s decades of collecting form the historical core; recent contributors like Kevin Toomer and Chris Ratzlaff have built comparably dense clusters of their own.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Of the three network diagrams I built from ten years of Biodiversity Galiano records, for a retrospective talk to Nature Vancouver this year, the terrestrial arthropod graph makes the case most bluntly: biodiversity knowledge isn&amp;rsquo;t a list of species, it&amp;rsquo;s a record of who was paying attention, and when. Squares are people, dots are species, and a line between them is one person looking closely enough to write something down.&lt;/p&gt;
+&lt;p&gt;One thing this graph doesn&amp;rsquo;t hold: everything here comes from one particular tradition of documenting species—specimens, lists, structured records—not from the much older, ongoing knowledge that Hul&amp;rsquo;qumi&amp;rsquo;num and SENĆOŦEN-speaking peoples hold about this place, which isn&amp;rsquo;t mine to draw into a diagram. Most of what&amp;rsquo;s mapped here existed on this island long before anyone wrote its name down.&lt;/p&gt;
+&lt;p&gt;The densest historical cluster belongs to Geoffrey Scudder, a UBC entomologist who kept a cabin on Galiano and collected insects there for decades, eventually handing over a hand-curated species list before he passed away. Recent contributors—Kevin Toomer and Chris Ratzlaff among them—have since built comparably dense clusters of their own, layering a second generation of structure onto Scudder&amp;rsquo;s.&lt;/p&gt;
+&lt;p&gt;Not every observation makes it into the graph right away, either. Jesse McCleery, the chef at Pilgrimme on Galiano, had been photographing moths for years on his personal Instagram account, where none of it was doing any taxonomic work. It took a few years of asking before he moved those photos to iNaturalist, at which point several turned out to be new island records, including a moth found nowhere else in western North America but Galiano among the places we know to look. The knowledge existed the whole time. It just wasn&amp;rsquo;t structurally connected to anything yet.&lt;/p&gt;
+&lt;p&gt;Ten years in: 1,520 terrestrial arthropod species known for the island, 75.7% of them observed by a project contributor. That leaves 369 taxa known only from old records—species we&amp;rsquo;re confident once lived here, and haven&amp;rsquo;t yet confirmed still do.&lt;/p&gt;
+&lt;p&gt;This is Part II of three, following on from &lt;a href=&#34;../../research/structure-of-biodiversity-knowledge-marine/&#34; &gt;Part I: marine animals&lt;/a&gt;. Next: &lt;a href=&#34;../../research/structure-of-biodiversity-knowledge-plants/&#34; &gt;Part III: vascular plants&lt;/a&gt;, which carries this into a later paper about local extinction.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

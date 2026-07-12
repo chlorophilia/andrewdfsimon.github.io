@@ -40,7 +40,7 @@
 &lt;p class=&#34;caption&#34;&gt;A species can be regionally common but locally rare or vulnerable to extirpation, making its gradual decline easy to overlook.&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;Herbarium specimens provide a critical baseline for this work, but they&amp;rsquo;re not the whole record. Knowing whether a population is really gone also depends on living, local knowledge—memory of exactly where a species grew, held by those who live in the places biodiversity exists. That knowledge is itself an endangered resource: with the decline of &lt;a href=&#34;https://doi.org/10.1016/j.tplants.2023.03.019&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;local place-based knowledge and taxonomic expertise&lt;/a&gt;, we risk &lt;a href=&#34;https://doi.org/10.1002/fee.1794&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;cultural amnesia, shifting baselines&lt;/a&gt;, and even the wholesale &lt;a href=&#34;https://doi.org/10.1002/pan3.10118&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&amp;ldquo;extinction of experience&amp;rdquo;&lt;/a&gt;. In other words, &lt;a href=&#34;https://doi.org/10.1016/j.tree.2021.12.011&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;human knowledge and memory of biodiversity is vulnerable to extinction in their own right&lt;/a&gt;.&lt;/p&gt;
-&lt;div class=&#34;figure&#34;&gt;
+&lt;div class=&#34;figure figure-compact&#34;&gt;
 &lt;img src=&#34;harvey-and-hannah.jpg&#34; alt=&#34;Harvey Janszen and Hannah Carpendale searching for Platanthera unalascensis on Stockade Hill, Galiano Island&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;Harvey Janszen and Hannah Carpendale searching for &lt;em&gt;Platanthera unalascensis&lt;/em&gt; on Stockade Hill, Galiano Island, British Columbia, in July 2020, less than a year before Harvey passed away.&lt;/p&gt;
 &lt;/div&gt;
@@ -74,6 +74,79 @@
 &lt;/div&gt;
 &lt;p&gt;Sampling was concentrated around Galiano Island, drawing on the same community science infrastructure behind the &lt;a href=&#34;http://biogaliano.org&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Biodiversity Galiano project&lt;/a&gt; — literature records, microscope analysis, and molecular sequencing combined to build a fuller picture than any one method could on its own. The Salish Sea is home to roughly nine million people and is undergoing rapid growth in population, urbanization, and marine shipping, all of it bearing down on a bioregion most of us will never see the primary producers of. A baseline like this doesn&amp;rsquo;t resolve that pressure, but it gives researchers and policymakers a reference point for noticing what changes.&lt;/p&gt;
 &lt;p&gt;The dataset is still being refined, and this is very much a foundation rather than a final word — but a foundation is what the region has been missing.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>The structure of biodiversity knowledge, Part I: marine animals of Galiano Island</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>
+        
+        
+        &lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;marine-network.jpg&#34; alt=&#34;Network diagram showing historical reporters, contemporary observers, and species records for marine animals on Galiano Island, with Andy Lamb as a dominant hub&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;Pink squares are historical reporters, orange squares are contemporary observers. Grey dots are historical records still unconfirmed; green dots are confirmed; orange dots are new to the island. Every line is a person connected to a species.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Ten years ago I started keeping species lists for Galiano Island, without much sense of what that would turn into. This year, building a retrospective talk for Nature Vancouver, I turned the marine records into a network diagram, and it said something I hadn&amp;rsquo;t fully seen from inside the project: biodiversity knowledge isn&amp;rsquo;t really a list of species. It&amp;rsquo;s a graph. Squares are people, dots are species, and a line between them is a single act of someone looking closely enough to write something down.&lt;/p&gt;
+&lt;p&gt;One thing this graph doesn&amp;rsquo;t hold: everything here comes from one particular tradition of documenting species—specimens, lists, structured records—not from the much older, ongoing knowledge that Hul&amp;rsquo;qumi&amp;rsquo;num and SENĆOŦEN-speaking peoples hold about this place, which isn&amp;rsquo;t mine to draw into a diagram. Most of what&amp;rsquo;s mapped here existed on this coastline long before anyone wrote its name down.&lt;/p&gt;
+&lt;p&gt;The oldest node in the diagram traces to a species collected in 1859 by Alexander Agassiz—the striped green sea anemone, an introduced species, fittingly enough. We only know about the record because Rick Harbo tracked the citation down in a 1921 paper, decades after the fact—and, by coincidence, someone independently photographed the same species on Galiano and posted it to iNaturalist more than a century after Agassiz collected it. Two people, a century and a half apart, noticing the same small thing. That&amp;rsquo;s the graph, in miniature.&lt;/p&gt;
+&lt;p&gt;Look at where the diagram gets dense, and one name accounts for a disproportionate share of it. Andy Lamb&amp;rsquo;s Pacific Marine Life Surveys, running since 1968, logged over 16,000 records and turn out to be behind &lt;a href=&#34;https://doi.org/10.3897/BDJ.10.e76050&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;60% of all novel marine species reports for the island&lt;/a&gt;—a small, informal diving survey outperforming most formal alternatives. On the diagram, Lamb isn&amp;rsquo;t just a prolific contributor. He&amp;rsquo;s structurally load-bearing: remove him and most of what we know about the island&amp;rsquo;s marine fauna over the last fifty years collapses with him.&lt;/p&gt;
+&lt;p&gt;Ten years in, the numbers behind this graph: 686 marine species known for the island, 604 of them from the historical baseline and 82 added new since 2015. Community members have personally confirmed exactly half of the historical total—meaning the other half exists only as an old record, waiting for someone to go look again.&lt;/p&gt;
+&lt;p&gt;This is Part I of three, built from that Nature Vancouver talk, each centred on one of the network diagrams I drew from ten years of Biodiversity Galiano:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../research/structure-of-biodiversity-knowledge-terrestrial-arthropods/&#34; &gt;Part II: terrestrial arthropods&lt;/a&gt; — a professor&amp;rsquo;s cabin full of specimens, and a chef&amp;rsquo;s Instagram moths&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../research/structure-of-biodiversity-knowledge-plants/&#34; &gt;Part III: vascular plants&lt;/a&gt; — the graph that carries this into a later paper about local extinction&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>The structure of biodiversity knowledge, Part II: terrestrial arthropods of Galiano Island</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>
+        
+        
+        &lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;terrestrial-network.jpg&#34; alt=&#34;Network diagram of terrestrial arthropod records on Galiano Island, showing Geoffrey Scudder, Kevin Toomer, and Chris Ratzlaff as major hubs connecting historical and contemporary records&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;Scudder&#39;s decades of collecting form the historical core; recent contributors like Kevin Toomer and Chris Ratzlaff have built comparably dense clusters of their own.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Of the three network diagrams I built from ten years of Biodiversity Galiano records, for a retrospective talk to Nature Vancouver this year, the terrestrial arthropod graph makes the case most bluntly: biodiversity knowledge isn&amp;rsquo;t a list of species, it&amp;rsquo;s a record of who was paying attention, and when. Squares are people, dots are species, and a line between them is one person looking closely enough to write something down.&lt;/p&gt;
+&lt;p&gt;One thing this graph doesn&amp;rsquo;t hold: everything here comes from one particular tradition of documenting species—specimens, lists, structured records—not from the much older, ongoing knowledge that Hul&amp;rsquo;qumi&amp;rsquo;num and SENĆOŦEN-speaking peoples hold about this place, which isn&amp;rsquo;t mine to draw into a diagram. Most of what&amp;rsquo;s mapped here existed on this island long before anyone wrote its name down.&lt;/p&gt;
+&lt;p&gt;The densest historical cluster belongs to Geoffrey Scudder, a UBC entomologist who kept a cabin on Galiano and collected insects there for decades, eventually handing over a hand-curated species list before he passed away. Recent contributors—Kevin Toomer and Chris Ratzlaff among them—have since built comparably dense clusters of their own, layering a second generation of structure onto Scudder&amp;rsquo;s.&lt;/p&gt;
+&lt;p&gt;Not every observation makes it into the graph right away, either. Jesse McCleery, the chef at Pilgrimme on Galiano, had been photographing moths for years on his personal Instagram account, where none of it was doing any taxonomic work. It took a few years of asking before he moved those photos to iNaturalist, at which point several turned out to be new island records, including a moth found nowhere else in western North America but Galiano among the places we know to look. The knowledge existed the whole time. It just wasn&amp;rsquo;t structurally connected to anything yet.&lt;/p&gt;
+&lt;p&gt;Ten years in: 1,520 terrestrial arthropod species known for the island, 75.7% of them observed by a project contributor. That leaves 369 taxa known only from old records—species we&amp;rsquo;re confident once lived here, and haven&amp;rsquo;t yet confirmed still do.&lt;/p&gt;
+&lt;p&gt;This is Part II of three, following on from &lt;a href=&#34;../../research/structure-of-biodiversity-knowledge-marine/&#34; &gt;Part I: marine animals&lt;/a&gt;. Next: &lt;a href=&#34;../../research/structure-of-biodiversity-knowledge-plants/&#34; &gt;Part III: vascular plants&lt;/a&gt;, which carries this into a later paper about local extinction.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>The structure of biodiversity knowledge, Part III: vascular plants of Galiano Island</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>
+        
+        
+        &lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;plants-network.jpg&#34; alt=&#34;Network diagram of vascular plant records on Galiano Island, showing Harvey Janszen and Gerald Straley as major historical hubs&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;Harvey Janszen&#39;s decades of fieldwork form the densest historical cluster in the plant diagram—the same body of knowledge behind two extirpation calls in a &lt;a href=&#34;../../research/detecting-extinction-at-two-scales/&#34;&gt;later paper&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;The last of three network diagrams I built from ten years of Biodiversity Galiano records, for a retrospective talk to Nature Vancouver this year, covers vascular plants—and it&amp;rsquo;s the one with the clearest line running out the other side, into work I&amp;rsquo;m still doing. The same idea holds across all three: biodiversity knowledge isn&amp;rsquo;t a list of species, it&amp;rsquo;s a graph of who was paying attention, and when. Squares are people, dots are species, and a line between them is one person looking closely enough to write something down.&lt;/p&gt;
+&lt;p&gt;One thing this graph doesn&amp;rsquo;t hold: everything here comes from one particular tradition of documenting species—specimens, lists, structured records—not from the much older, ongoing knowledge that Hul&amp;rsquo;qumi&amp;rsquo;num and SENĆOŦEN-speaking peoples hold about this place, which isn&amp;rsquo;t mine to draw into a diagram. Most of what&amp;rsquo;s mapped here existed on this island long before anyone wrote its name down.&lt;/p&gt;
+&lt;p&gt;The densest historical cluster in this graph belongs to Harvey Janszen, whose decades of fieldwork on Galiano I&amp;rsquo;ve written about &lt;a href=&#34;../../research/detecting-extinction-at-two-scales/&#34; &gt;elsewhere&lt;/a&gt;—the same body of knowledge that let a later paper call two local plant extirpations with real confidence. Gerald Straley, a UBC botanist, forms the diagram&amp;rsquo;s other major historical hub.&lt;/p&gt;
+&lt;p&gt;Records in this graph aren&amp;rsquo;t just added, they&amp;rsquo;re sometimes corrected—and that correction is its own kind of connection. In 2012, naturalist Terry Taylor identified Galiano&amp;rsquo;s stinging nettles as the native &lt;em&gt;Urtica gracilis&lt;/em&gt;, when most people—reasonably, going on the general assumption that nettles are usually introduced—had it down as &lt;em&gt;U. dioica&lt;/em&gt;. It took the wider botanical community about a decade to come around to his correction. The plant hadn&amp;rsquo;t changed. What we knew about it did.&lt;/p&gt;
+&lt;p&gt;Ten years in: over 800 vascular plant species known for the island, 87% of them documented by the project. That leaves roughly a hundred species—about 64 of them native—still unaccounted for since their historical record.&lt;/p&gt;
+&lt;p&gt;This is Part III of three, and the last. It follows &lt;a href=&#34;../../research/structure-of-biodiversity-knowledge-marine/&#34; &gt;Part I: marine animals&lt;/a&gt; and &lt;a href=&#34;../../research/structure-of-biodiversity-knowledge-terrestrial-arthropods/&#34; &gt;Part II: terrestrial arthropods&lt;/a&gt;, and ends here, with the same kind of attention that, a few years later, let us say with real confidence that two of these plants were gone.&lt;/p&gt;
 
       </description>
     </item>

@@ -1,0 +1,45 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew D.F. Simon – marine zoology</title>
+    <link>/tags/marine-zoology/</link>
+    <description>Recent content in marine zoology on Andrew D.F. Simon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="/tags/marine-zoology/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>The structure of biodiversity knowledge, Part I: marine animals of Galiano Island</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>
+        
+        
+        &lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;marine-network.jpg&#34; alt=&#34;Network diagram showing historical reporters, contemporary observers, and species records for marine animals on Galiano Island, with Andy Lamb as a dominant hub&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;Pink squares are historical reporters, orange squares are contemporary observers. Grey dots are historical records still unconfirmed; green dots are confirmed; orange dots are new to the island. Every line is a person connected to a species.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;Ten years ago I started keeping species lists for Galiano Island, without much sense of what that would turn into. This year, building a retrospective talk for Nature Vancouver, I turned the marine records into a network diagram, and it said something I hadn&amp;rsquo;t fully seen from inside the project: biodiversity knowledge isn&amp;rsquo;t really a list of species. It&amp;rsquo;s a graph. Squares are people, dots are species, and a line between them is a single act of someone looking closely enough to write something down.&lt;/p&gt;
+&lt;p&gt;One thing this graph doesn&amp;rsquo;t hold: everything here comes from one particular tradition of documenting species—specimens, lists, structured records—not from the much older, ongoing knowledge that Hul&amp;rsquo;qumi&amp;rsquo;num and SENĆOŦEN-speaking peoples hold about this place, which isn&amp;rsquo;t mine to draw into a diagram. Most of what&amp;rsquo;s mapped here existed on this coastline long before anyone wrote its name down.&lt;/p&gt;
+&lt;p&gt;The oldest node in the diagram traces to a species collected in 1859 by Alexander Agassiz—the striped green sea anemone, an introduced species, fittingly enough. We only know about the record because Rick Harbo tracked the citation down in a 1921 paper, decades after the fact—and, by coincidence, someone independently photographed the same species on Galiano and posted it to iNaturalist more than a century after Agassiz collected it. Two people, a century and a half apart, noticing the same small thing. That&amp;rsquo;s the graph, in miniature.&lt;/p&gt;
+&lt;p&gt;Look at where the diagram gets dense, and one name accounts for a disproportionate share of it. Andy Lamb&amp;rsquo;s Pacific Marine Life Surveys, running since 1968, logged over 16,000 records and turn out to be behind &lt;a href=&#34;https://doi.org/10.3897/BDJ.10.e76050&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;60% of all novel marine species reports for the island&lt;/a&gt;—a small, informal diving survey outperforming most formal alternatives. On the diagram, Lamb isn&amp;rsquo;t just a prolific contributor. He&amp;rsquo;s structurally load-bearing: remove him and most of what we know about the island&amp;rsquo;s marine fauna over the last fifty years collapses with him.&lt;/p&gt;
+&lt;p&gt;Ten years in, the numbers behind this graph: 686 marine species known for the island, 604 of them from the historical baseline and 82 added new since 2015. Community members have personally confirmed exactly half of the historical total—meaning the other half exists only as an old record, waiting for someone to go look again.&lt;/p&gt;
+&lt;p&gt;This is Part I of three, built from that Nature Vancouver talk, each centred on one of the network diagrams I drew from ten years of Biodiversity Galiano:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../../research/structure-of-biodiversity-knowledge-terrestrial-arthropods/&#34; &gt;Part II: terrestrial arthropods&lt;/a&gt; — a professor&amp;rsquo;s cabin full of specimens, and a chef&amp;rsquo;s Instagram moths&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;../../research/structure-of-biodiversity-knowledge-plants/&#34; &gt;Part III: vascular plants&lt;/a&gt; — the graph that carries this into a later paper about local extinction&lt;/li&gt;
+&lt;/ul&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
