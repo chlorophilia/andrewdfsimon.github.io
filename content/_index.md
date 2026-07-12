@@ -14,9 +14,11 @@ and within the territories of the *leey'qsu*, *lekwungen*, *lhaq'temish*, *musqu
 My investigations harness a variety of methods to analyse the processes underlying biodiversity change
 at multiple scales. Toward this end, I study a great diversity of organisms, linking ecological theory
 with field studies and experiments to improve understanding of the trait-environment relationships that
-underlie niche dynamics in space and time.
+underlie niche dynamics in space and time. More practically, I contribute to the synthesis and curation 
+of baseline biodiversity data and apply both ecological and genomic approaches to inform the conservation
+of Canada's species at risk.
 
-Presently, my work focuses on the fascinating worlds of lichens and the physiological dynamics of
+Presently, my PhD research focuses on the fascinating worlds of lichens and the physiological dynamics of
 symbioses under stress.
 
 As an advocate for community science, I also have a special interest in the development of frameworks
