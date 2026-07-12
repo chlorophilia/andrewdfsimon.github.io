@@ -1,7 +1,7 @@
 ---
 title: "Detecting extinction: from the global to the local scale"
 tags: ["extinction", "biodiversity science", "digitization", "Kew"]
-summary: "Kew's sixth State of the World's Plants and Fungi report tackles extinction at a global scale. Our own paper on detecting local extinction—including a debt owed to a friend no longer here to ask—works the same problem from the other end: one population at a time."
+summary: "Kew's sixth State of the World's Plants and Fungi report tackles extinction at a global scale. Our own paper on detecting local extinction addresses the same problem from the other end: locally, one population at a time."
 image: "thumb.jpg"
 _build:
   render: always
@@ -14,29 +14,31 @@ excludeSearch: true
 <p class="caption"><em>Primula pauciflora</em>, one of two species we inferred as likely extirpated on Galiano Island. Photo: Peter Zika.</p>
 </div>
 
-The Royal Botanic Gardens, Kew released its sixth [State of the World's Plants and Fungi report](https://www.kew.org/science/state-of-the-worlds-plants-and-fungi) this year, a conservation assessment drawing on work from over 400 scientists across 40 countries. How many of the world's plants and fungi are threatened with extinction, or have already disappeared? Fewer than a thousand plant species are documented as extinct—a figure almost certainly far below the true toll, given how many are rare, narrowly distributed, and barely recorded to begin with. Only a small fraction of known diversity has ever been formally assessed at all, because absence is almost always uncertain—an inference from negative evidence. [Aelys Humphreys and colleagues](https://doi.org/10.1111/nph.70552) recently gave this gap a name: the *Katuš shortfall*—the unquantified dimensions of past, present, and future biodiversity loss.
+The Royal Botanic Gardens, Kew released its sixth [State of the World's Plants and Fungi report](https://www.kew.org/science/state-of-the-worlds-plants-and-fungi) this year, a conservation assessment drawing on work from over 400 scientists across 40 countries. So what is their assessment: How many of the world's plants and fungi are threatened with extinction, or have already disappeared? 
 
-To rise to this global challenge, the report points to probability-based approaches—long common in animal conservation, and newly feasible for plants now that millions of herbarium specimens have been digitized—to estimate whether a species is truly gone or simply undetected. My colleagues and I address this challenge in a recent [paper](https://doi.org/10.1002/ppp3.70130)—one the report itself features as a case study—only rather than tackling extinction *writ large* at the global scale, we address it locally, at the scale of an island. Extinction, after all, happens one population at a time.
+Fewer than a thousand plant species are documented as extinct—a figure almost certainly far below the true toll, given how many are rare, narrowly distributed, and barely recorded to begin with. Only a small fraction of known diversity has ever been formally assessed at all, because absence is almost always uncertain—an inference from negative evidence. [Aelys Humphreys and colleagues](https://doi.org/10.1111/nph.70552) recently gave this gap a name: the *Katuš shortfall*—the unquantified dimensions of past, present, and future biodiversity loss.
+
+To address this shortfall, the report points to probability-based approaches—long common in animal conservation, and newly feasible for plants now that millions of herbarium specimens have been digitized—to estimate whether a species is truly gone or simply undetected. My colleagues and I address this same challenge in a recent [paper](https://doi.org/10.1002/ppp3.70130)—only rather than tackling extinction *writ large* at the global scale, we address it locally, at the scale of an island. Extinction, after all, happens one population at a time!
 <div class="figure figure-compact">
 <img src="populations_blinking_out.gif" alt="Animated grid of population markers gradually disappearing over time" />
-<p class="caption">Local populations can disappear gradually, without any single record marking their loss.</p>
+<p class="caption">Local populations can disappear gradually, without a singular record marking their loss.</p>
 </div>
 
-The global biodiversity crisis is really a cascade of local extinction (termed 'extirpation') events. This crisis must therefore be addressed at the local level where communities can mobilize a response. Our protocol, [documented here](https://imerss.github.io/detecting-local-extinction/docs/), supports this response by combining three lines of evidence—specimens, community science, and targeted surveys—into a single framework aligned with IUCN extinction criteria.
+The global biodiversity crisis is really a cascade of local extinction (extirpation) events—so it's locally that conservation must act, and in practice already does. The International Union for Conservation of Nature (IUCN) and the Committee on the Status of Endangered Wildlife in Canada (COSEWIC) assess species population by population, though where data are sparse those assessments lean on qualitative judgment or proxy measures. Our protocol, [documented here](https://imerss.github.io/detecting-local-extinction/docs/), fills that gap, combining specimens, community science, and targeted surveys into a single framework aligned with IUCN extinction criteria.
 
 <div class="figure figure-compact">
 <img src="regional_local_extirpation.gif" alt="Animated diagram comparing the same species across four separate localities, showing local presence and loss independent of overall regional abundance" />
 <p class="caption">A species can be regionally common but locally rare or vulnerable to extirpation, making its gradual decline easy to overlook.</p>
 </div>
 
-Herbarium specimens provide a critical baseline for this work, but they're not the whole record. Knowing whether a population is really gone also depends on living, local knowledge—memory of exactly where a species grew, held by those who live in the places biodiversity exists. That knowledge is itself endangered: with the decline of [local place-based knowledge and taxonomic expertise](https://doi.org/10.1016/j.tplants.2023.03.019), we risk [cultural amnesia, shifting baselines](https://doi.org/10.1002/fee.1794), and even the wholesale ["extinction of experience"](https://doi.org/10.1002/pan3.10118). In other words, [human knowledge and memory of biodiversity is vulnerable to extinction in their own right](https://doi.org/10.1016/j.tree.2021.12.011).
+Herbarium specimens provide a critical baseline for this work, but they're not the whole record. Knowing whether a population is really gone also depends on local knowledge—memory of exactly where a species grew, held by those who live in the places biodiversity exists. That knowledge is itself endangered: with the decline of [local place-based knowledge and taxonomic expertise](https://doi.org/10.1016/j.tplants.2023.03.019), we face [cultural amnesia and shifting baselines](https://doi.org/10.1002/fee.1794)—amounting to what some have described as ["extinction of experience"](https://doi.org/10.1002/pan3.10118). In other words, [human knowledge and memory of biodiversity are also vulnerable to extinction](https://doi.org/10.1016/j.tree.2021.12.011).
 
 <div class="figure figure-compact">
 <img src="harvey-and-hannah.jpg" alt="Harvey Janszen and Hannah Carpendale searching for Platanthera unalascensis on Stockade Hill, Galiano Island" />
 <p class="caption">Harvey Janszen and Hannah Carpendale searching for <em>Platanthera unalascensis</em> on Stockade Hill, Galiano Island, British Columbia, in July 2020, less than a year before Harvey passed away.</p>
 </div>
 
-That risk wasn't an abstract concern in this study. Local botanist Harvey Janszen spent decades getting to know Galiano Island's flora, long before we thought to follow in his footsteps. It was his memory of exactly where *Crassula connata* and *Primula pauciflora* had once grown that allowed us to define historical habitat with enough precision to infer their extirpation with real confidence. He passed away partway into our fieldwork, in 2021—and the knowledge that made it possible for us to conclude anything about change in the local flora nearly passed away with him.
+That risk wasn't an abstract concern in this study. Local botanist Harvey Janszen spent decades getting to know Galiano Island's flora, long before we thought to follow in his footsteps. It was his memory of exactly where *Crassula connata* and *Primula pauciflora* had once grown that allowed us to define historical habitat with enough precision to infer their extirpation with real confidence. He passed away partway into our fieldwork, in 2021. Much of what made these inferences possible was knowledge only he held—and it very nearly went with him.
 
 <div class="figure figure-compact">
 <img src="observers_save_populations.gif" alt="Animated diagram of a search-effort radius sweeping across separate localities, catching at-risk individuals before they are lost" />
