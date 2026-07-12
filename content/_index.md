@@ -16,7 +16,7 @@ at multiple scales. Toward this end, I study a great diversity of organisms, lin
 with field studies and experiments to improve understanding of the trait-environment relationships that
 underlie niche dynamics in space and time. More practically, I contribute to the synthesis and curation 
 of baseline biodiversity data and apply both ecological and genomic approaches to inform the conservation
-of Canada's species at risk.
+of endangered species.
 
 Presently, my PhD research focuses on the fascinating worlds of lichens and the physiological dynamics of
 symbioses under stress.
