@@ -40,7 +40,7 @@ Herbarium specimens provide a critical baseline for this work, but they're not t
 <p class="caption">Harvey Janszen and Hannah Carpendale searching for <em>Platanthera unalascensis</em> on Stockade Hill, Galiano Island, British Columbia, in July 2020, less than a year before Harvey passed away.</p>
 </div>
 
-That risk wasn't an abstract concern in our study. Amateur naturalist Harvey Janszen spent decades getting to know Galiano Island's flora, long before we thought to follow in his footsteps. Indeed, it was his memory of exactly where *Crassula connata* and *Primula pauciflora* had once grown that allowed us to define their historical habitat with enough precision to infer their extirpation with real confidence. Harvey passed away partway into our fieldwork, on May 10, 2021  —and much of the knowledge necessary to conduct our study very nearly passed away with him.
+That risk wasn't an abstract concern in our study. Amateur naturalist Harvey Janszen spent decades getting to know Galiano Island's flora, long before we thought to follow in his footsteps. Indeed, it was his memory of exactly where *Crassula connata* and *Primula pauciflora* had once grown that allowed us to define their historical habitat with enough precision to infer their extirpation with real confidence. Harvey passed away partway into our fieldwork, on May 10, 2021—and much of the knowledge necessary to conduct our study very nearly passed away with him.
 
 <div class="figure figure-compact">
 <img src="observers_save_populations.gif" alt="Animated diagram of a search-effort radius sweeping across separate localities, catching at-risk individuals before they are lost" />
