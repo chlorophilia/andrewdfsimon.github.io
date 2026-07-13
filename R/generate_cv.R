@@ -17,8 +17,10 @@ leadership_md <- entries_md(leadership, function(Role, Year, Organization, Locat
   fmt_entry(what = Role, when = Year, where = Organization, with = Location, why = Details))
 
 awards <- fetch_sheet("Awards")
+# Location is intentionally dropped for awards — the funder, award name, and year
+# carry the line; city/province added repetitive noise.
 awards_md <- entries_md(awards, function(Award, Year, Organization, Location, Details, ...)
-  fmt_entry(what = Organization, when = Year, where = Award, with = Location, why = Details))
+  fmt_entry(what = Organization, when = Year, where = Award, why = Details))
 
 certifications <- fetch_sheet("Certifications")
 certifications_md <- entries_md(certifications, function(Certification, Year, Organization, Details, ...)

@@ -155,6 +155,51 @@ a.carousel-card:hover {
     }
 }
 
+/* ---- CV entry layout ----
+   Everything below is scoped to the CV page via .content:has(.cv-header),
+   so it can't leak into research posts or the bibliography. */
+
+/* Right-aligned year column: the year rides in a .cv-year span at the end of
+   each entry's headline, floated into a fixed column at the entry's top-right. */
+.content:has(.cv-header) p:has(.cv-year) {
+    position: relative;
+    padding-right: 6.5rem;
+    margin: 0.5rem 0 0;
+}
+
+.cv-year {
+    position: absolute;
+    top: 0;
+    right: 0;
+    font-size: 0.8rem;
+    font-weight: 400;
+    font-variant-numeric: tabular-nums;
+    opacity: 0.55;
+    white-space: nowrap;
+}
+
+/* Tighter vertical rhythm for the entry bullets. */
+.content:has(.cv-header) ul {
+    margin: 0.2rem 0 0;
+}
+
+.content:has(.cv-header) li {
+    margin: 0.1rem 0;
+    opacity: 0.85;
+}
+
+/* Sharper, editorial section headers: uppercase with letterspacing, a thin
+   rule, and clear separation above. */
+.content:has(.cv-header) h2 {
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    font-size: 1rem;
+    font-weight: 600;
+    margin: 2.4rem 0 1rem;
+    padding-bottom: 0.35rem;
+    border-bottom: 1px solid color-mix(in srgb, currentColor 18%, transparent);
+}
+
 :root {
     --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
     --bs-border-width: 1px;

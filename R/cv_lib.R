@@ -49,7 +49,10 @@ fmt_entry <- function(what, when, where, with = NA_character_, why = NA_characte
 
   if (!is.na(with) && nzchar(with)) header <- glue("{header}, *{with}*")
 
-  glue("{header} ({when}){fmt_bullets(why)}")
+  # The year is emitted as an inline span so CSS can float it into a right-aligned
+  # column (see .cv-year in custom.css); it must stay on the header line, before
+  # any bullets, for the absolute positioning to anchor to the entry's top-right.
+  glue('{header} <span class="cv-year">{when}</span>{fmt_bullets(why)}')
 }
 
 strip_trailing_period <- function(x) str_remove(str_trim(x), "\\.+$")

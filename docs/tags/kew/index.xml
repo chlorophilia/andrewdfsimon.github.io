@@ -16,10 +16,10 @@
     
     <item>
       <title>Detecting extinction: from the global to the local scale</title>
-      <link>/research/detecting-extinction-at-two-scales/</link>
+      <link>/research/detecting-extinction-global-to-local/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/research/detecting-extinction-at-two-scales/</guid>
+      <guid>/research/detecting-extinction-global-to-local/</guid>
       <description>
         
         
@@ -28,7 +28,7 @@
 &lt;p class=&#34;caption&#34;&gt;&lt;em&gt;Primula pauciflora&lt;/em&gt;, one of two species we inferred as likely extirpated on Galiano Island. Photo: Peter Zika.&lt;/p&gt;
 &lt;/div&gt;
 &lt;p&gt;The Royal Botanic Gardens, Kew released its sixth &lt;a href=&#34;https://www.kew.org/science/state-of-the-worlds-plants-and-fungi&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;State of the World&amp;rsquo;s Plants and Fungi report&lt;/a&gt; this year, a conservation assessment drawing on work from over 400 scientists across 40 countries. So what is their assessment: How many of the world&amp;rsquo;s plants and fungi are threatened with extinction, or have already disappeared?&lt;/p&gt;
-&lt;p&gt;Fewer than a thousand plant species are documented as extinct—a figure almost certainly far below the true toll, given how many are rare, narrowly distributed, and barely recorded to begin with. Only a small fraction of known diversity has ever been formally assessed at all, because absence is almost always uncertain—an inference from negative evidence. In the report, &lt;a href=&#34;https://doi.org/10.1111/nph.70552&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aelys Humphreys and colleagues&lt;/a&gt; propose a name for this gap: the &lt;em&gt;Katuš shortfall&lt;/em&gt;—the unquantified dimensions of past, present, and future biodiversity loss.&lt;/p&gt;
+&lt;p&gt;Fewer than a thousand plant species are documented as extinct—a figure almost certainly far below the true toll, given how many are rare, narrowly distributed, and barely recorded to begin with. Only a small fraction of known diversity has ever been formally assessed at all, because absence is almost always uncertain—an inference from negative evidence. In the SOTWPF report, &lt;a href=&#34;https://doi.org/10.1111/nph.70552&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Aelys Humphreys and colleagues&lt;/a&gt; propose a name for this gap: the &lt;em&gt;Katuš shortfall&lt;/em&gt;—the unquantified dimensions of past, present, and future biodiversity loss.&lt;/p&gt;
 &lt;p&gt;To address this shortfall, the report points to probability-based approaches—commonplace in animal conservation, and in some cases newly feasible for plants now that millions of herbarium specimens have been digitized—to estimate whether a species is truly gone or simply undetected. My colleagues and I take up the same challenge at the scale of a single island, in a recent &lt;a href=&#34;https://doi.org/10.1002/ppp3.70130&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;paper&lt;/a&gt; the report features as one of its case studies. Extinction, after all, happens one population at a time! But zooming in this far brings its own wicked problems: at the local scale, a species&amp;rsquo; entire recorded history can come down to a small number of records—even a singleton occurrence—too little for the data-hungry methods that work at broad scales.&lt;/p&gt;
 &lt;div class=&#34;figure figure-compact&#34;&gt;
 &lt;img src=&#34;populations_blinking_out.gif&#34; alt=&#34;Animated grid of population markers gradually disappearing over time&#34; /&gt;

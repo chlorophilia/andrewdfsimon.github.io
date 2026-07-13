@@ -1,6 +1,6 @@
 ---
 title: Andrew D.F. Simon
-tagline: "Naturalist, biologist, biodiversity data scientist"
+tagline: "Naturalist 🌿 biologist 🔬 biodiversity data scientist 📊"
 ---
 
 {{< research-carousel >}}
