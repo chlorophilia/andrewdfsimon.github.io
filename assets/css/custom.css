@@ -178,6 +178,14 @@ a.carousel-card:hover {
     white-space: nowrap;
 }
 
+/* Hanging indent: the bold headline that opens each entry (and each
+   citation) sits flush left, while any wrapped lines indent beneath it, so
+   continuation text never runs back under the bold defining text. */
+.content:has(.cv-header) > p {
+    padding-left: 1.5rem;
+    text-indent: -1.5rem;
+}
+
 /* Tighter vertical rhythm for the entry bullets. */
 .content:has(.cv-header) ul {
     margin: 0.2rem 0 0;

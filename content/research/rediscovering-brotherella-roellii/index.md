@@ -14,7 +14,7 @@ excludeSearch: true
 <p class="caption">Zooming in on the rare moss Brotherella roellii revealed a nice flush of sporophytes! My one and only iNaturalist <a href="https://www.inaturalist.org/observations/282952652">Observation of the Day.</a></p>
 </div>
 
-In May 2025, after several trips that had turned up nothing, I finally found Roell's brotherella moss (*Brotherella roellii*) growing on an old-growth western redcedar snag at the Cheakamus Centre in Squamish, BC—territories of Squamish First Nation. The site alone was worth the search—a cedar that stood like an ancient rainforest ruin, cast in rays of light which beamed down through a gap in the canopy.
+In May 2025, after several trips that had turned up nothing, I finally found Roell's brotherella moss (*Brotherella roellii*) growing on an old-growth western redcedar snag at the Cheakamus Centre in Squamish, BC—the unceded lands of the Sḵwx̱wú7mesh Úxwumixw/Squamish Nation. The site alone was worth the search—a cedar that stood like an ancient rainforest ruin, cast in rays of light which beamed down through a gap in the canopy.
 
 *Brotherella roellii* is endangered in Canada, where it is now thought to be endemic. Populations once known from Washington State are believed extirpated, leaving the Fraser Valley and Howe Sound region of BC's Lower Mainland as the species' entire remaining range. Why it persists in the particular places it does, and not others, is the question behind ongoing research I have been pursuing with Emma Menchions (UBC), looking at how temperature, moisture, light, and forest structure interact to define the conditions this moss needs.
 
