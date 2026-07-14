@@ -30,29 +30,31 @@ fmt_bullets <- function(details) {
   items <- str_split(details, "<br>")[[1]] |> str_trim()
   items <- items[nzchar(items)]
   if (length(items) == 0) return("")
-  paste0("\n", paste(paste0("- ", items), collapse = "\n"), "\n")
+  # Emitted as an HTML list (not markdown) so it sits inside the entry's raw
+  # HTML grid without goldmark re-parsing.
+  paste0("<ul>", paste(paste0("<li>", items, "</li>"), collapse = ""), "</ul>")
 }
 
-# Renders one CV line item. `what` is the bolded headline; falls back to
-# `where` when blank (e.g. Leadership rows where Role hasn't been filled in).
+# Renders one CV entry as a two-column row (see .cv-entry in custom.css): the
+# date and location stack in a left rail (.cv-meta); the bolded headline (`what`,
+# falling back to `where`) and any bullets sit in the right column (.cv-body).
+# Emitted as raw HTML so the whole entry stays one CSS grid.
 fmt_entry <- function(what, when, where, with = NA_character_, why = NA_character_) {
   what_txt  <- if (!is.na(what) && nzchar(what)) what else NA
   where_txt <- if (!is.na(where) && nzchar(where)) where else NA
 
-  header <- if (!is.na(what_txt)) {
-    if (!is.na(where_txt)) glue("**{what_txt}** — {where_txt}") else glue("**{what_txt}**")
+  title <- if (!is.na(what_txt)) {
+    if (!is.na(where_txt)) glue("<strong>{what_txt}</strong> — {where_txt}") else glue("<strong>{what_txt}</strong>")
   } else if (!is.na(where_txt)) {
-    glue("**{where_txt}**")
+    glue("<strong>{where_txt}</strong>")
   } else {
-    "**—**"
+    "<strong>—</strong>"
   }
 
-  if (!is.na(with) && nzchar(with)) header <- glue("{header}, *{with}*")
+  loc <- if (!is.na(with) && nzchar(with)) glue('<span class="cv-loc">{with}</span>') else ""
 
-  # The year is emitted as an inline span so CSS can float it into a right-aligned
-  # column (see .cv-year in custom.css); it must stay on the header line, before
-  # any bullets, for the absolute positioning to anchor to the entry's top-right.
-  glue('{header} <span class="cv-year">{when}</span>{fmt_bullets(why)}')
+  glue('<div class="cv-entry"><div class="cv-meta"><span class="cv-date">{when}</span>{loc}</div>',
+       '<div class="cv-body">{title}{fmt_bullets(why)}</div></div>')
 }
 
 strip_trailing_period <- function(x) str_remove(str_trim(x), "\\.+$")

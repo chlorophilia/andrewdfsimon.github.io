@@ -159,41 +159,49 @@ a.carousel-card:hover {
    Everything below is scoped to the CV page via .content:has(.cv-header),
    so it can't leak into research posts or the bibliography. */
 
-/* Right-aligned year column: the year rides in a .cv-year span at the end of
-   each entry's headline, floated into a fixed column at the entry's top-right. */
-.content:has(.cv-header) p:has(.cv-year) {
-    position: relative;
-    padding-right: 6.5rem;
-    margin: 0.5rem 0 0;
+/* Two-column entries: the date and location stack in a left rail (.cv-meta);
+   the bold headline and any bullets sit in the right column (.cv-body). Both
+   columns share a grid row and align on the first baseline, so the date lines
+   up with the headline and nothing staggers or overlaps. */
+.content:has(.cv-header) .cv-entry {
+    display: grid;
+    grid-template-columns: 10rem 1fr;
+    column-gap: 1.5rem;
+    margin: 0.7rem 0 0;
+    align-items: baseline;
 }
 
-.cv-year {
-    position: absolute;
-    top: 0;
-    right: 0;
+.content:has(.cv-header) .cv-meta {
+    display: flex;
+    flex-direction: column;
+    gap: 0.15rem;
     font-size: 0.8rem;
-    font-weight: 400;
+    line-height: 1.4;
+    opacity: 0.6;
+}
+
+.content:has(.cv-header) .cv-date {
     font-variant-numeric: tabular-nums;
-    opacity: 0.55;
     white-space: nowrap;
 }
 
-/* Hanging indent: the bold headline that opens each entry (and each
-   citation) sits flush left, while any wrapped lines indent beneath it, so
-   continuation text never runs back under the bold defining text. */
+/* Tighter vertical rhythm for the entry bullets. */
+.content:has(.cv-header) .cv-body ul {
+    margin: 0.25rem 0 0;
+    padding-left: 1.1rem;
+}
+
+.content:has(.cv-header) .cv-body li {
+    margin: 0.1rem 0;
+    opacity: 0.85;
+}
+
+/* Citations (Presentations/Publications) are still markdown paragraphs: give
+   them a hanging indent so the bold author sits flush left and wrapped lines
+   indent beneath it. */
 .content:has(.cv-header) > p {
     padding-left: 1.5rem;
     text-indent: -1.5rem;
-}
-
-/* Tighter vertical rhythm for the entry bullets. */
-.content:has(.cv-header) ul {
-    margin: 0.2rem 0 0;
-}
-
-.content:has(.cv-header) li {
-    margin: 0.1rem 0;
-    opacity: 0.85;
 }
 
 /* Sharper, editorial section headers: uppercase with letterspacing, a thin

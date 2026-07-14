@@ -13,148 +13,101 @@ title: Curriculum Vitae
 
 ## Education
 
-**PhD Candidate** — University of Alberta (Biological Sciences), *Edmonton, AB* <span class="cv-year">present</span>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">present</span><span class="cv-loc">Edmonton, AB</span></div><div class="cv-body"><strong>PhD Candidate</strong> — University of Alberta (Biological Sciences)</div></div>
 
-**Master of Science** — University of Victoria (Environmental Studies), *Victoria, BC* <span class="cv-year">2020</span>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2020</span><span class="cv-loc">Victoria, BC</span></div><div class="cv-body"><strong>Master of Science</strong> — University of Victoria (Environmental Studies)</div></div>
 
-**Bachelor of Arts and Sciences** — Quest University Canada, *Squamish, BC* <span class="cv-year">2016</span>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2016</span><span class="cv-loc">Squamish, BC</span></div><div class="cv-body"><strong>Bachelor of Arts and Sciences</strong> — Quest University Canada</div></div>
 
 ## Work History
 
-**Teaching Assistant** — University of Alberta, Department of Biological Sciences, *Edmonton, Alberta* <span class="cv-year">Jan 2026 – Apr 2026</span>
-- Facilitated labs in biological diversity (BIO108)
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">Jan 2026 – Apr 2026</span><span class="cv-loc">Edmonton, Alberta</span></div><div class="cv-body"><strong>Teaching Assistant</strong> — University of Alberta, Department of Biological Sciences<ul><li>Facilitated labs in biological diversity (BIO108)</li></ul></div></div>
 
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">Sep 2022 – May 2026</span><span class="cv-loc">Átl’ka7tsem, British Columbia</span></div><div class="cv-body"><strong>Biodiversity Data Science Specialist</strong> — Squamish Environment Society / Átl’ka7tsem/Howe Sound Biosphere Region Initiative<ul><li>Co-design integrative biodiversity assessment framework synthesizing biodiversity, geospatial, and remote sensing data sources</li></ul></div></div>
 
-**Biodiversity Data Science Specialist** — Squamish Environment Society / Átl’ka7tsem/Howe Sound Biosphere Region Initiative, *Átl’ka7tsem, British Columbia* <span class="cv-year">Sep 2022 – May 2026</span>
-- Co-design integrative biodiversity assessment framework synthesizing biodiversity, geospatial, and remote sensing data sources
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">Jan 2024 - Apr 2024</span><span class="cv-loc">Edmonton, Alberta</span></div><div class="cv-body"><strong>Teaching Assistant</strong> — University of Alberta, Department of Biological Sciences<ul><li>Facilitated labs in algal diversity (BOT330)</li></ul></div></div>
 
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">Sep 2022 – Dec 2023</span><span class="cv-loc">Iqaluit / Pond Inlet, Nunavut</span></div><div class="cv-body"><strong>Research Assistant</strong> — University of British Columbia O’Connor Lab / Advisian<ul><li>Quantified biomass and carbon sequestration in Arctic macroalgae communities</li></ul></div></div>
 
-**Teaching Assistant** — University of Alberta, Department of Biological Sciences, *Edmonton, Alberta* <span class="cv-year">Jan 2024 - Apr 2024</span>
-- Facilitated labs in algal diversity (BOT330)
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">Jul 2022 – Dec 2022</span><span class="cv-loc">Vancouver, British Columbia</span></div><div class="cv-body"><strong>Research Assistant</strong> — University of British Columbia O’Connor Lab / Hakai Institute<ul><li>Coordinated UN Decade on Ocean Conservation Biodiversity Synthesis Hub</li><li>Researched science-policy gaps in the Salish Sea</li></ul></div></div>
 
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">Sept 2021 – Mar 2023</span><span class="cv-loc">Southern Gulf Islands, British Columbia</span></div><div class="cv-body"><strong>Biodiversity Specialist</strong> — BC Conservation Data Centre<ul><li>Conducted floristic inventories and rare species surveys focusing on rare lichens, bryophytes, and vascular plants</li></ul></div></div>
 
-**Research Assistant** — University of British Columbia O’Connor Lab / Advisian, *Iqaluit / Pond Inlet, Nunavut* <span class="cv-year">Sep 2022 – Dec 2023</span>
-- Quantified biomass and carbon sequestration in Arctic macroalgae communities
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">Nov 2020 – Aug 2023</span><span class="cv-loc">Galiano Island / Cranbrook, British Columbia</span></div><div class="cv-body"><strong>Biodiversity Specialist</strong> — Keefer Ecological Services Ltd.<ul><li>Conducted rare species inventories and terrestrial ecosystem mapping</li><li>Developed habitat suitability index models for rare species</li><li>Mapped species of conservation concern using NatureServe Biotics5</li><li>Developed project proposals and budgets, and coordinated complex multidisciplinary projects in a team environment</li></ul></div></div>
 
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">Jan 2019 – Aug 2019</span><span class="cv-loc">Mayne Island, British Columbia</span></div><div class="cv-body"><strong>Stewardship Coordinator</strong> — Mayne Island Conservancy<ul><li>Coordinated inter-island bioblitz focusing on Galiano and Mayne Islands</li><li>Compiled comprehensive dataset of historical baseline and contemporary species occurrence data using R and iNaturalist</li><li>Prepared conservation management plans & implemented restoration projects focusing on private & protected lands</li></ul></div></div>
 
-**Research Assistant** — University of British Columbia O’Connor Lab / Hakai Institute, *Vancouver, British Columbia* <span class="cv-year">Jul 2022 – Dec 2022</span>
-- Coordinated UN Decade on Ocean Conservation Biodiversity Synthesis Hub
-- Researched science-policy gaps in the Salish Sea
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2015 – 2020</span><span class="cv-loc">Galiano Island, BC</span></div><div class="cv-body"><strong>Environmental Consultant</strong> — Independent Consulting<ul><li>Completed forest cover maps, inventories & management plans covering >600 ha in the Coastal Douglas-fir (CDF) Biogeoclimatic Zone</li><li>Implemented geospatial infrastructure for BC Parks Biodiversity Mapping Project, inc. >1,000 protected areas</li><li>Clients inc.: BC Parks, the Galiano Club, Galiano Conservancy Association, BC Ministry of the Environment, & Keefer Ecological Services Ltd.</li></ul></div></div>
 
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2016</span><span class="cv-loc">Mt. Revelstoke / Glacier / Banff / Jasper National Parks, British Columbia</span></div><div class="cv-body"><strong>Researcher</strong> — Parks Canada<ul><li>Synthesized technical reports on the potential risks and mitigations of prescribed fire in caribou habitat in collaboration with experts & Parks Canada officials</li></ul></div></div>
 
-**Biodiversity Specialist** — BC Conservation Data Centre, *Southern Gulf Islands, British Columbia* <span class="cv-year">Sept 2021 – Mar 2023</span>
-- Conducted floristic inventories and rare species surveys focusing on rare lichens, bryophytes, and vascular plants
-
-
-**Biodiversity Specialist** — Keefer Ecological Services Ltd., *Galiano Island / Cranbrook, British Columbia* <span class="cv-year">Nov 2020 – Aug 2023</span>
-- Conducted rare species inventories and terrestrial ecosystem mapping
-- Developed habitat suitability index models for rare species
-- Mapped species of conservation concern using NatureServe Biotics5
-- Developed project proposals and budgets, and coordinated complex multidisciplinary projects in a team environment
-
-
-**Stewardship Coordinator** — Mayne Island Conservancy, *Mayne Island, British Columbia* <span class="cv-year">Jan 2019 – Aug 2019</span>
-- Coordinated inter-island bioblitz focusing on Galiano and Mayne Islands
-- Compiled comprehensive dataset of historical baseline and contemporary species occurrence data using R and iNaturalist
-- Prepared conservation management plans & implemented restoration projects focusing on private & protected lands
-
-
-**Environmental Consultant** — Independent Consulting, *Galiano Island, BC* <span class="cv-year">2015 – 2020</span>
-- Completed forest cover maps, inventories & management plans covering >600 ha in the Coastal Douglas-fir (CDF) Biogeoclimatic Zone
-- Implemented geospatial infrastructure for BC Parks Biodiversity Mapping Project, inc. >1,000 protected areas
-- Clients inc.: BC Parks, the Galiano Club, Galiano Conservancy Association, BC Ministry of the Environment, & Keefer Ecological Services Ltd.
-
-
-**Researcher** — Parks Canada, *Mt. Revelstoke / Glacier / Banff / Jasper National Parks, British Columbia* <span class="cv-year">2016</span>
-- Synthesized technical reports on the potential risks and mitigations of prescribed fire in caribou habitat in collaboration with experts & Parks Canada officials
-
-
-**Research and Field Assistant** — Enlichened Consulting Ltd., *Clearwater / Robson Valley / Tumbler Ridge / Vancouver Island, British Columbia* <span class="cv-year">2015 – 2018</span>
-- Assisted in ecological research, biodiversity inventories & rare plant surveys throughout BC, focusing on lichens, bryophytes, & vascular plants
-- Collected field data, maintained databases, curated UBC lichen herbarium
-
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2015 – 2018</span><span class="cv-loc">Clearwater / Robson Valley / Tumbler Ridge / Vancouver Island, British Columbia</span></div><div class="cv-body"><strong>Research and Field Assistant</strong> — Enlichened Consulting Ltd.<ul><li>Assisted in ecological research, biodiversity inventories & rare plant surveys throughout BC, focusing on lichens, bryophytes, & vascular plants</li><li>Collected field data, maintained databases, curated UBC lichen herbarium</li></ul></div></div>
 
 ## Leadership
 
-**Canadian delegation for the sixth meeting of the Subsidiary Body for Implementation of the Convention on Biological Diversity**, *Rome, Italy* <span class="cv-year">2026</span>
-- Nominated Delegate
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2026</span><span class="cv-loc">Rome, Italy</span></div><div class="cv-body"><strong>Canadian delegation for the sixth meeting of the Subsidiary Body for Implementation of the Convention on Biological Diversity</strong><ul><li>Nominated Delegate</li></ul></div></div>
 
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2025 – present</span><span class="cv-loc">Ottawa, ON</span></div><div class="cv-body"><strong>Committee on the Status of Endangered Wildlife in Canada (COSEWIC)</strong><ul><li>Mosses and Lichens Species Specialist Subcommittee Member</li></ul></div></div>
 
-**Committee on the Status of Endangered Wildlife in Canada (COSEWIC)**, *Ottawa, ON* <span class="cv-year">2025 – present</span>
-- Mosses and Lichens Species Specialist Subcommittee Member
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2023 – 2025</span><span class="cv-loc">Squamish, BC</span></div><div class="cv-body"><strong>Squamish Environment Society</strong><ul><li>Wildlife Connectivity Project Technical Working Group Member</li></ul></div></div>
 
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2020 – present</span><span class="cv-loc">Galiano Island, BC</span></div><div class="cv-body"><strong>Institute for Multidisciplinary Ecological Research in the Salish Sea</strong><ul><li>President and Founding Member</li></ul></div></div>
 
-**Squamish Environment Society**, *Squamish, BC* <span class="cv-year">2023 – 2025</span>
-- Wildlife Connectivity Project Technical Working Group Member
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2016 – present</span><span class="cv-loc">Galiano Island, BC</span></div><div class="cv-body"><strong>Biodiversity Galiano Island Project</strong><ul><li>Project Curator</li></ul></div></div>
 
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2023 – 2024</span><span class="cv-loc">Vancouver, BC</span></div><div class="cv-body"><strong>Coastal Douglas-fir Conservation Partnership</strong><ul><li>Biodiversity Data Science Mentor</li></ul></div></div>
 
-**Institute for Multidisciplinary Ecological Research in the Salish Sea**, *Galiano Island, BC* <span class="cv-year">2020 – present</span>
-- President and Founding Member
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2022 – 2024</span><span class="cv-loc">Victoria, BC</span></div><div class="cv-body"><strong>Northeast Pacific Biodiversity Action Network</strong><ul><li>Steering Committee Member</li></ul></div></div>
 
-
-**Biodiversity Galiano Island Project**, *Galiano Island, BC* <span class="cv-year">2016 – present</span>
-- Project Curator
-
-
-**Coastal Douglas-fir Conservation Partnership**, *Vancouver, BC* <span class="cv-year">2023 – 2024</span>
-- Biodiversity Data Science Mentor
-
-
-**Northeast Pacific Biodiversity Action Network**, *Victoria, BC* <span class="cv-year">2022 – 2024</span>
-- Steering Committee Member
-
-
-**Capital Regional District Galiano Island Parks and Recreation Commission**, *Galiano Island, BC* <span class="cv-year">2019 – 2024</span>
-- Commissioner
-
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2019 – 2024</span><span class="cv-loc">Galiano Island, BC</span></div><div class="cv-body"><strong>Capital Regional District Galiano Island Parks and Recreation Commission</strong><ul><li>Commissioner</li></ul></div></div>
 
 ## Awards, Grants, Recognitions
 
-**University of Alberta** — Izaak Walton Killam Memorial Fellowship <span class="cv-year">2026</span>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2026</span></div><div class="cv-body"><strong>University of Alberta</strong> — Izaak Walton Killam Memorial Fellowship</div></div>
 
-**Canadian Botanical Association** — J. Stan Rowe Award <span class="cv-year">2026</span>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2026</span></div><div class="cv-body"><strong>Canadian Botanical Association</strong> — J. Stan Rowe Award</div></div>
 
-**BC Conservation and Biodiversity Awards** — BC Conservation and Biodiversity Award <span class="cv-year">2026</span>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2026</span></div><div class="cv-body"><strong>BC Conservation and Biodiversity Awards</strong> — BC Conservation and Biodiversity Award</div></div>
 
-**University of Alberta** — ASPB Robin Leech Graduate Scholarship in Biological Sciences <span class="cv-year">2025</span>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2025</span></div><div class="cv-body"><strong>University of Alberta</strong> — ASPB Robin Leech Graduate Scholarship in Biological Sciences</div></div>
 
-**University of Alberta** — President's Doctoral Prize of Distinction <span class="cv-year">2025</span>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2025</span></div><div class="cv-body"><strong>University of Alberta</strong> — President's Doctoral Prize of Distinction</div></div>
 
-**Canadian Institute for Ecology and Evolution** — Living Data Project Grant III <span class="cv-year">2024</span>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2024</span></div><div class="cv-body"><strong>Canadian Institute for Ecology and Evolution</strong> — Living Data Project Grant III</div></div>
 
-**Alberta Conservation Association** — ACA Grant in Biodiversity <span class="cv-year">2024</span>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2024</span></div><div class="cv-body"><strong>Alberta Conservation Association</strong> — ACA Grant in Biodiversity</div></div>
 
-**BC Conservation and Biodiversity Awards** — BC Conservation and Biodiversity Award <span class="cv-year">2024</span>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2024</span></div><div class="cv-body"><strong>BC Conservation and Biodiversity Awards</strong> — BC Conservation and Biodiversity Award</div></div>
 
-**University of Alberta** — President's Doctoral Prize of Distinction <span class="cv-year">2024</span>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2024</span></div><div class="cv-body"><strong>University of Alberta</strong> — President's Doctoral Prize of Distinction</div></div>
 
-**Canadian Institute for Ecology and Evolution** — Living Data Project Grant II <span class="cv-year">2023</span>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2023</span></div><div class="cv-body"><strong>Canadian Institute for Ecology and Evolution</strong> — Living Data Project Grant II</div></div>
 
-**University of British Columbia** — NSERC CGS D <span class="cv-year">2023</span>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2023</span></div><div class="cv-body"><strong>University of British Columbia</strong> — NSERC CGS D</div></div>
 
-**Institute for Multidisciplinary Ecological Research in the Salish Sea, Inclusive Design Research Centre** — SSRHC Connections Grant <span class="cv-year">2023</span>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2023</span></div><div class="cv-body"><strong>Institute for Multidisciplinary Ecological Research in the Salish Sea, Inclusive Design Research Centre</strong> — SSRHC Connections Grant</div></div>
 
-**University of British Columbia** — Zoology Graduate Fellowship <span class="cv-year">2023</span>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2023</span></div><div class="cv-body"><strong>University of British Columbia</strong> — Zoology Graduate Fellowship</div></div>
 
-**Canadian Institute for Ecology and Evolution** — Living Data Project Grant I <span class="cv-year">2022</span>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2022</span></div><div class="cv-body"><strong>Canadian Institute for Ecology and Evolution</strong> — Living Data Project Grant I</div></div>
 
-**BC Parks** — Living Lab for Climate Change Grant <span class="cv-year">2020</span>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2020</span></div><div class="cv-body"><strong>BC Parks</strong> — Living Lab for Climate Change Grant</div></div>
 
-**Royal BC Museum** — Royal BC Museum Volunteer Award <span class="cv-year">2020</span>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2020</span></div><div class="cv-body"><strong>Royal BC Museum</strong> — Royal BC Museum Volunteer Award</div></div>
 
-**House of Commons** — Recognition from Honourable Member of Parliament Elizabeth May <span class="cv-year">2019</span>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2019</span></div><div class="cv-body"><strong>House of Commons</strong> — Recognition from Honourable Member of Parliament Elizabeth May</div></div>
 
-**Islands Trust** — Islands Trust Community Stewardship Award <span class="cv-year">2019</span>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2019</span></div><div class="cv-body"><strong>Islands Trust</strong> — Islands Trust Community Stewardship Award</div></div>
 
-**University of Victoria** — Lorene Kennedy Graduate Student Field Research Award <span class="cv-year">2018</span>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2018</span></div><div class="cv-body"><strong>University of Victoria</strong> — Lorene Kennedy Graduate Student Field Research Award</div></div>
 
 ## Certifications
 
-**Alert First-Aid Inc.** — Occupational First Aid, *WorkSafeBC OFA Level 1 - Occupational First Aid Level 1* <span class="cv-year">2022</span>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2022</span><span class="cv-loc">WorkSafeBC OFA Level 1 - Occupational First Aid Level 1</span></div><div class="cv-body"><strong>Alert First-Aid Inc.</strong> — Occupational First Aid</div></div>
 
-**Transport Canada** — sRPAS Basic License, *Basic Drone Pilot's License* <span class="cv-year">2021</span>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2021</span><span class="cv-loc">Basic Drone Pilot's License</span></div><div class="cv-body"><strong>Transport Canada</strong> — sRPAS Basic License</div></div>
 
-**BC Wildlife Federation** — Wetland Keepers Certificate, *Wetland Mapping and Stewardship Course* <span class="cv-year">2015</span>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2015</span><span class="cv-loc">Wetland Mapping and Stewardship Course</span></div><div class="cv-body"><strong>BC Wildlife Federation</strong> — Wetland Keepers Certificate</div></div>
 
 ## Presentations, Workshops
 
