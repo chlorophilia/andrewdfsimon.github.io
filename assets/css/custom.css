@@ -208,6 +208,12 @@ a.carousel-card:hover {
     border-bottom: 1px solid color-mix(in srgb, currentColor 18%, transparent);
 }
 
+/* Previous/next post links at the foot of a research post: light up in the
+   site's brightest accent (fully saturated lichen green) on hover. */
+.research-pager-link:hover {
+    color: hsl(var(--primary-hue), 100%, 50%);
+}
+
 :root {
     --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
     --bs-border-width: 1px;
