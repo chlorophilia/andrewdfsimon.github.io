@@ -23,7 +23,7 @@ title: Curriculum Vitae
 
 <div class="cv-entry"><div class="cv-meta"><span class="cv-date">Jan 2026 – Apr 2026</span><span class="cv-loc">Edmonton, Alberta</span></div><div class="cv-body"><strong>Teaching Assistant</strong> — University of Alberta, Department of Biological Sciences<ul><li>Facilitated labs in biological diversity (BIO108)</li></ul></div></div>
 
-<div class="cv-entry"><div class="cv-meta"><span class="cv-date">Sep 2022 – May 2026</span><span class="cv-loc">Átl’ka7tsem, British Columbia</span></div><div class="cv-body"><strong>Biodiversity Data Science Specialist</strong> — Squamish Environment Society / Átl’ka7tsem/Howe Sound Biosphere Region Initiative<ul><li>Co-design integrative biodiversity assessment framework synthesizing biodiversity, geospatial, and remote sensing data sources</li></ul></div></div>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">Sep 2022 – May 2026</span><span class="cv-loc">Átl’ka7tsem, British Columbia</span></div><div class="cv-body"><strong>Biodiversity Data Science Specialist</strong> — Squamish Environment Society / Átl’ka7tsem/Howe Sound Biosphere Region Initiative<ul><li>Co-designed integrative biodiversity assessment framework synthesizing biodiversity, geospatial, and remote sensing data sources</li></ul></div></div>
 
 <div class="cv-entry"><div class="cv-meta"><span class="cv-date">Jan 2024 - Apr 2024</span><span class="cv-loc">Edmonton, Alberta</span></div><div class="cv-body"><strong>Teaching Assistant</strong> — University of Alberta, Department of Biological Sciences<ul><li>Facilitated labs in algal diversity (BOT330)</li></ul></div></div>
 
@@ -41,7 +41,7 @@ title: Curriculum Vitae
 
 <div class="cv-entry"><div class="cv-meta"><span class="cv-date">2016</span><span class="cv-loc">Mt. Revelstoke / Glacier / Banff / Jasper National Parks, British Columbia</span></div><div class="cv-body"><strong>Researcher</strong> — Parks Canada<ul><li>Synthesized technical reports on the potential risks and mitigations of prescribed fire in caribou habitat in collaboration with experts & Parks Canada officials</li></ul></div></div>
 
-<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2015 – 2018</span><span class="cv-loc">Clearwater / Robson Valley / Tumbler Ridge / Vancouver Island, British Columbia</span></div><div class="cv-body"><strong>Research and Field Assistant</strong> — Enlichened Consulting Ltd.<ul><li>Assisted in ecological research, biodiversity inventories & rare plant surveys throughout BC, focusing on lichens, bryophytes, & vascular plants</li><li>Collected field data, maintained databases, curated UBC lichen herbarium</li></ul></div></div>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2015 – 2018</span><span class="cv-loc">Clearwater / Robson Valley / Tumbler Ridge / Vancouver Island, British Columbia</span></div><div class="cv-body"><strong>Research and Field Assistant</strong> — Enlichened Consulting Ltd.<ul><li>Assisted in ecological research, biodiversity inventories & rare plant surveys throughout BC, focusing on lichens, bryophytes, & vascular plants</li><li>Collected field data, maintained databases, helped with curation of UBC lichen herbarium</li></ul></div></div>
 
 ## Leadership
 
