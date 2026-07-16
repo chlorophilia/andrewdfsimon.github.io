@@ -1,0 +1,46 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andrew D.F. Simon – conservation</title>
+    <link>/tags/conservation/</link>
+    <description>Recent content in conservation on Andrew D.F. Simon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	  <atom:link href="/tags/conservation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>One lichen, or three? Genomes and a threatened species</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid></guid>
+      <description>
+        
+        
+        &lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;cover.jpg&#34; alt=&#34;Collema coniophilum, a dark gelatinous cyanolichen growing on bark&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;&lt;em&gt;Collema coniophilum&lt;/em&gt;, the crumpled tarpaper lichen—a bark-dwelling cyanolichen, shown here as the holotype specimen. Photo: Tim Wheeler.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;Collema coniophilum&lt;/em&gt; is a small, dark, gelatinous lichen—a cyanolichen, partnered with a nitrogen-fixing cyanobacterium (&lt;em&gt;Nostoc&lt;/em&gt;) rather than a green alga—that grows on bark in humid forests. When it was described in 2009 from the upper Fraser River watershed in British Columbia, it was known from just seven localities and treated as a rare endemic. Since then, its documented range has expanded fourfold, turning up from boreal Yukon and Alaska south to the warm-summer Mediterranean islands of the Salish Sea.&lt;/p&gt;
+&lt;p&gt;For a threatened species, a wider range sounds like good news. But it raises a harder question: is this one species spreading across an enormous climatic gradient, or several distinct lineages that have been lumped under a single name? For conservation, the distinction matters—it changes what, exactly, you are trying to protect.&lt;/p&gt;
+&lt;p&gt;The usual way to check would be the fungal DNA barcode, the ITS region. In &lt;em&gt;Collema coniophilum&lt;/em&gt;, though, it kept failing to amplify—and once we could look at it across whole genomes, the reason became clear: here ITS is both paralogous and uninformative. Each genome carries several divergent copies, most of them degraded pseudogenes with a telltale drift toward high AT content, while the one functional copy is identical in every sample. The standard marker simply can&amp;rsquo;t resolve the structure.&lt;/p&gt;
+&lt;p&gt;So we turned to the genomes themselves. Working in the &lt;a href=&#34;https://spribillelab.wordpress.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Spribille Lab&lt;/a&gt; at the University of Alberta, we recovered draft genomes for both partners from 19 thalli spanning the expanded range, and applied two independent genome-scale analyses. A phylogenomic tree built from 495 shared single-copy genes, and a separate SNP-based clustering analysis, converge on the same picture: three well-supported, geographically structured fungal lineages—boreal, central, and southern coastal (Salish Sea). A population-structure analysis agrees, with only a hint of admixture between them, so the lineages appear divergent but not completely isolated.&lt;/p&gt;
+&lt;div class=&#34;figure&#34;&gt;
+&lt;img src=&#34;lineage-map.jpg&#34; alt=&#34;Left: a map of sampling localities across British Columbia, Yukon, and Alaska coloured by fungal lineage. Right: facing phylogenetic trees of the fungus and its Nostoc partner, connected by tangled lines showing discordance.&#34; /&gt;
+&lt;p class=&#34;caption&#34;&gt;Left: sampling localities across the expanded range, coloured by fungal lineage (Salish Sea, central, boreal). Right: facing phylogenies of the fungus (&lt;em&gt;Collema&lt;/em&gt;) and its cyanobacterial partner (&lt;em&gt;Nostoc&lt;/em&gt;)—the tangled connecting lines show that the two don&#39;t share the same evolutionary map.&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;There&amp;rsquo;s a further twist in the symbiosis. The fungus and its &lt;em&gt;Nostoc&lt;/em&gt; partner don&amp;rsquo;t sort the same way: &lt;em&gt;Collema&lt;/em&gt; resolves into three lineages, but &lt;em&gt;Nostoc&lt;/em&gt; into one coastal and two interior groups. Read side by side, the two trees are tangled rather than parallel—pointing to photobiont switching, the partners swapping and re-pairing over time, and to the two responding differently to climate, in a lichen that otherwise disperses clonally, both partners together.&lt;/p&gt;
+&lt;p&gt;So—populations, or cryptic species? By average nucleotide identity, the lineages sit right in the grey zone: within-lineage similarity edges just above between-lineage similarity, which is exactly why the question deserves care rather than a quick answer. This is ongoing conservation-assessment work, alongside COSEWIC and the BC Conservation Data Centre, and where the line is drawn will shape how &lt;em&gt;Collema coniophilum&lt;/em&gt; is evaluated and protected. It&amp;rsquo;s also a small reminder that the tool we reach for first—a single gene, a familiar marker—quietly shapes what we&amp;rsquo;re able to see.&lt;/p&gt;
+&lt;p class=&#34;pageinfo&#34;&gt;Preliminary results, presented with Toby Spribille at the International Association for Lichenology symposium. This work is ongoing and not yet peer-reviewed.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>

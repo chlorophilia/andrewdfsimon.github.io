@@ -111,9 +111,9 @@ title: Curriculum Vitae
 
 ## Presentations, Workshops
 
-A. Basman, **A.D.F. Simon** (2026) Detecting extirpation: a localized approach to a global problem. State of the World's Plants and Fungi Symposium.
+A. Basman, **A.D.F. Simon**, R.A. Martin, C. Robinson, Q. Cronk (2026) Detecting extirpation: a localized approach to a global problem. State of the World's Plants and Fungi Symposium.
 
-**A.D.F. Simon** (2026) Detecting extirpation: a localized approach to a global problem. Canadian Botanical Association.
+**A.D.F. Simon**, A. Basman, R.A. Martin, C. Robinson, Q. Cronk (2026) Detecting extirpation: a localized approach to a global problem. Canadian Botanical Association.
 
 **A.D.F. Simon** (2026) How to use iNaturalist to support the never-ending bioblitz. Saturna Island Marine Research and Education Society.
 
@@ -123,7 +123,7 @@ A. Basman, **A.D.F. Simon** (2025) Introduction to Bayesian statistics for ecolo
 
 **A.D.F. Simon**, A. Basman (2024) Frameworks for community engagement in long-term ecological research. Biodiversity Beyond Boundaries: mobilizing data for the future of our shared waters.
 
-Q. Cronk, **A.D.F. Simon**, R. A. Martin (2024) Operationalizing the study of local extirpation: the key role of herbaria. Botany 2024.
+Q. Cronk, **A.D.F. Simon**, A. Basman, R. A. Martin, C. Robinson (2024) Operationalizing the study of local extirpation: the key role of herbaria. Botany 2024.
 
 **A.D.F. Simon**, L.R. Best, B.M. Starzomski (2024) Community science and systematic sampling provide convergent 
 evidence for historical change in an island bumble bee community. Canadian Society for Ecology and Evolution.
