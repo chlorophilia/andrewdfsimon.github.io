@@ -72,8 +72,8 @@
   {{- $level := .level -}}
   {{- $toc := .toc | default false -}}
 
-  {{- with $items := union .context.RegularPages .context.Sections -}}
-    {{- $items = where $items "Params.sidebar.exclude" "!=" true -}}
+  {{- $items := where (union .context.RegularPages .context.Sections) "Params.sidebar.exclude" "!=" true -}}
+  {{- with $items -}}
     {{- if eq $level 0 -}}
       {{- range $items.ByWeight }}
         {{- if .Params.sidebar.separator -}}
@@ -164,7 +164,7 @@
   >
     {{- .title -}}
     {{- with .context }}
-      {{- if or .RegularPages .Sections }}
+      {{- if where (union .RegularPages .Sections) "Params.sidebar.exclude" "!=" true }}
         <span class="hextra-sidebar-collapsible-button">
           {{- template "sidebar-collapsible-button" -}}
         </span>

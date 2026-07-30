@@ -1,0 +1,3 @@
+{{ range site.Home.Sections }}SECTION {{ .RelPermalink }} exclude={{ .Params.sidebar.exclude }} type={{ .Type }}
+{{ range .RegularPages }}  PAGE {{ .File.Path }} exclude={{ .Params.sidebar.exclude }}
+{{ end }}{{ end }}
