@@ -16,7 +16,7 @@ excludeSearch: true
 
 *Collema coniophilum*, the "crumpled tarpaper" lichen, was [described in 2009](https://doi.org/10.1639/0007-2745-112.1.109) from the inland rainforests of the upper Fraser River watershed, British Columbia. Known then from seven localities, it was considered a rare endemic, currently assessed as threatened in Canada.
 
-Yet—through additional sampling by Paula Bartemucci, Christopher Lewis, Toby Spribille, and myself—its documented range has since expanded more than fourfold, with new records extending from boreal Yukon and Alaska to the warm-summer Mediterranean islands of the Salish Sea. For a threatened species, this expanded range posed a conservation problem: are we really looking at a single species distributed across such ecologically and geographically disparate regions—or different populations of conservation significance?
+Yet—through additional sampling by Paula Bartemucci, Curtis Björk, Christopher Lewis, Toby Spribille, and myself—its documented range has since expanded more than fourfold, with new records extending from boreal Yukon and Alaska to the warm-summer Mediterranean islands of the Salish Sea. For a threatened species, this expanded range posed a conservation problem: are we really looking at a single species distributed across such ecologically and geographically disparate regions—or different populations of conservation significance?
 
 Answering that requires genetic evidence, and the usual markers could not provide it: ITS, the standard fungal barcode, repeatedly failed to amplify, and mtSSU—the marker used to support the expanded range—could not resolve variation within the species.
 
