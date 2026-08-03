@@ -20,6 +20,10 @@ title: Bibliography
 
 ## Presentations, Workshops
 
+**A.D.F. Simon**, T. Spribille (2026) Boreal lichen photobiont networks: structure, stability, and vulnerability. The 10th Symposium of the International Association for Lichenology.
+
+**A.D.F. Simon**, T. Spribille (2026) When ITS does not tell the whole story: Genome-scale analyses of the threatened Canadian lichen Collema coniophilum. The 10th Symposium of the International Association for Lichenology.
+
 A. Basman, **A.D.F. Simon**, R.A. Martin, C. Robinson, Q. Cronk (2026) Detecting extirpation: a localized approach to a global problem. State of the World's Plants and Fungi Symposium.
 
 **A.D.F. Simon**, A. Basman, R.A. Martin, C. Robinson, Q. Cronk (2026) Detecting extirpation: a localized approach to a global problem. Canadian Botanical Association.

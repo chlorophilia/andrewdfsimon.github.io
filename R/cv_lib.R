@@ -87,7 +87,21 @@ entries_md <- function(df, fmt) {
   df %>% purrr::pmap_chr(fmt) %>% paste(collapse = "\n\n")
 }
 
+# A blank `category` cell used to be dropped silently by `category == "peer"`
+# (NA propagates through filter()), so a newly added row missing that one field
+# simply never appeared on the site. Blanks are now treated as "peer" and
+# reported; rows with some other category are dropped, but loudly.
 citations_md <- function(sheet_name) {
-  df <- fetch_sheet(sheet_name) %>% filter(category == "peer") %>% arrange(desc(year))
+  df <- fetch_sheet(sheet_name)
+  cat_col <- as.character(df$category)
+  blank <- is.na(cat_col) | !nzchar(str_trim(cat_col))
+  if (any(blank)) warning(sheet_name, ": ", sum(blank), " row(s) have a blank `category` ",
+                          "and are being included as peer — fill the column in the Sheet: ",
+                          paste(clean_title(df$title[blank]), collapse = "; "), call. = FALSE)
+  dropped <- !blank & cat_col != "peer"
+  if (any(dropped)) message(sheet_name, ": skipped ", sum(dropped), " non-peer row(s): ",
+                            paste(clean_title(df$title[dropped]), collapse = "; "))
+
+  df <- df[blank | cat_col == "peer", ] %>% arrange(desc(year))
   purrr::map_chr(seq_len(nrow(df)), ~ fmt_citation(df[.x, ])) %>% paste(collapse = "\n\n")
 }
