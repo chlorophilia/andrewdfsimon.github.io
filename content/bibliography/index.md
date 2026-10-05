@@ -20,6 +20,8 @@ title: Bibliography
 
 ## Presentations, Workshops
 
+**A.D.F. Simon**, T. Spribille (2026) Boreal lichen photobiont networks: structure, stability, and vulnerability. 6th Annual CanFunNet Fungal Biology Conference.
+
 **A.D.F. Simon**, T. Spribille (2026) Boreal lichen photobiont networks: structure, stability, and vulnerability. The 10th Symposium of the International Association for Lichenology.
 
 **A.D.F. Simon**, T. Spribille (2026) When ITS does not tell the whole story: Genome-scale analyses of the threatened Canadian lichen Collema coniophilum. The 10th Symposium of the International Association for Lichenology.

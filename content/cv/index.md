@@ -63,6 +63,8 @@ title: Curriculum Vitae
 
 ## Awards, Grants, Recognitions
 
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2026</span></div><div class="cv-body"><strong>Global Biodiversity Information Facility</strong> — 2026 Ebbe Nielsen Challenge award</div></div>
+
 <div class="cv-entry"><div class="cv-meta"><span class="cv-date">2026</span></div><div class="cv-body"><strong>University of Alberta</strong> — Izaak Walton Killam Memorial Fellowship</div></div>
 
 <div class="cv-entry"><div class="cv-meta"><span class="cv-date">2026</span></div><div class="cv-body"><strong>Canadian Botanical Association</strong> — J. Stan Rowe Award</div></div>
@@ -110,6 +112,8 @@ title: Curriculum Vitae
 <div class="cv-entry"><div class="cv-meta"><span class="cv-date">2015</span><span class="cv-loc">Wetland Mapping and Stewardship Course</span></div><div class="cv-body"><strong>BC Wildlife Federation</strong> — Wetland Keepers Certificate</div></div>
 
 ## Presentations, Workshops
+
+**A.D.F. Simon**, T. Spribille (2026) Boreal lichen photobiont networks: structure, stability, and vulnerability. 6th Annual CanFunNet Fungal Biology Conference.
 
 **A.D.F. Simon**, T. Spribille (2026) Boreal lichen photobiont networks: structure, stability, and vulnerability. The 10th Symposium of the International Association for Lichenology.
 
