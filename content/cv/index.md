@@ -63,7 +63,7 @@ title: Curriculum Vitae
 
 ## Awards, Grants, Recognitions
 
-<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2026</span></div><div class="cv-body"><strong>Global Biodiversity Information Facility</strong> — 2026 Ebbe Nielsen Challenge award</div></div>
+<div class="cv-entry"><div class="cv-meta"><span class="cv-date">2026</span></div><div class="cv-body"><strong>Global Biodiversity Information Facility</strong> — 2026 Ebbe Nielsen Challenge Award</div></div>
 
 <div class="cv-entry"><div class="cv-meta"><span class="cv-date">2026</span></div><div class="cv-body"><strong>University of Alberta</strong> — Izaak Walton Killam Memorial Fellowship</div></div>
 
@@ -172,6 +172,8 @@ C. Sandilands, L.D. Magner, **A.D.F. Simon** (2020) Storying climate change in t
 
 ## Publications
 
+### Peer-reviewed Research
+
 [M. Webber, E. Humphrey, A. van Asselt, A. Chang, E. Morien, **A.D.F. Simon** (2026) Diatoms (Bacillariophyta) of the Salish Sea, Northeast Pacific: annotated checklist and new species reports. Biodiversity Data Journal. 14(e189060).](https://doi.org/10.3897/BDJ.14.e189060)
 
 [**A.D.F. Simon**, A. Basman, R.A. Martin, C. Robinson, Q. Cronk (2025) Detecting extirpation: A localized approach to a global problem. Plants, People, Planet. 8(4).](https://doi.org/10.1002/ppp3.70130)
@@ -185,3 +187,9 @@ C. Sandilands, L.D. Magner, **A.D.F. Simon** (2020) Storying climate change in t
 [**A.D.F. Simon**, E.M. Adamczyk, A. Basman, J.W.F. Chu, H.N. Gartner, K. Fletcher, C.J. Gibbs, D.M. Gibbs, S.R. Gilmore, R.M. Harbo, L.H. Harris, E. Humphrey, A. Lamb, P. Lambert, N. McDaniel, J. Scott, B.M. Starzomski (2022) Toward an atlas of Salish Sea biodiversity: the flora and fauna of Galiano Island, British Columbia, Canada. Part I. Marine zoology. Biodiversity Data Journal. 10(e76050).](https://doi.org/10.3897/BDJ.10.e76050)
 
 [**A.D.F. Simon**, H.E. Marx, B.M. Starzomski (2021) Phylogenetic restriction of plant invasion in drought-stressed environments: implications for insect-pollinated plant communities in water-limited ecosystems. Ecology and Evolution. 11(15).](https://doi.org/10.1002/ece3.7776)
+
+### Curated Biodiversity Data
+
+[**A.D.F. Simon**, A. van Asselt, M. Webber (2026) Diatoms (Bacillariophyta) of the Salish Sea, Northeast Pacific: annotated checklist and new species reports. Global Biodiversity Information Facility (GBIF).](https://www.gbif.org/dataset/d41f9582-0b3e-4062-8ee0-31f0ba52ace1)
+
+[**A.D.F. Simon** and A. Basman (2022) Galiano Island BC Canada Marine Zoology 1893–2021. Global Biodiversity Information Facility (GBIF).](https://www.gbif.org/dataset/56687a3d-b48f-44e5-b2b8-d55bafff2f33)
