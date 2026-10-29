@@ -1,12 +1,13 @@
-# Regenerates content/bibliography/index.md. "Peer-reviewed Research" and
-# "Presentations, Workshops" are pulled live from the same Publications/
-# Presentations Sheets used by the CV (see R/generate_cv.R), so the two pages
-# can't drift apart. The remaining sections have no Sheet to source from and
+# Regenerates content/bibliography/index.md. "Peer-reviewed Research",
+# "Curated Biodiversity Data" and "Presentations, Workshops" are pulled live
+# from the same Publications/Datasets/Presentations Sheets used by the CV (see
+# R/generate_cv.R), so the two pages can't drift apart. The remaining sections have no Sheet to source from and
 # are hand-maintained here.
 
 source("R/cv_lib.R")
 
 publications_md  <- citations_md("Publications")
+datasets_md      <- citations_md("Datasets", peer_only = FALSE)
 presentations_md <- citations_md("Presentations")
 
 static_sections <- '
@@ -49,10 +50,14 @@ title: Bibliography
 
 {publications_md}
 
+## Curated Biodiversity Data
+
+{datasets_md}
+
 ## Presentations, Workshops
 
 {presentations_md}
 {static_sections}')
 
 writeLines(bibliography_md, "content/bibliography/index.md")
-message("Wrote content/bibliography/index.md (Peer-reviewed Research + Presentations, Workshops from Sheets; remaining sections static).")
+message("Wrote content/bibliography/index.md (Peer-reviewed Research, Curated Biodiversity Data + Presentations, Workshops from Sheets; remaining sections static).")

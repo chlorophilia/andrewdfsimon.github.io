@@ -28,6 +28,7 @@ certifications_md <- entries_md(certifications, function(Certification, Year, Or
 
 presentations_md <- citations_md("Presentations")
 publications_md <- citations_md("Publications")
+datasets_md <- citations_md("Datasets", peer_only = FALSE)
 
 cv_md <- glue::glue('---
 title: Curriculum Vitae
@@ -69,9 +70,13 @@ title: Curriculum Vitae
 ## Publications
 
 {publications_md}
+
+## Curated Biodiversity Data
+
+{datasets_md}
 ')
 
 writeLines(cv_md, "content/cv/index.md")
 message("Wrote content/cv/index.md from Google Sheets (", nrow(education), " education, ",
         nrow(work), " work, ", nrow(leadership), " leadership, ", nrow(awards), " awards, ",
-        nrow(certifications), " certifications entries; presentations/publications from Sheets).")
+        nrow(certifications), " certifications entries; presentations/publications/datasets from Sheets).")

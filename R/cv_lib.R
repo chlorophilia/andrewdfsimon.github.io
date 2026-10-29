@@ -17,7 +17,8 @@ sheet_ids <- list(
   Awards         = "1cRU0-a9tYSgKipazUV_FHOPgqiqhK8ikZ_OFB1CE3vU",
   Certifications = "1rv1EJuD3hzt2SzbeSOUkmiJ3llaK3cMYGAx8LuEpsn8",
   Presentations  = "1p_3405v6NkrZEGqXOLmteXBeovMsTirQNEpiSQDqmvw",
-  Publications   = "1gEblFCo3xv83kw7G_JFSi5Cy9sKZCCHPBdCrUJxLvI4"
+  Publications   = "1gEblFCo3xv83kw7G_JFSi5Cy9sKZCCHPBdCrUJxLvI4",
+  Datasets       = "1AICvhrEwt4vo4YZ3Xsn3SvZgjKfDtZ-DC-PWcn7fz3s"
 )
 
 fetch_sheet <- function(name) {
@@ -91,8 +92,14 @@ entries_md <- function(df, fmt) {
 # (NA propagates through filter()), so a newly added row missing that one field
 # simply never appeared on the site. Blanks are now treated as "peer" and
 # reported; rows with some other category are dropped, but loudly.
-citations_md <- function(sheet_name) {
+# Pass `peer_only = FALSE` for sheets (e.g. Datasets) where every row is shown
+# regardless of `category`.
+citations_md <- function(sheet_name, peer_only = TRUE) {
   df <- fetch_sheet(sheet_name)
+  if (!peer_only) {
+    df <- df %>% arrange(desc(year))
+    return(purrr::map_chr(seq_len(nrow(df)), ~ fmt_citation(df[.x, ])) %>% paste(collapse = "\n\n"))
+  }
   cat_col <- as.character(df$category)
   blank <- is.na(cat_col) | !nzchar(str_trim(cat_col))
   if (any(blank)) warning(sheet_name, ": ", sum(blank), " row(s) have a blank `category` ",
