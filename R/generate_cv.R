@@ -69,9 +69,11 @@ title: Curriculum Vitae
 
 ## Publications
 
+### Peer-reviewed Research
+
 {publications_md}
 
-## Curated Biodiversity Data
+### Curated Biodiversity Data
 
 {datasets_md}
 ')

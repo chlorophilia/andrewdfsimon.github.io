@@ -1,8 +1,8 @@
-# Regenerates content/bibliography/index.md. "Peer-reviewed Research",
-# "Curated Biodiversity Data" and "Presentations, Workshops" are pulled live
-# from the same Publications/Datasets/Presentations Sheets used by the CV (see
-# R/generate_cv.R), so the two pages can't drift apart. The remaining sections have no Sheet to source from and
-# are hand-maintained here.
+# Regenerates content/bibliography/index.md. "Publications" (Peer-reviewed
+# Research + Curated Biodiversity Data) and "Presentations, Workshops" are
+# pulled live from the same Publications/Datasets/Presentations Sheets used by
+# the CV (see R/generate_cv.R), so the two pages can't drift apart. The
+# remaining sections have no Sheet to source from and are hand-maintained here.
 
 source("R/cv_lib.R")
 
@@ -46,11 +46,13 @@ bibliography_md <- glue::glue('---
 title: Bibliography
 ---
 
-## Peer-reviewed Research
+## Publications
+
+### Peer-reviewed Research
 
 {publications_md}
 
-## Curated Biodiversity Data
+### Curated Biodiversity Data
 
 {datasets_md}
 
@@ -60,4 +62,4 @@ title: Bibliography
 {static_sections}')
 
 writeLines(bibliography_md, "content/bibliography/index.md")
-message("Wrote content/bibliography/index.md (Peer-reviewed Research, Curated Biodiversity Data + Presentations, Workshops from Sheets; remaining sections static).")
+message("Wrote content/bibliography/index.md (Publications + Presentations, Workshops from Sheets; remaining sections static).")

@@ -216,6 +216,15 @@ a.carousel-card:hover {
     border-bottom: 1px solid color-mix(in srgb, currentColor 18%, transparent);
 }
 
+/* Sub-sections within a CV section (e.g. Publications > Curated Biodiversity
+   Data): smaller, unruled, italic so they read as children of the h2. */
+.content:has(.cv-header) h3 {
+    font-size: 0.95rem;
+    font-weight: 600;
+    font-style: italic;
+    margin: 1.6rem 0 0.8rem;
+}
+
 /* Previous/next post links at the foot of a research post: light up in the
    site's brightest accent (fully saturated lichen green) on hover. */
 .research-pager-link:hover {
