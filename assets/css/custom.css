@@ -153,6 +153,12 @@ a.carousel-card:hover {
     .hextra-footer {
         display: none !important;
     }
+
+    /* The lichen-green link accent (especially its brighter dark-mode
+       variant) washes out on white paper — print CV links in a dark cyan. */
+    .content:has(.cv-header) a {
+        color: #0b6477 !important;
+    }
 }
 
 /* ---- CV entry layout ----
