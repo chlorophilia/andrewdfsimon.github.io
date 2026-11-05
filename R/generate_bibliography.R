@@ -15,6 +15,10 @@ static_sections <- '
 
 **A.D.F. Simon**, A. Chang, J. Whitehead, E. Humphrey, E. Morien, A. van Asselt, M. Webber (In Review) Linnaean and Darwinian shortfalls limit long-term monitoring of Salish Sea diatoms.
 
+## In Prep
+
+**A.D.F. Simon**, P. Baines, S. Haughian, C. Miller, A.R. Nilsson, R. Silva Espejo, S.E. Stehn, I.S. Stepanchikova, G. Tagirdzhanova, T. Thai, J. Walton, C. Scheidegger, A. Arsenault, T. Spribille (In Prep.) Population metagenomics of the globally imperilled boreal felt lichen (*Erioderma pedicellatum*).
+
 ## In the Media
 
 S. Reid (2025, October 16) [This Idyllic Canadian Island Is the Pacific Northwest’s Best-Kept Secret](https://www.vogue.com/article/galiano-island-canada-travel-guide). Vogue.

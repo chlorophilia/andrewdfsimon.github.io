@@ -19,7 +19,7 @@ underlie niche dynamics in space and time.
 Presently, my PhD research focuses on the fascinating worlds of lichens and the physiological dynamics of
 symbioses under stress. 
 
-More practically, I contribute to the synthesis and curation of baseline biodiversity data supporting long-term ecological research, and apply ecological and genomic approaches to inform the conservation
+More practically, I contribute to the synthesis and [curation of baseline biodiversity data](/bibliography/#curated-biodiversity-data) supporting long-term ecological research, and apply ecological and genomic approaches to inform the conservation
 of endangered species. As an advocate for community science, I have a special interest in the development of frameworks
 supporting a networked, community-based approach to biodiversity research and monitoring. This work began
 with the [Biodiversity Galiano project](http://biogaliano.org) and continues through the organization I
