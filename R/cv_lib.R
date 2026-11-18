@@ -71,7 +71,10 @@ fmt_citation <- function(row) {
   author <- bold_self(row$author)
   cite <- glue("{author} ({row$year}) {clean_title(row$title)}. {journal}")
   if (!is.na(row$volume)) {
-    vol <- as.character(row$volume)
+    # For Presentations this column holds the venue location ("Virtual.",
+    # "Trieste, Italy."), often typed with a trailing period in the Sheet;
+    # a closing period is added below, so strip it here or it doubles up.
+    vol <- strip_trailing_period(as.character(row$volume))
     if (!is.na(row$number) && nzchar(row$number)) vol <- glue("{vol}({row$number})")
     cite <- glue("{cite}. {vol}")
   }

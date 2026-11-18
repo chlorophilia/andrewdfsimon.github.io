@@ -11,10 +11,6 @@ datasets_md      <- citations_md("Datasets", peer_only = FALSE)
 presentations_md <- citations_md("Presentations")
 
 static_sections <- '
-## In Review
-
-**A.D.F. Simon**, A. Chang, J. Whitehead, E. Humphrey, E. Morien, A. van Asselt, M. Webber (In Review) Linnaean and Darwinian shortfalls limit long-term monitoring of Salish Sea diatoms.
-
 ## In Prep
 
 **A.D.F. Simon**, P. Baines, S. Haughian, C. Miller, A.R. Nilsson, R. Silva Espejo, S.E. Stehn, I.S. Stepanchikova, G. Tagirdzhanova, T. Thai, J. Walton, C. Scheidegger, A. Arsenault, T. Spribille (In Prep.) Population metagenomics of the globally imperilled boreal felt lichen (*Erioderma pedicellatum*).

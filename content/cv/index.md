@@ -113,40 +113,40 @@ title: Curriculum Vitae
 
 ## Presentations, Workshops
 
-**A.D.F. Simon**, T. Spribille (2026) Boreal lichen photobiont networks: structure, stability, and vulnerability. 6th Annual CanFunNet Fungal Biology Conference.
+**A.D.F. Simon**, T. Spribille (2026) Boreal lichen photobiont networks: structure, stability, and vulnerability. 6th Annual CanFunNet Fungal Biology Conference. Virtual.
 
-**A.D.F. Simon**, T. Spribille (2026) Boreal lichen photobiont networks: structure, stability, and vulnerability. The 10th Symposium of the International Association for Lichenology.
+**A.D.F. Simon**, T. Spribille (2026) Boreal lichen photobiont networks: structure, stability, and vulnerability. The 10th Symposium of the International Association for Lichenology. Università degli Studi di Trieste, Trieste, Italy.
 
-**A.D.F. Simon**, T. Spribille (2026) When ITS does not tell the whole story: Genome-scale analyses of the threatened Canadian lichen Collema coniophilum. The 10th Symposium of the International Association for Lichenology.
+**A.D.F. Simon**, T. Spribille (2026) When ITS does not tell the whole story: Genome-scale analyses of the threatened Canadian lichen Collema coniophilum. The 10th Symposium of the International Association for Lichenology. Università degli Studi di Trieste, Trieste, Italy.
 
-A. Basman, **A.D.F. Simon**, R.A. Martin, C. Robinson, Q. Cronk (2026) Detecting extirpation: a localized approach to a global problem. State of the World's Plants and Fungi Symposium.
+A. Basman, **A.D.F. Simon**, R.A. Martin, C. Robinson, Q. Cronk (2026) Detecting extirpation: a localized approach to a global problem. State of the World's Plants and Fungi Symposium. Royal Botanical Gardens, Kew, London, UK.
 
-**A.D.F. Simon**, A. Basman, R.A. Martin, C. Robinson, Q. Cronk (2026) Detecting extirpation: a localized approach to a global problem. Canadian Botanical Association.
+**A.D.F. Simon**, A. Basman, R.A. Martin, C. Robinson, Q. Cronk (2026) Detecting extirpation: a localized approach to a global problem. Canadian Botanical Association. Carleton University, Ottawa, ON, Canada.
 
-**A.D.F. Simon** (2026) How to use iNaturalist to support the never-ending bioblitz. Saturna Island Marine Research and Education Society.
+**A.D.F. Simon** (2026) How to use iNaturalist to support the never-ending bioblitz. Saturna Island Marine Research and Education Society. Saturna Island, BC, Canada.
 
-**A.D.F. Simon**, S. Peters (2026) Biodiversity Galiano: retrospective (2016–2025). Nature Vancouver.
+**A.D.F. Simon**, S. Peters (2026) Biodiversity Galiano: retrospective (2016–2025). Nature Vancouver. Virtual.
 
-A. Basman, **A.D.F. Simon** (2025) Introduction to Bayesian statistics for ecology workshop: Detecting extirpation: a novel statistical framework supporting localized studies in biodiversity change. Hakai Institute.
+A. Basman, **A.D.F. Simon** (2025) Introduction to Bayesian statistics for ecology workshop: Detecting extirpation: a novel statistical framework supporting localized studies in biodiversity change. Hakai Institute. Virtual.
 
-**A.D.F. Simon**, A. Basman (2024) Frameworks for community engagement in long-term ecological research. Biodiversity Beyond Boundaries: mobilizing data for the future of our shared waters.
+**A.D.F. Simon**, A. Basman (2024) Frameworks for community engagement in long-term ecological research. Biodiversity Beyond Boundaries: mobilizing data for the future of our shared waters. Virtual.
 
-Q. Cronk, **A.D.F. Simon**, A. Basman, R. A. Martin, C. Robinson (2024) Operationalizing the study of local extirpation: the key role of herbaria. Botany 2024.
+Q. Cronk, **A.D.F. Simon**, A. Basman, R. A. Martin, C. Robinson (2024) Operationalizing the study of local extirpation: the key role of herbaria. Botany 2024. Grand Rapids, Michigan, USA.
 
 **A.D.F. Simon**, L.R. Best, B.M. Starzomski (2024) Community science and systematic sampling provide convergent 
-evidence for historical change in an island bumble bee community. Canadian Society for Ecology and Evolution.
+evidence for historical change in an island bumble bee community. Canadian Society for Ecology and Evolution. UBC, Vancouver, BC, Canada.
 
-**A.D.F. Simon** (2024) Using historical and community science data to detect change in bumble bee and vascular plant communities on Galiano Island. Community Science Webinar, Coastal Douglas-fir Conservation Partnership.
+**A.D.F. Simon** (2024) Using historical and community science data to detect change in bumble bee and vascular plant communities on Galiano Island. Community Science Webinar, Coastal Douglas-fir Conservation Partnership. Virtual.
 
-K. Andy, **A.D.F. Simon** (2024) The use of community science to develop integrated species distribution models. Community Science Webinar, Coastal Douglas-fir Conservation Partnership.
+K. Andy, **A.D.F. Simon** (2024) The use of community science to develop integrated species distribution models. Community Science Webinar, Coastal Douglas-fir Conservation Partnership. Virtual.
 
-M. Hessing-Lewis, F. Beaty, K. Collins, E. Paroo, **A.D.F. Simon**, T. Van Der Stap (2024) Biodiversity Data Mobilization in British Columbia and Washington Waters. Northeast Pacific Coastal Biodiversity Action Network.
+M. Hessing-Lewis, F. Beaty, K. Collins, E. Paroo, **A.D.F. Simon**, T. Van Der Stap (2024) Biodiversity Data Mobilization in British Columbia and Washington Waters. Northeast Pacific Coastal Biodiversity Action Network. Virtual.
 
-D.S. Srivastava, E. Menchions, T.M. Lavender, **A.D.F. Simon** (2023) Data Rescue Project: Janszen Legacy hack-a-thon. Canadian Institute for Ecology and Evolution, Living Data Project.
+D.S. Srivastava, E. Menchions, T.M. Lavender, **A.D.F. Simon** (2023) Data Rescue Project: Janszen Legacy hack-a-thon. Canadian Institute for Ecology and Evolution, Living Data Project. Squamish, BC, Canada.
 
-J. Aitken, D. Ayotte, A. Basman, H. Carpendale, M. D'Souza, J. Georgeson, **A.D.F. Simon**, L. Wilson (2023) Transboundary Gathering: Digital ecocultural mapping in the Salish Sea. Whiteswan Environmental, Institute for Multidisciplinary Ecological Research in the Salish Sea, Inclusive Design Research Centre.
+J. Aitken, D. Ayotte, A. Basman, H. Carpendale, M. D'Souza, J. Georgeson, **A.D.F. Simon**, L. Wilson (2023) Transboundary Gathering: Digital ecocultural mapping in the Salish Sea. Whiteswan Environmental, Institute for Multidisciplinary Ecological Research in the Salish Sea, Inclusive Design Research Centre. San Juan Island, Washington, USA.
 
-A. Gonzalez, M. I. O'Connor, A. E. Bates, K. Bobiwash, P. van Dam-Bates, I. Eckert, D. Gravel, J. Idrobo, L. J. Pollock, P. Sólymos, **A.D.F. Simon**, M. Slein, B. M. Starzomski, J. M. Sunday, E. W. Tekwa (2023) Canadian Biodiversity Observation Network Working Group. Canadian Institute for Ecology and Evolution.
+A. Gonzalez, M. I. O'Connor, A. E. Bates, K. Bobiwash, P. van Dam-Bates, I. Eckert, D. Gravel, J. Idrobo, L. J. Pollock, P. Sólymos, **A.D.F. Simon**, M. Slein, B. M. Starzomski, J. M. Sunday, E. W. Tekwa (2023) Canadian Biodiversity Observation Network Working Group. Canadian Institute for Ecology and Evolution. Quadra Island, BC, Canada.
 
 **A.D.F. Simon**, A. Basman (2023) Co-creating a biodiversity assessment framework. Howe Sound Conservation Network Gathering, Howe Sound Biosphere Region Initiative.
 
@@ -156,7 +156,7 @@ A. Gonzalez, M. I. O'Connor, A. E. Bates, K. Bobiwash, P. van Dam-Bates, I. Ecke
 
 **A.D.F. Simon**, P. Janszen (2022) The life and legacy of Harvey Janszen. Victoria Natural History Society, Friends of Ecological Reserves AGM.
 
-**A.D.F. Simon** (2022) Bumble bees in the southern Gulf Islands. Mayne Island Conservancy.
+**A.D.F. Simon** (2022) Bumble bees in the southern Gulf Islands. Mayne Island Conservancy. Virtual.
 
 **A.D.F. Simon** (2021) Salish Sea Symposium. Friday Harbour Labs, University of Washington.
 
@@ -164,15 +164,17 @@ C. Sandilands, L.D. Magner, **A.D.F. Simon** (2020) Storying climate change in t
 
 **A.D.F. Simon** (2019) Backyard biodiversity: a model for community-based biodiversity research. Valdes Island Conservancy AGM.
 
-**A.D.F. Simon** (2019) Eight ways YOU can contribute to biodiversity research and conservation. Galiano Library.
+**A.D.F. Simon** (2019) Eight ways YOU can contribute to biodiversity research and conservation. Galiano Library. Galiano Island, BC, Canada.
 
-**A.D.F. Simon** (2019) Implications of seasonal drought for plant-pollinator communities in the southern Gulf Islands. BC Protected Areas Research Forum.
+**A.D.F. Simon** (2019) Implications of seasonal drought for plant-pollinator communities in the southern Gulf Islands. BC Protected Areas Research Forum. Kamloops, BC, Canada.
 
 **A.D.F. Simon** (2018) The bumble bees of Galiano Island, BC. Entomological Society of America.
 
 ## Publications
 
 ### Peer-reviewed Research
+
+[**A.D.F. Simon**, A. Chang, E. Humphrey, E. Morien, A. van Asselt, J. Whitehead, M. Webber (2026) Linnaean and Darwinian shortfalls limit long-term monitoring of Salish Sea diatoms. Botany. 104(1-15).](https://www.researchgate.net/publication/418048035_Linnaean_and_Darwinian_shortfalls_limit_long-term_monitoring_of_Salish_Sea_diatoms)
 
 [M. Webber, E. Humphrey, A. van Asselt, A. Chang, E. Morien, **A.D.F. Simon** (2026) Diatoms (Bacillariophyta) of the Salish Sea, Northeast Pacific: annotated checklist and new species reports. Biodiversity Data Journal. 14(e189060).](https://doi.org/10.3897/BDJ.14.e189060)
 
@@ -189,6 +191,8 @@ C. Sandilands, L.D. Magner, **A.D.F. Simon** (2020) Storying climate change in t
 [**A.D.F. Simon**, H.E. Marx, B.M. Starzomski (2021) Phylogenetic restriction of plant invasion in drought-stressed environments: implications for insect-pollinated plant communities in water-limited ecosystems. Ecology and Evolution. 11(15).](https://doi.org/10.1002/ece3.7776)
 
 ### Curated Biodiversity Data
+
+[R. Bradley, E. Menchions, **A.D.F. Simon** (2026) Harvey Janszen Legacy Project (1973–1999). Canadensys.](https://doi.org/10.5886/x4itxw)
 
 [**A.D.F. Simon**, A. van Asselt, M. Webber (2026) Diatoms (Bacillariophyta) of the Salish Sea, Northeast Pacific: annotated checklist and new species reports. Global Biodiversity Information Facility (GBIF).](https://www.gbif.org/dataset/d41f9582-0b3e-4062-8ee0-31f0ba52ace1)
 
