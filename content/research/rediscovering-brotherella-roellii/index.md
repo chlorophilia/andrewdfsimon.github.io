@@ -3,6 +3,7 @@ title: "Finding an endangered moss again, nineteen years later"
 tags: ["bryophytes", "endangered species", "key biodiversity areas", "Squamish"]
 summary: "Researching the ecology of the endemic moss behind the Squamish River's recognition as a globally significant Key Biodiversity Area."
 image: "thumb.jpg"
+images: ["/research/rediscovering-brotherella-roellii/cover.jpg"]
 _build:
   render: always
   list: always

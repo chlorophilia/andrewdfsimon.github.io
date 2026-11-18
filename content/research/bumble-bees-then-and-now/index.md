@@ -3,6 +3,7 @@ title: "Bumble bees, then and now: what changed on Galiano Island"
 tags: ["bumble bees", "extirpation", "community science", "Galiano Island"]
 summary: "Museum specimens from the 1970s–2010s and five years of iNaturalist photos agree on the same answer: half of Galiano Island's historically known bumble bee community is likely gone, and one new species has moved in—and the free, crowd-sourced data turned out to be just as reliable as 47,896 trapped bees at saying so."
 image: "thumb.jpg"
+images: ["/research/bumble-bees-then-and-now/cover.jpg"]
 _build:
   render: never
   list: always

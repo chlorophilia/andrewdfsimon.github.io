@@ -20,7 +20,7 @@ awards <- fetch_sheet("Awards")
 # Location is intentionally dropped for awards — the funder, award name, and year
 # carry the line; city/province added repetitive noise.
 awards_md <- entries_md(awards, function(Award, Year, Organization, Location, Details, ...)
-  fmt_entry(what = Organization, when = Year, where = Award, why = Details))
+  fmt_entry(what = Award, when = Year, where = Organization, why = Details))
 
 certifications <- fetch_sheet("Certifications")
 certifications_md <- entries_md(certifications, function(Certification, Year, Organization, Details, ...)

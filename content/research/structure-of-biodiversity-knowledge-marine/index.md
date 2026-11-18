@@ -3,6 +3,7 @@ title: "The structure of biodiversity knowledge, Part I: marine animals of Galia
 tags: ["community science", "Galiano Island", "biodiversity science", "marine zoology"]
 summary: "A sea anemone collected in 1859, one diver's 16,000 records, and 686 species: the first of three posts on what ten years of Biodiversity Galiano actually built—not a species list, but a graph of who was paying attention, and when."
 image: "thumb.jpg"
+images: ["/research/structure-of-biodiversity-knowledge-marine/cover.jpg"]
 _build:
   render: never
   list: always

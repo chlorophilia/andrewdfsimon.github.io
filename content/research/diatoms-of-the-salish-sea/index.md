@@ -3,6 +3,7 @@ title: "Revealing the invisible: a diatom baseline for the Salish Sea"
 tags: ["diatoms", "Salish Sea", "biodiversity science", "taxonomy", "eDNA"]
 summary: "Revealing 160 years of overlooked diatom diversity in the Salish Sea, and the challenges of harnessing that knowledge to monitor ecological change.."
 image: "thumb.jpg"
+images: ["/research/diatoms-of-the-salish-sea/trigonium.jpg"]
 _build:
   render: always
   list: always

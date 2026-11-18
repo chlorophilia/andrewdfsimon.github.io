@@ -3,6 +3,7 @@ title: "The structure of biodiversity knowledge, Part III: vascular plants of Ga
 tags: ["community science", "Galiano Island", "biodiversity science", "botany"]
 summary: "Harvey Janszen's decades of fieldwork, a decade-old identification correction, and 800 species: the last of three posts on ten years of Biodiversity Galiano—and the one that leads directly into a later paper about local extinction."
 image: "thumb.jpg"
+images: ["/research/structure-of-biodiversity-knowledge-plants/cover.jpg"]
 _build:
   render: never
   list: never
