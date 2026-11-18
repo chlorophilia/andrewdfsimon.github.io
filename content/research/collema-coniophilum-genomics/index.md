@@ -1,5 +1,5 @@
 ---
-title: "When ITS does not tell the whole story: three hidden lineages within a threatened lichen"
+title: "When ITS does not tell the whole story: three hidden fungal lineages hide within one threatened lichen"
 tags: ["lichens", "genomics", "conservation", "symbiosis"]
 summary: "The documented range of Collema coniophilum has expanded fourfold since the species was described, prompting a genome-scale conservation assessment"
 image: "thumb.jpg"
