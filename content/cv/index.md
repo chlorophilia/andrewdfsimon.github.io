@@ -148,27 +148,27 @@ J. Aitken, D. Ayotte, A. Basman, H. Carpendale, M. D'Souza, J. Georgeson, **A.D.
 
 A. Gonzalez, M. I. O'Connor, A. E. Bates, K. Bobiwash, P. van Dam-Bates, I. Eckert, D. Gravel, J. Idrobo, L. J. Pollock, P. Sólymos, **A.D.F. Simon**, M. Slein, B. M. Starzomski, J. M. Sunday, E. W. Tekwa (2023) Canadian Biodiversity Observation Network Working Group. Canadian Institute for Ecology and Evolution. Quadra Island, BC, Canada.
 
-**A.D.F. Simon**, A. Basman (2023) Co-creating a biodiversity assessment framework. Howe Sound Conservation Network Gathering, Howe Sound Biosphere Region Initiative.
+**A.D.F. Simon**, A. Basman (2023) Co-creating a biodiversity assessment framework. Howe Sound Conservation Network Gathering, Howe Sound Biosphere Region Initiative. West Vancouver, BC, Canada.
 
-**A.D.F. Simon**, A. Basman (2022) Biodiversity beyond boundaries: building capacity for pluralistic biodiversity research. Salish Sea Ecosystem Conference.
+**A.D.F. Simon**, A. Basman (2022) Biodiversity beyond boundaries: building capacity for pluralistic biodiversity research. Salish Sea Ecosystem Conference. Virtual.
 
-**A.D.F. Simon**, D.M. Gibbs, A. Lamb (2022) Toward an atlas of Salish Sea biodiversity. Wonders of the Salish Sea.
+**A.D.F. Simon**, D.M. Gibbs, A. Lamb (2022) Toward an atlas of Salish Sea biodiversity. Wonders of the Salish Sea. Virtual.
 
-**A.D.F. Simon**, P. Janszen (2022) The life and legacy of Harvey Janszen. Victoria Natural History Society, Friends of Ecological Reserves AGM.
+**A.D.F. Simon**, P. Janszen (2022) The life and legacy of Harvey Janszen. Victoria Natural History Society, Friends of Ecological Reserves AGM. Virtual.
 
 **A.D.F. Simon** (2022) Bumble bees in the southern Gulf Islands. Mayne Island Conservancy. Virtual.
 
-**A.D.F. Simon** (2021) Salish Sea Symposium. Friday Harbour Labs, University of Washington.
+**A.D.F. Simon** (2021) Salish Sea Symposium. Friday Harbour Labs, University of Washington. San Juan Island, Washington, USA.
 
-C. Sandilands, L.D. Magner, **A.D.F. Simon** (2020) Storying climate change in the Salish Sea. Huxley College of the Environment, Western Washington University, Salish Sea Institute.
+C. Sandilands, L.D. Magner, **A.D.F. Simon** (2020) Storying climate change in the Salish Sea. Huxley College of the Environment, Western Washington University, Salish Sea Institute. Bellingham, Washington, USA.
 
-**A.D.F. Simon** (2019) Backyard biodiversity: a model for community-based biodiversity research. Valdes Island Conservancy AGM.
+**A.D.F. Simon** (2019) Backyard biodiversity: a model for community-based biodiversity research. Valdes Island Conservancy AGM. Galiano Island, BC, Canada.
 
 **A.D.F. Simon** (2019) Eight ways YOU can contribute to biodiversity research and conservation. Galiano Library. Galiano Island, BC, Canada.
 
 **A.D.F. Simon** (2019) Implications of seasonal drought for plant-pollinator communities in the southern Gulf Islands. BC Protected Areas Research Forum. Kamloops, BC, Canada.
 
-**A.D.F. Simon** (2018) The bumble bees of Galiano Island, BC. Entomological Society of America.
+**A.D.F. Simon** (2018) The bumble bees of Galiano Island, BC. Entomological Society of America. Vancouver, BC, Canada.
 
 ## Publications
 
