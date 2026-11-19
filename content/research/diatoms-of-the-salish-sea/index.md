@@ -35,5 +35,5 @@ Closing these gaps requires integrative taxonomy, bringing together microscopy, 
 
 <div class="figure">
 <img src="cover.jpg" alt="Andrzeja fenestrata, a diatom recently detected in the Salish Sea" />
-<p class="caption">The recently described <em>Andrzeja fenestrata</em>, newly discovered in the Salish Sea, offers one example of the overlooked diversity that such partnerships can bring to light. Credit: Mark Webber, Dr. Elaine Humphrey (CC-BY 4.0).</p>
+<p class="caption">The recently described <em>Andrzeja fenestrata</em>, newly reported in the Salish Sea, offers one example of the overlooked diversity that community partnerships can bring to light. Credit: Mark Webber, Dr. Elaine Humphrey (CC-BY 4.0).</p>
 </div>
