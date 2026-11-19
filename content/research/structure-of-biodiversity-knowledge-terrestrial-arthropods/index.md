@@ -3,7 +3,7 @@ title: "The structure of biodiversity knowledge, Part II: terrestrial arthropods
 tags: ["community science", "Galiano Island", "biodiversity science", "entomology"]
 summary: "A chef's Instagram moths, a professor's cabin full of specimens, and 1,520 species: the second of three posts on ten years of Biodiversity Galiano, and what a network diagram reveals that a species list can't."
 image: "thumb.jpg"
-images: ["/research/structure-of-biodiversity-knowledge-terrestrial-arthropods/cover.jpg"]
+images: ["https://chlorophilia.github.io/andrewdfsimon.github.io/research/structure-of-biodiversity-knowledge-terrestrial-arthropods/cover.jpg"]
 _build:
   render: never
   list: never

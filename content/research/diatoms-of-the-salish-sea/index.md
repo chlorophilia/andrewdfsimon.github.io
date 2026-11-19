@@ -3,7 +3,7 @@ title: "Revealing the invisible: a diatom baseline for the Salish Sea"
 tags: ["diatoms", "Salish Sea", "biodiversity science", "taxonomy", "eDNA"]
 summary: "Revealing 160 years of overlooked diatom diversity in the Salish Sea, and the challenges of harnessing that knowledge to monitor ecological change.."
 image: "thumb.jpg"
-images: ["/research/diatoms-of-the-salish-sea/trigonium.jpg"]
+images: ["https://chlorophilia.github.io/andrewdfsimon.github.io/research/diatoms-of-the-salish-sea/trigonium.jpg"]
 _build:
   render: always
   list: always
@@ -19,7 +19,7 @@ In response, my colleagues and I recently established the first consolidated bas
 <p class="caption"><em>Trigonium quinquelobatum</em>, one of the new regional reports among the 924 taxa. Credit: Mark Webber, Dr. Elaine Humphrey (CC-BY 4.0).</p>
 </div>
 
-Though nearly invisible to the naked eye, diatoms are photosynthetic algae that form the foundation of marine food webs, sustaining fisheries on which Coast Salish peoples have relied for millennia. Their sensitivity to environmental change also makes them valuable indicators of ecosystem health. Yet knowledge of their diversity in the Salish Sea has remained scattered across historical literature, collections, and surveys. Consolidating these records was especially vital in a region home to some nine million people and facing growing pressures from urbanization, industry, and shipping.
+Though nearly invisible to the naked eye, diatoms are photosynthetic algae that form the foundation of marine food webs, sustaining fisheries on which Coast Salish peoples have relied for millennia. Their sensitivity to environmental change also makes them valuable indicators of ecosystem health. Yet knowledge of their diversity in the Salish Sea has remained scattered across historical literature, collections, and surveys. Consolidating these records was especially vital in this region: home to some nine million people and facing growing pressures from urbanization, industry, and shipping.
 
 But assembling the checklist was just the beginning of the challenge, which we addressed in [a second paper](https://www.researchgate.net/publication/418048035_Linnaean_and_Darwinian_shortfalls_limit_long-term_monitoring_of_Salish_Sea_diatoms) in *Botany*, part of its **UN Decade of Ocean Science for Sustainable Development** collection: **can 160 years of diatom records serve as a reliable baseline for monitoring ecological change?**
 

@@ -3,7 +3,7 @@ title: "Detecting extinction: from the local to the global scale"
 tags: ["extinction", "biodiversity science", "digitization", "Kew"]
 summary: "Kew's sixth State of the World's Plants and Fungi report documents efforts to understand and prevent biodiversity loss around the world, from the local to the global scale."
 image: "thumb.jpg"
-images: ["/research/detecting-extinction-global-to-local/cover.jpg"]
+images: ["https://chlorophilia.github.io/andrewdfsimon.github.io/research/detecting-extinction-global-to-local/cover.jpg"]
 aliases:
   - /research/detecting-extinction-at-two-scales/
 _build:

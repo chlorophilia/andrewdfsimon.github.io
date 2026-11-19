@@ -1,5 +1,5 @@
 # Configuration
-baseURL: "/" # TODO: set your real domain once you know it (custom domain vs. GitHub Pages project URL)
+baseURL: "/" # blogdown forces this to "/" while relativeUrls is true; see params.socialBaseURL
 title: Andrew D.F. Simon
 
 theme: "hextra"
@@ -77,6 +77,10 @@ menu:
         type: search
 
 params:
+  # Absolute site URL for social-card meta tags. Needed because relativeUrls
+  # (below) makes every generated URL relative, which social scrapers cannot
+  # resolve; layouts/partials/opengraph.html uses this to emit absolute og:url.
+  socialBaseURL: "https://chlorophilia.github.io/andrewdfsimon.github.io"
   description: Naturalist, biologist, biodiversity data scientist.
 
   navbar:
@@ -155,3 +159,4 @@ params:
       # inputPosition: top
       # lang: en
       # theme: noborder_dark
+

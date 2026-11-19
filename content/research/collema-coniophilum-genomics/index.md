@@ -3,7 +3,7 @@ title: "When ITS does not tell the whole story: three hidden fungal lineages hid
 tags: ["lichens", "genomics", "conservation", "symbiosis"]
 summary: "The documented range of Collema coniophilum has expanded fourfold since the species was described, prompting a genome-scale conservation assessment"
 image: "thumb.jpg"
-images: ["/research/collema-coniophilum-genomics/cover.jpg"]
+images: ["https://chlorophilia.github.io/andrewdfsimon.github.io/research/collema-coniophilum-genomics/cover.jpg"]
 _build:
   render: always
   list: always
